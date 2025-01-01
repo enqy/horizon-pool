@@ -1,0 +1,446 @@
+{
+    "manufacturer": "",
+    "name": "RK3566 A",
+    "pins": {
+        "0268c4d7-5018-4009-8e23-7928d9dfc587": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PMIC_SLEEP/TSADC_SHUT_M1/GPIO0_A2_D",
+            "swap_group": 0
+        },
+        "02d3d3f1-7195-48eb-abcc-86872b67f3e9": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX0_D0N/LVDS_TX0_D0N",
+            "swap_group": 0
+        },
+        "04c739de-4551-4ed7-9786-1e109cd7f78b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX1_CLKN",
+            "swap_group": 0
+        },
+        "087674bf-83c1-483b-a827-6cca38835673": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_D1P",
+            "swap_group": 0
+        },
+        "0a6c7507-76d9-4c2a-ad4a-5eb752cb2fb3": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "SARADC_AVDD_1V8",
+            "swap_group": 0
+        },
+        "0bc4a86e-6f9e-4cf4-8afd-0ef82fe7b6a0": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX0/LVDS_TX0_AVDD_1V8",
+            "swap_group": 0
+        },
+        "0df0b231-4bd6-40a9-8e09-04c78188833a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "SYSPLL_AVDD_0V9",
+            "swap_group": 0
+        },
+        "0eb07aff-ce51-421d-b8ea-b16b437c7d8f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PMUIO1",
+            "swap_group": 0
+        },
+        "11ede37f-1b8f-40e1-b206-5c0bd98b6489": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CAM_CLKOUT0/EBC_SDCE1/GMAC1_RXD0_M1/SPI3_CS1_M0/I2S1_LRCK_RX_M1/GPIO4_A7_D",
+            "swap_group": 0
+        },
+        "15ff5b56-25e9-43ba-8acb-a12ff5067bba": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX1_AVDD_1V8",
+            "swap_group": 0
+        },
+        "17f49e3c-b297-40fb-84b1-6d68834be7c3": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "FSPI_~CS0~/FLASH_~CS0~/GPIO1_D3_U",
+            "swap_group": 0
+        },
+        "17f8e19b-766f-4b35-ba89-02d8d7663487": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX1_D3P",
+            "swap_group": 0
+        },
+        "25b14243-c709-4667-9fde-ffd6076414dd": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "REFCLK_OUT/GPIO0_A0_D",
+            "swap_group": 0
+        },
+        "260c06a7-d715-4221-8001-bc0f1ff94cd7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_CLK0N",
+            "swap_group": 0
+        },
+        "272a579c-7f50-427b-9686-445d0c525164": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SARADC_VIN0",
+            "swap_group": 0
+        },
+        "2763e12e-ef87-4f54-9822-a730c0961daf": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX1_D3N",
+            "swap_group": 0
+        },
+        "2d88fcef-efa8-476e-bfeb-266cafd591b6": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX1_AVDD_0V9",
+            "swap_group": 0
+        },
+        "31a6c3f2-95f8-4f1d-af25-c7934e762097": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_AVDD_0V9",
+            "swap_group": 0
+        },
+        "333a342c-650b-4c6c-a25b-f7f84c674c8d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_D2P",
+            "swap_group": 0
+        },
+        "34fab4c2-93fe-4e72-b760-391266aa10f4": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_AVDD_1V8",
+            "swap_group": 0
+        },
+        "3851fbb1-84f8-4b43-9d98-8e35b037c0f1": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPU_PWREN/SATA_CP_POD/GPIO0_A6_D",
+            "swap_group": 0
+        },
+        "3e8b2512-b229-47e8-86ab-293330388545": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO0_D6_D",
+            "swap_group": 0
+        },
+        "3fd9e383-e41f-4e81-8108-cc03de003f87": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO0_D4_D",
+            "swap_group": 0
+        },
+        "426dc72c-61cd-4f66-b817-459084205735": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX0_D1P/LVDS_TX0_D1P",
+            "swap_group": 0
+        },
+        "48796a06-dadc-4e22-8cf3-5f247efbd687": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX0_D2P/LVDS_TX0_D2P",
+            "swap_group": 0
+        },
+        "4b6dda40-9bf8-4e18-9c48-bf934bb44f6f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "TSADC_SHUT_M0/TSADC_SHUT_ORG/GPIO0_A1_Z",
+            "swap_group": 0
+        },
+        "4e95437e-bc2d-4484-bf35-c33df782425c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~POR_U",
+            "swap_group": 0
+        },
+        "530c5c9e-a286-4561-9f43-acf37635bacb": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX0_CLKN/LVDS_TX0_CLKN",
+            "swap_group": 0
+        },
+        "58fd5ba2-a274-4ed6-8550-af2e86f106c8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_CLK1N",
+            "swap_group": 0
+        },
+        "5f5f9e25-8d2b-4d0f-b078-35ab57d3300f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_D3P",
+            "swap_group": 0
+        },
+        "626f894a-43c4-4bcf-9966-46f48efb6829": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "MULTI_PHY_AVDD_0V9",
+            "swap_group": 0
+        },
+        "649826ca-d933-47eb-a635-43a53e84f716": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_CLK0P",
+            "swap_group": 0
+        },
+        "6a792cb5-6e38-44b1-8ed1-58aa0173ba96": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX0_D3N/LVDS_TX0_D3N",
+            "swap_group": 0
+        },
+        "6c2a704b-3d7d-4964-b8d1-afbc2572de57": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CLK32K_IN/CLK32K_OUT0/GPIO0_B0_U",
+            "swap_group": 0
+        },
+        "6e7f47c2-9f87-4e60-89de-a3e1b40deb9b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_D3N",
+            "swap_group": 0
+        },
+        "70d3dc52-f8d2-4d05-af90-68751ba07fa1": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "FSPI_CLK/FLASH_ALE/GPIO1_D0_D",
+            "swap_group": 0
+        },
+        "716f45a4-c62b-4fad-a23d-78baf7c09927": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "FSPI_D3/FLASH_~CS1~/GPIO1_D4_U",
+            "swap_group": 0
+        },
+        "730ce042-1507-4014-aa61-02b1c6edf3f7": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "FSPI_D1/FLASH_~RD~/GPIO1_D2_U",
+            "swap_group": 0
+        },
+        "7332d01e-9559-4e78-94cb-cf2e2a0d0e63": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "SYSPLL_AVSS",
+            "swap_group": 0
+        },
+        "77e11117-c1ad-47cd-8b25-fbf083a270de": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO0_D5_D",
+            "swap_group": 0
+        },
+        "7aa3db45-cbdc-45d6-a918-7582f01e6967": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PMU_VDD_LOGIC_0V9",
+            "swap_group": 0
+        },
+        "810702e1-df17-409a-9a3d-f87b76a85a52": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX1_D2P",
+            "swap_group": 0
+        },
+        "81be4abd-151d-4655-be21-21872a3ee360": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "MULTI_PHY_AVDD_1V8",
+            "swap_group": 0
+        },
+        "83b913f5-7ed3-4056-8e03-f977a57b3d9c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SARADC_VIN3",
+            "swap_group": 0
+        },
+        "85115b8d-b8ab-4963-a73d-68424e4a8adf": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "FSPI_D0/FLASH_RDY/GPIO1_D1_U",
+            "swap_group": 0
+        },
+        "8562e4a9-d1c1-4170-9591-0b8345780945": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX1_D1N",
+            "swap_group": 0
+        },
+        "8733cccf-3b3d-407b-a2de-314aa294641a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX0_D1N/LVDS_TX0_D1N",
+            "swap_group": 0
+        },
+        "891e9c34-6ba7-4f94-a244-677b7e521cd9": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PMUIO2",
+            "swap_group": 0
+        },
+        "925a3c52-214e-441d-9610-63c306ee0ec5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_CLK1P",
+            "swap_group": 0
+        },
+        "95cae5c4-8555-4c46-8f5b-4e0fe657ef2d": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX1_CLKP",
+            "swap_group": 0
+        },
+        "96dcb0f9-796c-44ce-9755-f47ba28478fb": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX0_CLKP/LVDS_TX0_CLKP",
+            "swap_group": 0
+        },
+        "97233db3-3c44-42b1-af5b-65582cd721ca": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PMUPLL_AVDD_1V8",
+            "swap_group": 0
+        },
+        "980bbbc3-5bc4-44e6-bca7-a53e8903c4ce": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_D0N",
+            "swap_group": 0
+        },
+        "a01185a9-9424-455e-9bec-2a50ddb93a66": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX1_D1P",
+            "swap_group": 0
+        },
+        "a03977e0-2e30-4c71-afd0-4e888e5b951b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PMUPLL_AVDD_0V9",
+            "swap_group": 0
+        },
+        "aa157c95-80a8-45c3-a978-9c20d213ffa0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SARADC_VIN1",
+            "swap_group": 0
+        },
+        "ad7a29e2-e8e8-43a2-9d2a-d8aa04723f14": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO0_A3_U",
+            "swap_group": 0
+        },
+        "ae4baa5c-d386-46e6-9145-4dda5789b622": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX0_D3P/LVDS_TX0_D3P",
+            "swap_group": 0
+        },
+        "aea49273-2f73-48a1-a455-8196f894cddb": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX0_D2N/LVDS_TX0_D2N",
+            "swap_group": 0
+        },
+        "af0350f6-329d-4b16-bad0-bf6f8d6aeb81": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_D2N",
+            "swap_group": 0
+        },
+        "bc2fcfba-397d-421d-abe9-bace29932f45": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX0_D0P/LVDS_TX0_D0P",
+            "swap_group": 0
+        },
+        "c3177d83-0377-4170-9a6d-f23e2aed6a6a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX0/LVDS_TX0_AVDD_0V9",
+            "swap_group": 0
+        },
+        "c59bfee0-b7df-468c-b2f6-4325f390e218": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_D1N",
+            "swap_group": 0
+        },
+        "c5b6a0dd-f6f0-4967-b2ee-e7b9879e3a53": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CAM_CLKOUT1/EBC_SDCE2/GMAC1_RXD1_M1/SPI3_MISO_M0/I2S1_SDO1_M1/GPIO4_B0_D",
+            "swap_group": 0
+        },
+        "c60e3240-d464-4d4a-ab37-382a3718310d": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX1_D2N",
+            "swap_group": 0
+        },
+        "c679dfbe-584f-4e9e-afe5-5b16d2f53da0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "FLASH_VOL_SEL/GPIO0_A7_U",
+            "swap_group": 0
+        },
+        "c6d0b858-c248-4c0a-82f4-0cb7f49095ef": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "SYSPLL_AVDD_1V8",
+            "swap_group": 0
+        },
+        "c8d0c616-3f50-4df3-9c9f-87f6758514ca": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_D0P",
+            "swap_group": 0
+        },
+        "cd4058d2-3253-49b6-ac7d-1cb4cfa90716": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX1_D0N",
+            "swap_group": 0
+        },
+        "d3de50e9-170f-477d-a0fc-0c5793422b34": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PMUPLL_AVSS",
+            "swap_group": 0
+        },
+        "dec8aee0-8eaa-45ea-a779-8d2d77f8f66d": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX1_D0P",
+            "swap_group": 0
+        },
+        "e18745ac-15d5-4453-955d-92b6654a74e6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SARADC_VIN2",
+            "swap_group": 0
+        },
+        "ef68ccff-fee7-46b6-8ce8-32d7c9a2939c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO0_D3_D",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "065743d4-6df2-47bb-8de5-814c469005f3"
+}

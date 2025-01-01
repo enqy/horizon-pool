@@ -1,0 +1,188 @@
+{
+    "manufacturer": "",
+    "name": "RK3568 T",
+    "pins": {
+        "0e36569c-e307-498d-822d-9f24bb70ccba": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "USB3_HOST1_SSTXN/SATA1_TXN/QSGMII_TXN_M0",
+            "swap_group": 0
+        },
+        "0e45cc6d-45e3-4fe5-8be9-754859d8b969": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB3_OTG0_DP",
+            "swap_group": 0
+        },
+        "0e7ec58b-8060-446f-9117-3a28c0639092": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "USB3_AVDD_3V3",
+            "swap_group": 0
+        },
+        "116c5856-c0d0-4ded-9a2f-36e534dbad98": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB3_OTG0_VBUSDET",
+            "swap_group": 0
+        },
+        "138695a6-db05-4e40-87fa-f6029753f81a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MULTI_PHY0_REFCLKN",
+            "swap_group": 0
+        },
+        "1cb52c29-890a-46a2-b02a-dc77134be663": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB3_HOST1_SSRXN/SATA1_RXN/QSGMII_RXN_M0",
+            "swap_group": 0
+        },
+        "228c71b3-de2d-4cdb-a63b-c0cb1c7a6d25": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "USB3_OTG0_SSTXN/SATA0_TXN",
+            "swap_group": 0
+        },
+        "2dc263ee-b512-4749-bc94-2854e0406b0b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "USB3_HOST1_SSTXP/SATA1_TXP/QSGMII_TXP_M0",
+            "swap_group": 0
+        },
+        "3397b050-8703-4d2b-8275-2bccb1d37c74": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB3_OTG0_SSRXN/SATA0_RXN",
+            "swap_group": 0
+        },
+        "36a3d9f0-0bc9-49f7-8adf-26ec1b316d4d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB3_OTG0_SSRXP/SATA0_RXP",
+            "swap_group": 0
+        },
+        "39db93d9-346b-4074-8311-f958d8e9616e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB3_OTG0_ID",
+            "swap_group": 0
+        },
+        "3b1ae166-b323-48af-b170-c7a04b26608a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB3_HOST1_SSRXP/SATA1_RXP/QSGMII_RXP_M0",
+            "swap_group": 0
+        },
+        "4b2590d1-01a0-43ca-b95c-ecae67188b78": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "MULTI_PHY_AVDD_0V9",
+            "swap_group": 0
+        },
+        "4effe566-43c5-47f2-a179-9fe814e60b82": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PCIE20_TXP/SATA2_TXP/QSGMII_TXP_M1",
+            "swap_group": 0
+        },
+        "7c356339-8b2b-4435-991b-703f57495eeb": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PCIE20_RXP/SATA2_RXP/QSGMII_RXP_M1",
+            "swap_group": 0
+        },
+        "8ce8ce22-9c49-4ddd-8e32-29880ddc2a8d": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PCIE20_TXN/SATA2_TXN/QSGMII_TXN_M1",
+            "swap_group": 0
+        },
+        "93d1421f-be71-4228-86c4-6619af697252": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB3_OTG0_DM",
+            "swap_group": 0
+        },
+        "b11e3ede-ab27-455f-9375-a1c62e0ef2e7": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "USB3_OTG0_SSTXP/SATA0_TXP",
+            "swap_group": 0
+        },
+        "bb21976a-e203-4ea1-a931-f4e1dd7f40b0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB3_HOST1_DM",
+            "swap_group": 0
+        },
+        "c433fd07-ede8-4d2f-bdca-3e7dab19aa7f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PCIE20_RXN/SATA2_RXN/QSGMII_RXN_M1",
+            "swap_group": 0
+        },
+        "c439280e-4298-400f-83f1-2258fa000d2f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PCIE20_REFCLKN",
+            "swap_group": 0
+        },
+        "d4f7bb55-4aef-485e-917d-14bb72accb27": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MULTI_PHY1_REFCLKN",
+            "swap_group": 0
+        },
+        "dbdcdfa7-889f-4c4f-b223-04f4922900ab": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "USB3_AVDD_0V9",
+            "swap_group": 0
+        },
+        "e10b8eeb-4951-4f7e-9732-1be66cdfe939": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB3_HOST1_DP",
+            "swap_group": 0
+        },
+        "e19ac948-af1c-4fa0-82d3-e6a7afc629fa": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "MULTI_PHY_AVDD_0V9__1",
+            "swap_group": 0
+        },
+        "e6bf71de-60f2-426f-86b1-07a61b733775": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MULTI_PHY0_REFCLKP",
+            "swap_group": 0
+        },
+        "e6efedea-a59c-4851-9832-d7c1af7659eb": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MULTI_PHY1_REFCLKP",
+            "swap_group": 0
+        },
+        "f2512021-8f15-4dc0-8dd1-744c17d7e561": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "USB3_AVDD_1V8",
+            "swap_group": 0
+        },
+        "f29a525e-d1b0-451b-a3e4-3025f5bd48d1": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PCIE20_REFCLKP",
+            "swap_group": 0
+        },
+        "f97efb06-33d4-418d-baee-a06a345e781e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "MULTI_PHY_AVDD_1V8",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "0e5c0b54-cdf3-4232-8ec8-7e717007b82b"
+}

@@ -1,0 +1,142 @@
+{
+    "gates": {
+        "02c5dd44-fc77-463f-a100-3b83aef1bb8f": {
+            "name": "L",
+            "suffix": "L",
+            "swap_group": 0,
+            "unit": "c4fa45fa-acf8-408e-a9f2-4765b6044f73"
+        },
+        "09cbbaed-cda3-4abc-baa2-7df528e4ba84": {
+            "name": "H",
+            "suffix": "H",
+            "swap_group": 0,
+            "unit": "bb225657-c890-4b54-bba0-582e578c59c8"
+        },
+        "3adedb30-4289-4bb0-8e7a-56d1f74fff23": {
+            "name": "J",
+            "suffix": "J",
+            "swap_group": 0,
+            "unit": "82ec8ffa-bedc-417a-9ce7-4b4434dc51b1"
+        },
+        "455fdf7a-6f36-47de-b34a-74cb4f7aff14": {
+            "name": "Q",
+            "suffix": "Q",
+            "swap_group": 0,
+            "unit": "5ad0abf4-52b1-4fa1-8824-084e26dd9c8d"
+        },
+        "4893eec5-1d3d-4452-810e-23c65562f170": {
+            "name": "K",
+            "suffix": "K",
+            "swap_group": 0,
+            "unit": "e1286c78-6833-4702-ae6e-396600e83f63"
+        },
+        "4ccc45b7-5089-46d8-9973-da165e60ff99": {
+            "name": "E",
+            "suffix": "E",
+            "swap_group": 0,
+            "unit": "11f70bf1-269a-4498-bdbf-619abc09f71b"
+        },
+        "5a3b52ec-1950-4497-aab7-77bf18fcd32a": {
+            "name": "S",
+            "suffix": "S",
+            "swap_group": 0,
+            "unit": "14d2790a-38ba-4449-9251-f231b783de6e"
+        },
+        "6c1975fc-9143-44d5-80a4-fc6eeafb0346": {
+            "name": "B",
+            "suffix": "B",
+            "swap_group": 0,
+            "unit": "3c088669-976b-4737-b2d7-a0e08b0781bf"
+        },
+        "6ec38a50-b517-4f43-ad60-2ddd953470ad": {
+            "name": "U",
+            "suffix": "U",
+            "swap_group": 0,
+            "unit": "91878f55-d0ce-4b0b-85ff-4a059d546f18"
+        },
+        "73637aaa-6799-43a2-8647-323aeeea6681": {
+            "name": "N",
+            "suffix": "N",
+            "swap_group": 0,
+            "unit": "b916709c-9fe5-415e-bd5b-ff329daa6d92"
+        },
+        "7421b8a9-2d0e-436d-b108-1383ca9ca452": {
+            "name": "T",
+            "suffix": "T",
+            "swap_group": 0,
+            "unit": "0e5c0b54-cdf3-4232-8ec8-7e717007b82b"
+        },
+        "81cff6c0-822e-43b8-a162-09915d7b3594": {
+            "name": "C",
+            "suffix": "C",
+            "swap_group": 0,
+            "unit": "90bbc4f8-03ef-4732-ac2b-83dd8645ea60"
+        },
+        "938178fd-a564-4124-ac01-35e9d68bd731": {
+            "name": "O",
+            "suffix": "O",
+            "swap_group": 0,
+            "unit": "2d115d7e-4c14-48d0-a6cb-6e161f7873ad"
+        },
+        "a8ba88a2-6dbd-4f8e-8b54-7c054b96eee6": {
+            "name": "M",
+            "suffix": "M",
+            "swap_group": 0,
+            "unit": "8ba4a018-d626-43fb-9361-91874cbd8fce"
+        },
+        "a8be4f2b-44c8-427c-9034-f513da35ae94": {
+            "name": "P",
+            "suffix": "P",
+            "swap_group": 0,
+            "unit": "218411df-abf9-4660-aa8a-97c3f93a73b5"
+        },
+        "be63b281-36e4-47f5-9e20-5fbcbcdf430c": {
+            "name": "R",
+            "suffix": "R",
+            "swap_group": 0,
+            "unit": "4608a354-ddc1-4c96-88e1-c16c3ef20568"
+        },
+        "dbd0874a-e6f2-4ac4-bab6-9df372a8dca3": {
+            "name": "G",
+            "suffix": "G",
+            "swap_group": 0,
+            "unit": "a31ba18b-650d-423a-a7e4-d13a600ecb1e"
+        },
+        "e079eef7-c9c5-497f-8cde-b86d296d7315": {
+            "name": "I",
+            "suffix": "I",
+            "swap_group": 0,
+            "unit": "c3801d75-1968-445f-9ec5-a9c39e3a8ad6"
+        },
+        "e6d46139-2610-4751-a582-4150b8990b8b": {
+            "name": "V",
+            "suffix": "V",
+            "swap_group": 0,
+            "unit": "2431b276-b71a-4de7-a633-fb7bbbddc337"
+        },
+        "e8520c71-07eb-4a22-a940-073154f4f4f9": {
+            "name": "A",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "b19ab527-3326-4ebe-87bf-acb1134f6703"
+        },
+        "ea2d38d9-dc00-4fc7-87a6-ef4f2e955de0": {
+            "name": "F",
+            "suffix": "F",
+            "swap_group": 0,
+            "unit": "66b19bf5-eb45-453c-b5de-e631809fcf65"
+        },
+        "f7818e96-03b5-4ba3-907a-b2d1c31b6f56": {
+            "name": "D",
+            "suffix": "D",
+            "swap_group": 0,
+            "unit": "a0a17f71-c227-4fc3-a032-fd7f15810bbe"
+        }
+    },
+    "manufacturer": "",
+    "name": "RK3568",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "08cd2c65-c7f8-43fa-94d7-79f64a37775f"
+}

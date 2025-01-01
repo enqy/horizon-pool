@@ -1,0 +1,98 @@
+{
+    "manufacturer": "",
+    "name": "RK3568 D",
+    "pins": {
+        "29ddb919-2fa1-4b51-95d1-b3ea4ce8306b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DDRPHY_VDDQ__7",
+            "swap_group": 0
+        },
+        "2ffb88d4-ecbc-45e0-a43f-d17d2452e1dd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DDRPHY_VDDQL__2",
+            "swap_group": 0
+        },
+        "3402a044-0ccb-486d-b2e1-0205fde7fb94": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DDRPHY_VDDQ__2",
+            "swap_group": 0
+        },
+        "37f1ce99-1b35-4449-afee-68b07e391a5a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DDRPHY_VDDQL",
+            "swap_group": 0
+        },
+        "3e03c2bd-4ac8-4549-9943-5e16959895e4": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DDRPHY_VDDQ__6",
+            "swap_group": 0
+        },
+        "43f71496-91bf-4c75-99c3-586e44c6d6a1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DDRPHY_VDDQ__5",
+            "swap_group": 0
+        },
+        "4bf0851e-3384-4263-9fa8-dc0e5c2376b5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DDRPHY_VDDQ__4",
+            "swap_group": 0
+        },
+        "5c1a0c6d-28e3-4f37-8bae-91ede11757df": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DDRPHY_VDDQ__1",
+            "swap_group": 0
+        },
+        "841d6b11-9583-41e3-8d00-67cbf0bfd1b9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DDRPHY_VDDQL__5",
+            "swap_group": 0
+        },
+        "992cddd2-bc58-40a6-8fea-d5ac377f3ed5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DDRPHY_VDDQL__3",
+            "swap_group": 0
+        },
+        "aae2f7aa-ca12-4308-981e-218809966920": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DDR_AVSS",
+            "swap_group": 0
+        },
+        "b59a6691-23cc-4896-96e1-db7b0f8840ec": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DDRPHY_VDDQ",
+            "swap_group": 0
+        },
+        "c1516a2a-5465-49ce-8f9b-f3640afbc614": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DDRPHY_VDDQ__3",
+            "swap_group": 0
+        },
+        "c455d6fe-5010-4607-9741-591a15eb57a2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DDRPHY_VDDQL__4",
+            "swap_group": 0
+        },
+        "eb6d4190-e3a2-4a5b-bad1-393c2daaf3f7": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DDRPHY_VDDQL__1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "a0a17f71-c227-4fc3-a032-fd7f15810bbe"
+}

@@ -1,0 +1,242 @@
+{
+    "manufacturer": "",
+    "name": "RK3566 D",
+    "pins": {
+        "00d66053-19c5-4bbf-8858-e6bb2f1e429e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VOP_BT1120_D12/GMAC1_TXD1_M0/I2C3_SDA_M1/PWM11_IR_M0/GPIO3_B6_D",
+            "swap_group": 0
+        },
+        "01f9f87d-ce34-4730-a82d-95c84df1be40": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDMMC1_D1/UART6_TX_M0/GPIO2_A4_U",
+            "swap_group": 0
+        },
+        "0b717092-6716-4178-bb4b-46053935d4ed": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "UART1_~CTS~_M0/SPI1_MISO_M0/GPIO2_B6_U",
+            "swap_group": 0
+        },
+        "0c65ea35-014b-4e01-8110-d122f1857e35": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "UART1_~RTS~_M0/SPI1_CLK_M0/GPIO2_B5_U",
+            "swap_group": 0
+        },
+        "0e804191-f603-4e49-93b3-deb0fa896c31": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VOP_BT1120_D3/GMAC1_RXD2_M0/I2S3_LRCK_M0/SDMMC2_D3_M1/GPIO3_A4_D",
+            "swap_group": 0
+        },
+        "10499967-98df-46e6-a2f5-66bb94a202f0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VOP_BT1120_D9/GMAC1_RXDV_CRS_M0/I2C5_SCL_M0/PDM_SDI0_M2/GPIO3_B3_D",
+            "swap_group": 0
+        },
+        "25939827-ded5-4608-aa81-7f88e280d114": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDMMC1_CLK/UART9_TX_M0/GPIO2_B0_D",
+            "swap_group": 0
+        },
+        "263656ca-af9c-4376-be3f-8ea0f4225ed3": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDMMC0_D2/ARM_JTAG_TCK/UART5_~CTS~_M0/GPIO1_D7_U",
+            "swap_group": 0
+        },
+        "28d1f9a4-c87d-4246-a83e-3341a177cdea": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VOP_BT1120_D10/GMAC1_RXER_M0/I2C5_SDA_M0/PDM_SDI1_M2/GPIO3_B4_D",
+            "swap_group": 0
+        },
+        "31b9b0ce-017e-42ca-a23e-b8c0b7e99b1e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDMMC0_D0/UART2_TX_M1/UART6_TX_M1/PWM8_M1/GPIO1_D5_U",
+            "swap_group": 0
+        },
+        "3c0ec0d3-056e-4745-94a9-a853b317b822": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VOP_BT1120_D0/SPI1_CS0_M1/SDMMC2_D0_M1/GPIO3_A1_D",
+            "swap_group": 0
+        },
+        "3e73c548-f75e-4a16-af1b-aa418c944f67": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "UART2_TX_M0/GPIO0_D1_U",
+            "swap_group": 0
+        },
+        "3f3fbee2-6fe9-4a94-b2ef-8fd4f2660c6a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDMMC1_CMD/UART9_RX_M0/GPIO2_A7_U",
+            "swap_group": 0
+        },
+        "4d65457a-0f2c-454a-9601-dc628b401d00": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "UART1_RX_M0/GPIO2_B3_U",
+            "swap_group": 0
+        },
+        "4fbd6d36-6e7a-4a61-a0e4-94f8106252b4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VOP_BT1120_D15/SPI1_CLK_M1/UART5_RX_M1/I2S1_SCLK_RX_M2/GPIO3_C3_D",
+            "swap_group": 0
+        },
+        "592d36d9-73d1-484c-a2a6-0b3d30635dae": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDMMC0_D3/ARM_JTAG_TMS/UART5_~RTS~_M0/GPIO2_A0_U",
+            "swap_group": 0
+        },
+        "625720cc-782e-4ba1-9624-622175523ef5": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "UART1_TX_M0/GPIO2_B4_U",
+            "swap_group": 0
+        },
+        "63a33504-7c21-4201-93eb-4b12ede7dcd6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDMMC0_PWREN/SATA_MP_SWITCH/PCIE20_~CLKREQ~_M0/GPIO0_A5_D",
+            "swap_group": 0
+        },
+        "6df166a3-6746-4ecf-8375-175a0bab3b63": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VOP_BT1120_D14/SPI1_MISO_M1/UART5_TX_M1/I2S1_SDO3_M2/GPIO3_C2_D",
+            "swap_group": 0
+        },
+        "749ca784-a5ed-4c25-9d58-0f87e595d08b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDMMC1_DET/I2C4_SCL_M1/UART8_~CTS~_M0/GPIO2_B2_U",
+            "swap_group": 0
+        },
+        "7c321c33-e9a7-4ffb-8ce4-ebeed874e175": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VOP_BT1120_D13/SPI1_MOSI_M1/PCIE20_~PERST~_M1/I2S1_SDO2_M2/GPIO3_C1_D",
+            "swap_group": 0
+        },
+        "7d40e350-79e3-4ff0-85eb-b5d7542c8bc4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDMMC0_CLK/TEST_CLKOUT/UART5_TX_M0/GPIO2_A2_D",
+            "swap_group": 0
+        },
+        "7ea151fe-77dd-4ed3-aef0-0b5d8dca391f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDMMC1_D0/UART6_RX_M0/GPIO2_A3_U",
+            "swap_group": 0
+        },
+        "8a35d979-8e53-4f96-a380-abca27b540d6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VOP_BT1120_D1/GMAC1_TXD2_M0/I2S3_MCLK_M0/SDMMC2_D1_M1/GPIO3_A2_D",
+            "swap_group": 0
+        },
+        "8c4eeaa6-f4c0-4118-8749-3952ef448cbb": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDMMC1_D2/UART7_RX_M0/GPIO2_A5_U",
+            "swap_group": 0
+        },
+        "8c542ad9-3d76-4b04-9a73-59d95e331a71": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDMMC1_D3/UART7_TX_M0/GPIO2_A6_U",
+            "swap_group": 0
+        },
+        "8d547934-3e1e-4300-b26b-cac05904fc1f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "UART2_RX_M0/GPIO0_D0_U",
+            "swap_group": 0
+        },
+        "8e0f2ea4-59a4-4c27-b942-a63f6d8d40de": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VOP_BT1120_D11/GMAC1_TXD0_M0/I2C3_SCL_M1/PWM10_M0/GPIO3_B5_D",
+            "swap_group": 0
+        },
+        "9f39fc20-ad6f-441a-94f5-36a41b3d503a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VOP_BT1120_CLK/GMAC1_TXCLK_M0/I2S3_SDI_M0/SDMMC2_CLK_M1/GPIO3_A6_D",
+            "swap_group": 0
+        },
+        "a4f38372-4362-472c-9327-34efdded6f75": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDMMC0_D1/UART2_RX_M1/UART6_RX_M1/PWM9_M1/GPIO1_D6_U",
+            "swap_group": 0
+        },
+        "b2c721da-0abf-498d-8717-9f94ba0eaaf6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDMMC0_DET/SATA_CP_DET/GPIO0_A4_U",
+            "swap_group": 0
+        },
+        "c1c3df18-3c8e-4ddd-911f-f2351bcb27b7": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VOP_BT1120_D6/ETH1_REFCLKO_25M_M0/SDMMC2_PWREN_M1/GPIO3_B0_D",
+            "swap_group": 0
+        },
+        "c3dd46e9-d3ac-489f-b47a-1324dc11940e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VOP_BT1120_D4/GMAC1_RXD3_M0/I2S3_SDO_M0/SDMMC2_CMD_M1/GPIO3_A5_D",
+            "swap_group": 0
+        },
+        "d2504b45-1b52-4835-917a-d3ac7911f3c3": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDMMC0_CMD/PWM10_M1/UART5_RX_M0/GPIO2_A1_U",
+            "swap_group": 0
+        },
+        "d87a1ff5-75de-4d7c-b3d1-53c7a843914b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VOP_BT1120_D8/GMAC1_RXD1_M0/UART4_TX_M1/PWM9_M0/GPIO3_B2_D",
+            "swap_group": 0
+        },
+        "dbab1125-b8e2-4797-9d07-dff36b20f463": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VOP_BT1120_D5/GMAC1_RXCLK_M0/SDMMC2_DET_M1/GPIO3_A7_D",
+            "swap_group": 0
+        },
+        "de931af8-c7ac-4da4-a3f1-bd1a0c48cef1": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDMMC1_PWREN/I2C4_SDA_M1/UART8_~RTS~_M0/GPIO2_B1_D",
+            "swap_group": 0
+        },
+        "eae4a31d-0265-4846-8ea1-7717cf3a1d6e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VOP_BT1120_D2/GMAC1_TXD3_M0/I2S3_SCLK_M0/SDMMC2_D2_M1/GPIO3_A3_D",
+            "swap_group": 0
+        },
+        "f5e57747-6b78-45cf-90ea-c0708ac6fdda": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VOP_BT1120_D7/GMAC1_RXD0_M0/UART4_RX_M1/PWM8_M0/GPIO3_B1_D",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "ff275988-9628-4d67-bcda-9bcb68438581"
+}

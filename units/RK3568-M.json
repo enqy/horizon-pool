@@ -1,0 +1,68 @@
+{
+    "manufacturer": "",
+    "name": "RK3568 M",
+    "pins": {
+        "0917cd33-12bd-474a-8e09-2f20383e4209": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO4_C7_U",
+            "swap_group": 0
+        },
+        "4a39dcda-8624-41fa-aaac-9273be2e5d11": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO4_C3_D",
+            "swap_group": 0
+        },
+        "4d8df917-2dd4-4fb2-9890-c70e4bb80457": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCIO7",
+            "swap_group": 0
+        },
+        "6b0ddfdf-b8e7-4909-ac54-05cbc1e8a8f7": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO4_C6_D",
+            "swap_group": 0
+        },
+        "7e1660a1-d4fa-4fce-af92-c366d6902023": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO4_C5_D",
+            "swap_group": 0
+        },
+        "b1c3ce7c-3694-4bf1-81e4-a33d65fdc7c3": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO4_C4_D",
+            "swap_group": 0
+        },
+        "ce246be8-bc77-43c5-9ad9-edc803aa73cd": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO4_D1_U",
+            "swap_group": 0
+        },
+        "df194797-21d8-46c5-b756-a4e33c969927": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO4_D2_D",
+            "swap_group": 0
+        },
+        "ec30b33e-0d78-4e87-a3d5-39ad12e0e5e7": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO4_C2_D",
+            "swap_group": 0
+        },
+        "fe2efb84-e48e-4ad4-bff4-95f72ce9bf24": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO4_D0_U",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "8ba4a018-d626-43fb-9361-91874cbd8fce"
+}

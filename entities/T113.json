@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "63f85c51-c96a-41ba-8d79-e2ff2527e8bf": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "3f6bcd31-01d0-4e19-9fff-5816fcf53111"
+        }
+    },
+    "manufacturer": "Allwinner",
+    "name": "T113",
+    "prefix": "U",
+    "tags": [
+        "arm",
+        "cortex-a7",
+        "mpu",
+        "sip"
+    ],
+    "type": "entity",
+    "uuid": "e1c34431-3736-4041-9b72-adff485e3d02"
+}

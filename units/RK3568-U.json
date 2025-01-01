@@ -1,0 +1,50 @@
+{
+    "manufacturer": "",
+    "name": "RK3568 U",
+    "pins": {
+        "2066952c-cbf4-430f-bb30-956616a2808b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "USB2_AVDD_0V9",
+            "swap_group": 0
+        },
+        "26e470ad-2e21-4320-9ffb-8095963f71ad": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "USB2_AVDD_3V3",
+            "swap_group": 0
+        },
+        "337ed7ac-ea81-410e-8dbb-1db385f8a853": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB2_HOST2_DP",
+            "swap_group": 0
+        },
+        "6b92ab5f-f08e-430c-afc4-3aa3d4e192a9": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB2_HOST3_DM",
+            "swap_group": 0
+        },
+        "846f4d53-90b7-43e0-a2e8-85499a9390c4": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "USB2_AVDD_1V8",
+            "swap_group": 0
+        },
+        "cbe2b628-e901-4ddc-bed2-b2c5401c571c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB2_HOST2_DM",
+            "swap_group": 0
+        },
+        "d6f32a29-80aa-4b6c-95a0-cba6f81b220c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB2_HOST3_DP",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "91878f55-d0ce-4b0b-85ff-4a059d546f18"
+}

@@ -1,0 +1,68 @@
+{
+    "manufacturer": "",
+    "name": "RK3568 N",
+    "pins": {
+        "0c43163a-0458-4b02-abaf-370da9d56e17": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SARADC_VIN4",
+            "swap_group": 0
+        },
+        "117f861a-8e27-4f25-845b-22772002d3b9": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SARADC_VIN0",
+            "swap_group": 0
+        },
+        "54b31ca0-4bb0-4c30-b0b1-ba312aeaa234": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SARADC_VIN3",
+            "swap_group": 0
+        },
+        "844aa952-338c-4990-a353-766257c1e310": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SARADC_VIN7",
+            "swap_group": 0
+        },
+        "8e9e116e-4855-495b-985c-8da609be0e90": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SARADC_VIN2",
+            "swap_group": 0
+        },
+        "8fa8406d-9471-4b61-b564-697d7b79605b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SARADC_VIN5",
+            "swap_group": 0
+        },
+        "9dcb846d-34b4-4798-aa37-10e6fb944ab1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "OTP_VCC18",
+            "swap_group": 0
+        },
+        "b7d4e2dc-0e35-4c16-bf27-5e1795a12046": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "SARADC_AVDD_1V8",
+            "swap_group": 0
+        },
+        "da366e72-60c0-44be-95a2-2039a78cc3b5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SARADC_VIN1",
+            "swap_group": 0
+        },
+        "f2f42a33-ad3f-402b-bd49-cbcbbe96a9aa": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SARADC_VIN6",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b916709c-9fe5-415e-bd5b-ff329daa6d92"
+}

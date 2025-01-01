@@ -1,0 +1,86 @@
+{
+    "manufacturer": "",
+    "name": "RK3568 P",
+    "pins": {
+        "22e8ce39-9fe3-4aef-b25a-7a4acd39a210": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HDMI_TX_D1P",
+            "swap_group": 0
+        },
+        "2eba61dc-41b7-464c-bc34-6ddc458782d9": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HDMI_TX_CLKP",
+            "swap_group": 0
+        },
+        "2fa8ee51-e769-4d8d-8962-2717c4a4fe1b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HDMI_TX_CLKN",
+            "swap_group": 0
+        },
+        "37758066-20cc-4e9e-9bd5-6437c910d7f8": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HDMI_TX_D2P",
+            "swap_group": 0
+        },
+        "414cea11-7ce9-47c1-814e-3b5e417bb001": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HDMI_TX_D0P",
+            "swap_group": 0
+        },
+        "6276db8f-d2eb-4895-8ce1-0436915e5ac0": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "HDMI_TX_REXT",
+            "swap_group": 0
+        },
+        "697af809-dc97-4757-a1e0-2233ab71be44": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "HDMI_TX_AVDD_0V9__1",
+            "swap_group": 0
+        },
+        "a794abf4-adac-4376-ab4c-695b046a6623": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "HDMI_TX_AVDD_0V9",
+            "swap_group": 0
+        },
+        "aa43f3bf-d325-4838-9517-63a0d5e949cc": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HDMI_TX_D0N",
+            "swap_group": 0
+        },
+        "b3b8278b-8968-45f9-a28d-8d58931fa64a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HDMI_TX_D2N",
+            "swap_group": 0
+        },
+        "d5bcc1f9-35c2-42e3-aabe-b66477053a2c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "HDMI_TX_AVDD_1V8",
+            "swap_group": 0
+        },
+        "da200864-e98b-4086-99fa-ffaac3d878b7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "HDMI_TX_HPDIN",
+            "swap_group": 0
+        },
+        "ea0562e8-fcc2-4a6e-85b4-5a0ec154cd41": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HDMI_TX_D1N",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "218411df-abf9-4660-aa8a-97c3f93a73b5"
+}

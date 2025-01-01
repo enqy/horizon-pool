@@ -1,0 +1,92 @@
+{
+    "manufacturer": "",
+    "name": "RK3568 O",
+    "pins": {
+        "158b9a16-6361-4a0e-acc1-7194ad29ad50": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_D3P",
+            "swap_group": 0
+        },
+        "34f3f7ed-c5bf-4dff-8836-a2695bf10c5b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_CLK0N",
+            "swap_group": 0
+        },
+        "4afcddcf-5cf3-4ae0-b345-785c13241658": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_CLK0P",
+            "swap_group": 0
+        },
+        "4e9f2dc3-c14d-48d3-aff2-9091358b1725": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_D2P",
+            "swap_group": 0
+        },
+        "56a053b3-b30d-4763-81d9-448186ca675f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_AVDD_1V8",
+            "swap_group": 0
+        },
+        "68863897-10a1-49b2-9031-f576c1625ee4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_CLK1N",
+            "swap_group": 0
+        },
+        "73ee4d54-bd24-4e3b-97a4-abd11bc002e4": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_AVDD_0V9",
+            "swap_group": 0
+        },
+        "a3c08d22-7df8-481d-b957-2b391bffcae5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_CLK1P",
+            "swap_group": 0
+        },
+        "a50da70b-4182-488f-b2ce-a1cee875a93e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_D1N",
+            "swap_group": 0
+        },
+        "a7f146d9-3205-4e88-9b25-ed44eda6cb56": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_D0P",
+            "swap_group": 0
+        },
+        "cb86b92b-c792-47ea-992f-b0fb75dd8c32": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_D3N",
+            "swap_group": 0
+        },
+        "d2837be0-54f8-44c9-9b41-bb59a862c94b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_D2N",
+            "swap_group": 0
+        },
+        "d73c6d3a-7de4-4588-ac0d-6a11cd5ccde2": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_D0N",
+            "swap_group": 0
+        },
+        "ecbc558a-c3d3-434f-87d5-852841028d60": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_CSI_RX_D1P",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "2d115d7e-4c14-48d0-a6cb-6e161f7873ad"
+}

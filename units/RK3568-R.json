@@ -1,0 +1,80 @@
+{
+    "manufacturer": "",
+    "name": "RK3568 R",
+    "pins": {
+        "1b3333a1-8de1-4106-999d-edfd1e734cf7": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX1_D3N",
+            "swap_group": 0
+        },
+        "23933f1a-8c67-4495-9152-f7aa19de4b5e": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX1_D0P",
+            "swap_group": 0
+        },
+        "3373606e-270a-4605-abdc-553a60ef480a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX1_D2P",
+            "swap_group": 0
+        },
+        "427f7f6d-67d7-4f7d-b1a5-d1a5153e9973": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX1_CLKN",
+            "swap_group": 0
+        },
+        "4a6f6a1b-ef5a-4c5a-9fab-0d5250b14e9c": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX1_CLKP",
+            "swap_group": 0
+        },
+        "6450e3cf-7836-475a-9305-385bd1fb21b0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX1_AVDD_1V8",
+            "swap_group": 0
+        },
+        "6fc16556-4774-4462-b9ba-98365e5d4c23": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX1_D0N",
+            "swap_group": 0
+        },
+        "93c61003-f580-4cfa-82d2-b687e28dd15a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX1_AVDD_0V9",
+            "swap_group": 0
+        },
+        "d043ad40-dd50-493d-98c7-5edfc947e52c": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX1_D3P",
+            "swap_group": 0
+        },
+        "e8fb275e-fdd3-4234-8845-f9170ad6ce24": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX1_D2N",
+            "swap_group": 0
+        },
+        "f252538e-a81a-4cc7-a0f9-003ac03a9bc8": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX1_D1N",
+            "swap_group": 0
+        },
+        "fb901378-a1dc-425e-8ed8-6a106b028625": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX1_D1P",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "4608a354-ddc1-4c96-88e1-c16c3ef20568"
+}

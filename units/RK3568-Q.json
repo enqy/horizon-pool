@@ -1,0 +1,80 @@
+{
+    "manufacturer": "",
+    "name": "RK3568 Q",
+    "pins": {
+        "02d4dc96-b140-4e8f-8a38-aec65c54af93": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX0_CLKP/LVDS_TX0_CLKP",
+            "swap_group": 0
+        },
+        "0ca8cfeb-6f9e-46af-96f8-6f73d8f481f1": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX0_D2N/LVDS_TX0_D2N",
+            "swap_group": 0
+        },
+        "26b9757a-b33f-4db4-bab6-4f3182cf1849": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX0/LVDS_TX0_AVDD_1V8",
+            "swap_group": 0
+        },
+        "30693113-cb53-4eaf-bd7b-131c013d6043": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX0_D0N/LVDS_TX0_D0N",
+            "swap_group": 0
+        },
+        "374681f5-14aa-4cec-82d1-2ef1e2285ea0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX0/LVDS_TX0_AVDD_0V9",
+            "swap_group": 0
+        },
+        "5148418f-21ec-4a51-ae23-1bb35dbf070e": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX0_D1P/LVDS_TX0_D1P",
+            "swap_group": 0
+        },
+        "96c98387-6b6a-416b-b22e-9d250cd943dd": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX0_D2P/LVDS_TX0_D2P",
+            "swap_group": 0
+        },
+        "a4bf648e-d7f0-4196-a585-563bd689b898": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX0_D0P/LVDS_TX0_D0P",
+            "swap_group": 0
+        },
+        "c16c56b5-3ac4-4cbf-888f-d9877d0dc4da": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX0_D3P/LVDS_TX0_D3P",
+            "swap_group": 0
+        },
+        "d682cd5e-9d93-4032-b280-7062ec9a3957": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX0_D3N/LVDS_TX0_D3N",
+            "swap_group": 0
+        },
+        "f22b7f13-97d8-4b73-91f9-0d2638ccb3e9": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX0_CLKN/LVDS_TX0_CLKN",
+            "swap_group": 0
+        },
+        "f5a34f40-0b8c-4c23-97e0-64c2fe7d86e5": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MIPI_DSI_TX0_D1N/LVDS_TX0_D1N",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5ad0abf4-52b1-4fa1-8824-084e26dd9c8d"
+}

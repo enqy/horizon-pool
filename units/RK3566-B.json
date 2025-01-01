@@ -1,0 +1,464 @@
+{
+    "manufacturer": "",
+    "name": "RK3566 B",
+    "pins": {
+        "009ee08a-ba36-468c-bdaa-00166dd4b209": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB_HOST2_DM",
+            "swap_group": 0
+        },
+        "00a54462-2cbf-4968-822c-620d4ca6e214": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PWM14_M0/VOP_PWM_M1/GMAC1_MDC_M0/UART7_TX_M1/PDM_CLK1_M2/GPIO3_C4_D",
+            "swap_group": 0
+        },
+        "04a8487a-fe05-4520-83b3-b4ec5d7b00f2": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PWM2_M0/NPUAVS/UART0_TX/MCU_JTAG_TDI/GPIO0_C1_D",
+            "swap_group": 0
+        },
+        "0ffc4699-f0c7-41a9-b82c-c958302712d4": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HDMI_TX_CLKN",
+            "swap_group": 0
+        },
+        "107e7643-406c-44b2-bf29-2a6a92e71e8a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "USB_AVDD2_1V8",
+            "swap_group": 0
+        },
+        "1624afcb-e0b9-475e-94a0-a76a5cbe46ba": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "EDP_TX_D3P",
+            "swap_group": 0
+        },
+        "19473342-d2e4-46b6-b2b2-37c80f9076a2": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB_HOST2_DP",
+            "swap_group": 0
+        },
+        "1aa27edb-3243-4c79-8e20-f13c3568281e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PWM15_IR_M1/SPI3_MOSI_M1/I2S3_SCLK_M1/GPIO4_C3_D",
+            "swap_group": 0
+        },
+        "208fcf2d-19f3-49d8-b625-997a77cd9f82": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PCIE20_TXN/SATA2_TXN",
+            "swap_group": 0
+        },
+        "2252eb59-1448-4b99-ba7c-35601e6f8466": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PWM12_M0/GMAC1_TXEN_M0/UART3_TX_M1/PDM_SDI2_M2/GPIO3_B7_D",
+            "swap_group": 0
+        },
+        "232c3a75-dfd7-42cb-80a1-4868faf49148": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "HDMI_TX_HPDIN",
+            "swap_group": 0
+        },
+        "23c486d3-8560-43bf-ba82-d40cf5f49a7a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "EDP_TX_D0N",
+            "swap_group": 0
+        },
+        "2f53f17a-3038-4705-8ce6-8e8d8a00b8be": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HDMI_TX_D2N",
+            "swap_group": 0
+        },
+        "33801ed6-c3b3-447e-922b-5d4e258cfd05": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "HDMI_TX_REXT",
+            "swap_group": 0
+        },
+        "3e7d9026-3f95-4915-b288-10529ee17e1d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PWM0_M0/CPUAVS/GPIO0_B7_D",
+            "swap_group": 0
+        },
+        "3f96cef1-e760-403c-9d49-665befae88a1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "USB_AVDD1_1V8",
+            "swap_group": 0
+        },
+        "461b3f47-899a-4466-ba3c-93d520c3b5f7": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB_HOST3_DM",
+            "swap_group": 0
+        },
+        "4a4856c6-21bd-48c2-a2e1-2580620f8a25": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PCIE20_REFCLKN",
+            "swap_group": 0
+        },
+        "4b78f2e1-1a4b-42f1-bb3a-5e46a6c4105c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB_OTG0_DM",
+            "swap_group": 0
+        },
+        "4c271800-58df-4496-96ff-3d275390c25d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PWM12_M1/SPI3_MISO_M1/SATA1_ACT_LED/UART9_TX_M1/I2S3_SDO_M1/GPIO4_C5_D",
+            "swap_group": 0
+        },
+        "4dd15052-b8af-4692-a6b5-5c0a774eea54": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HDMI_TX_D0N",
+            "swap_group": 0
+        },
+        "5013fd4f-8557-4be4-a406-611081a18970": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB_OTG0_ID",
+            "swap_group": 0
+        },
+        "55cfe89d-65a0-4c02-9ae0-a079f4b593f1": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PWM3_IR/EDP_HPDIN_M1/MCU_JTAG_TMS/GPIO0_C2_D",
+            "swap_group": 0
+        },
+        "55efd502-2b7a-4b3e-951b-5db3140e9d0f": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HDMI_TX_D2P",
+            "swap_group": 0
+        },
+        "584b6eea-bee9-4c9a-a682-9f00c1fff4c8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PWM13_M1/SPI3_CS0_M1/SATA0_ACT_LED/UART9_RX_M1/I2S3_SDI_M1/GPIO4_C6_D",
+            "swap_group": 0
+        },
+        "5e4f85c5-4fc2-41e8-964b-e6e155ba74d1": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB_HOST3_DP",
+            "swap_group": 0
+        },
+        "60081750-9ae1-451c-97b9-b137cf66ffec": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ISP_FLASHTRIGOUT/EBC_SDCE0/GMAC1_TXEN_M1/SPI3_CS0_M0/I2S1_SCLK_RX_M1/GPIO4_A6_D",
+            "swap_group": 0
+        },
+        "614479d9-b4e8-4cd3-b345-e8b7eb963c9b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PCIE20_RXP/SATA2_RXP",
+            "swap_group": 0
+        },
+        "6d181b38-0b7c-4f56-ae6a-b75dd991883f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ISP_PRELIGHT_TRIG/EBC_SDCE3/GMAC1_RXDV_CRS_M1/I2S1_SDO2_M1/GPIO4_B1_D",
+            "swap_group": 0
+        },
+        "72a03800-e064-4b37-9d8d-922c6cfd3c7e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB3_HOST1_SSRXN/SATA1_RXN",
+            "swap_group": 0
+        },
+        "74a600fe-ea50-4467-9e83-5069bc006a30": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB3_HOST1_DP",
+            "swap_group": 0
+        },
+        "75659db8-161c-4fb1-8675-cbda8b4caf54": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "EDP_TX_D1P",
+            "swap_group": 0
+        },
+        "7df800a1-94b8-4856-82fc-508137b84206": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "USB_AVDD1_0V9",
+            "swap_group": 0
+        },
+        "7f06d6c5-9bb1-4d1a-885b-17668ac3911e": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PCIE20_TXP/SATA2_TXP",
+            "swap_group": 0
+        },
+        "80b83821-9d43-4bf3-9ed9-5ea7c60890da": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PWM7_IR/SPI0_CS0_M0/GPIO0_C6_D",
+            "swap_group": 0
+        },
+        "81b84a5d-2911-423f-82e3-30aba3a9dbc2": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PWM14_M1/SPI3_CLK_M1/I2S3_MCLK_M1/GPIO4_C2_D",
+            "swap_group": 0
+        },
+        "83c6b391-b1a9-4b35-9531-9ed6847bed88": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "USB3_HOST1_SSTXP/SATA1_TXP",
+            "swap_group": 0
+        },
+        "8497ce34-c695-4fc5-b812-f725a2278346": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "HDMI_TX_AVDD_1V8",
+            "swap_group": 0
+        },
+        "850290fb-c104-4126-ba25-d110c0cb765b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB3_HOST1_DM",
+            "swap_group": 0
+        },
+        "91e34390-9355-4c7d-86c2-924b793234fa": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "HDMITX_SCL/I2C5_SCL_M1/GPIO4_C7_U",
+            "swap_group": 0
+        },
+        "938d28a2-ec73-4867-8b5b-4bd3f3dfd6f2": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PCIE20_RXN/SATA2_RXN",
+            "swap_group": 0
+        },
+        "997c7d51-2577-4195-a03d-b849e6291c12": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "EDP_TX_D2P",
+            "swap_group": 0
+        },
+        "99da81ca-6fa5-4cdd-97a2-7e1028a9e0c9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "USB_AVDD1_3V3",
+            "swap_group": 0
+        },
+        "9d2670f1-1355-45cf-9efe-4335c8097d6b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PWM6/SPI0_MISO_M0/GPIO0_C5_D",
+            "swap_group": 0
+        },
+        "a233ea65-24ef-4d3b-9a76-8e16f1ba008a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "EDP_HPDIN_M0/SPDIF_TX_M2/SATA2_ACT_LED/I2S3_LRCK_M1/GPIO4_C4_D",
+            "swap_group": 0
+        },
+        "a99f95e2-94b3-4c29-8ee3-bb0e553b4b28": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PWM13_M0/GMAC1_MCLKINOUT_M0/UART3_RX_M1/PDM_SDI3_M2/GPIO3_C0_D",
+            "swap_group": 0
+        },
+        "b176402e-86c9-49d8-9eb3-9664588846c6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "HDMITX_CEC_M0/SPI3_CS1_M1/GPIO4_D1_U",
+            "swap_group": 0
+        },
+        "b5aa9a3c-7d40-4f81-8553-28596e08811e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PWM1_M0/GPUAVS/UART0_RX/GPIO0_C0_D",
+            "swap_group": 0
+        },
+        "b78b2499-e07f-48b7-93a5-9d8f5241d7bd": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "EDP_TX_D0P",
+            "swap_group": 0
+        },
+        "b78c131a-9c50-4f84-ab44-0fcc92e812e9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "HDMI_TX_AVDD_0V9_2",
+            "swap_group": 0
+        },
+        "c81cd91d-9498-4de1-859e-374be7f97b0a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "HDMITX_CEC_M1/PWM0_M1/UART0_~CTS~/GPIO0_C7_D",
+            "swap_group": 0
+        },
+        "c820f35c-c351-4766-bb7f-ee715830fcec": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PWM15_IR_M0/SPDIF_TX_M1/GMAC1_MDIO_M0/UART7_RX_M1/I2S1_LRCK_RX_M2/GPIO3_C5_D",
+            "swap_group": 0
+        },
+        "ca1f55ad-4a21-4987-958e-631ea2a12fd8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "EDP_TX_AUXP",
+            "swap_group": 0
+        },
+        "cb24e878-e026-4382-bf31-a6b9c2c6c387": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "USB_AVDD2_0V9",
+            "swap_group": 0
+        },
+        "cc312520-9d93-4a9f-b6f2-361b4a9906f0": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HDMI_TX_CLKP",
+            "swap_group": 0
+        },
+        "cecd5889-87e1-481e-bc78-174074cc5148": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "XOUT24M",
+            "swap_group": 0
+        },
+        "d2b235dd-4e05-41bf-b660-b23d73918b90": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "HDMI_TX_AVDD_0V9_1",
+            "swap_group": 0
+        },
+        "d41bfb90-1128-47b9-b73b-0f8b1ab6de89": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PWM4/VOP_PWM_M0/MCU_JTAG_~TRST~/GPIO0_C3_D",
+            "swap_group": 0
+        },
+        "d50c9a3f-9687-4f68-b8fa-af01e60dd7ab": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "USB_AVDD2_3V3",
+            "swap_group": 0
+        },
+        "d8525d5e-73b4-4689-93a9-e68524236bd8": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HDMI_TX_D1N",
+            "swap_group": 0
+        },
+        "dabe6565-49e5-4959-965e-f9993334ec24": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "EDP_TX_D3N",
+            "swap_group": 0
+        },
+        "db53e717-8973-47da-9222-07e8297cc3ff": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HDMI_TX_D1P",
+            "swap_group": 0
+        },
+        "e6093c7b-dfde-4eff-8ed7-af8af9ab9f1c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB_OTG0_VBUSDET",
+            "swap_group": 0
+        },
+        "e7a9c32a-eca6-4b0b-976c-09244c2afea9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "EDP_TX_AVDD_1V8",
+            "swap_group": 0
+        },
+        "e8a399ec-75c5-4826-872c-1b54a4d5644e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PCIE20_REFCLKP",
+            "swap_group": 0
+        },
+        "eb11d3e4-0267-4969-beb8-306d5ebf7fe8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "XIN24M",
+            "swap_group": 0
+        },
+        "ecd17cbf-63ab-4c03-80ce-ab8a333e765c": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "EDP_TX_D1N",
+            "swap_group": 0
+        },
+        "ecec2fd6-5904-4f25-a1d4-10c737b7c9be": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PWM5/SPI0_CS1_M0/UART0_~RTS~/GPIO0_C4_D",
+            "swap_group": 0
+        },
+        "ee7c8ca0-1b9f-4351-b14e-8386640f7da6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "HDMITX_SDA/I2C5_SDA_M1/GPIO4_D0_U",
+            "swap_group": 0
+        },
+        "eead9830-f59f-4167-ae2a-e70d341188f7": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HDMI_TX_D0P",
+            "swap_group": 0
+        },
+        "f0f55936-d848-4141-a318-1ab070d2b4af": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB3_HOST1_SSRXP/SATA1_RXP",
+            "swap_group": 0
+        },
+        "f25bfe7b-50b4-4352-9e6d-15f792049812": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "EDP_TX_AVDD_0V9",
+            "swap_group": 0
+        },
+        "f6e8c4aa-70f9-436b-8a59-5e810d917a39": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "USB3_HOST1_SSTXN/SATA1_TXN",
+            "swap_group": 0
+        },
+        "fa9343c4-7e19-4a74-bc76-25e6b0d24395": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB_OTG0_DP",
+            "swap_group": 0
+        },
+        "fbbd191e-60df-4998-b3c2-884def197e1f": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "EDP_TX_D2N",
+            "swap_group": 0
+        },
+        "fc19d332-4307-48fd-9929-85af1dfe5d85": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "EDP_TX_AUXN",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5f542d37-77f0-47d7-908f-808a8f7675af"
+}

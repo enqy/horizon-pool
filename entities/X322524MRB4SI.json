@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "50976b67-e62b-4d93-b091-fe56cabe2888": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a3068311-3204-4d91-a1d9-8a0ac94fe792"
+        }
+    },
+    "manufacturer": "YXC Crystal Oscillators",
+    "name": "X322524MRB4SI",
+    "prefix": "X",
+    "tags": [
+        "crystal"
+    ],
+    "type": "entity",
+    "uuid": "8814f8b0-2660-4812-85c5-300d66076ebe"
+}

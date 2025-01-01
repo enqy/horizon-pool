@@ -1,0 +1,92 @@
+{
+    "manufacturer": "",
+    "name": "RK3568 V",
+    "pins": {
+        "0684cc72-823f-4893-9354-46108663e69a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PCIE30_TX0P",
+            "swap_group": 0
+        },
+        "0b3d56f3-552a-4bf7-baec-5d2dc58b5bb7": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PCIE30_AVDD_0V9",
+            "swap_group": 0
+        },
+        "1859abb1-9fa9-4165-bb5d-fbcbc1340a7e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PCIE30_AVDD_1V8",
+            "swap_group": 0
+        },
+        "28604041-cdfc-4aa5-a700-71305f266f95": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PCIE30_AVDD_0V9__1",
+            "swap_group": 0
+        },
+        "398ae57e-b16f-417e-8ee4-9f55e0dcc56b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PCIE30_TX0N",
+            "swap_group": 0
+        },
+        "3e142e78-b803-49d9-a4f5-85812edf0809": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PCIE30_RX0N",
+            "swap_group": 0
+        },
+        "5de62995-2afc-4281-8466-8391c17557c6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "PCIE30_RESREF",
+            "swap_group": 0
+        },
+        "67a1e2b1-0332-4e9a-92b4-b5ff7f610c89": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PCIE30_REFCLKP_IN",
+            "swap_group": 0
+        },
+        "765109aa-6511-40b8-bc91-158cc5b1d446": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PCIE30_RX1N",
+            "swap_group": 0
+        },
+        "d651fe2e-f83b-4c6c-83b2-88d800904c0a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PCIE30_TX1N",
+            "swap_group": 0
+        },
+        "db67f7e6-2696-49ce-a8fb-e2b62fbfb391": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PCIE30_RX1P",
+            "swap_group": 0
+        },
+        "e60dc762-2873-4f5c-b98e-c6f6c237ae12": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PCIE30_RX0P",
+            "swap_group": 0
+        },
+        "e72dded0-4214-4ffc-bcdd-a3e9ed0b3872": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PCIE30_TX1P",
+            "swap_group": 0
+        },
+        "f2a4e8a6-d03c-4aa5-a2f1-d3dc79282a89": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PCIE30_REFCLKN_IN",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "2431b276-b71a-4de7-a633-fb7bbbddc337"
+}

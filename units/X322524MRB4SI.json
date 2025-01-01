@@ -1,0 +1,26 @@
+{
+    "manufacturer": "YXC Crystal Oscillators",
+    "name": "X322524MRB4SI",
+    "pins": {
+        "8fb9a3e9-34e3-48a2-85ea-61635d1804fb": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "9ad68d83-0e55-4d91-8463-eb56dd6945e0": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "XOUT",
+            "swap_group": 0
+        },
+        "e621a0c3-c561-4910-be6a-7dbf8970ccd3": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "XIN",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "a3068311-3204-4d91-a1d9-8a0ac94fe792"
+}

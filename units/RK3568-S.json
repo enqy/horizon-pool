@@ -1,0 +1,80 @@
+{
+    "manufacturer": "",
+    "name": "RK3568 S",
+    "pins": {
+        "13f5f76f-887e-427a-91e2-f4a037512d9b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "EDP_TX_D0N",
+            "swap_group": 0
+        },
+        "22c54abf-9646-4684-b922-b23aa7f21ba5": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "EDP_TX_AUXP",
+            "swap_group": 0
+        },
+        "3feb0824-4b04-4ec6-8d39-fb2fc433d9cf": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "EDP_TX_AVDD_1V8",
+            "swap_group": 0
+        },
+        "604dcb82-3fae-4d3c-9216-ae1fd8534cfe": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "EDP_TX_AVDD_0V9",
+            "swap_group": 0
+        },
+        "67dfa792-119c-4201-9f50-eef9bf4d6074": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "EDP_TX_D0P",
+            "swap_group": 0
+        },
+        "7776137e-9924-4146-a1bf-7df8ea864f95": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "EDP_TX_D1P",
+            "swap_group": 0
+        },
+        "7fb49798-e49c-40d9-9659-bbf58250723d": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "EDP_TX_D3P",
+            "swap_group": 0
+        },
+        "9a15ca49-730a-4be7-b57d-eca7f8e6118b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "EDP_TX_D1N",
+            "swap_group": 0
+        },
+        "b7b409e9-9031-4e29-b93b-9dd801f18f9c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "EDP_TX_AUXN",
+            "swap_group": 0
+        },
+        "c9de8f84-9d56-4286-bcda-dea72056bad9": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "EDP_TX_D2N",
+            "swap_group": 0
+        },
+        "ce09dbda-95ab-4bd2-b17f-208bebf4635e": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "EDP_TX_D3N",
+            "swap_group": 0
+        },
+        "f52066bd-61b1-4fa6-a020-032c222dfe49": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "EDP_TX_D2P",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "14d2790a-38ba-4449-9251-f231b783de6e"
+}

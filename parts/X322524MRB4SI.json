@@ -1,0 +1,54 @@
+{
+    "MPN": [
+        false,
+        "X322524MRB4SI"
+    ],
+    "datasheet": [
+        false,
+        "https://www.lcsc.com/datasheet/lcsc_datasheet_2411121006_YXC-Crystal-Oscillators-X322524MRB4SI_C70571.pdf"
+    ],
+    "description": [
+        false,
+        "24MHz Surface Mount Crystal 18pF ±10ppm ±20ppm SMD3225-4P Crystals ROHS"
+    ],
+    "entity": "8814f8b0-2660-4812-85c5-300d66076ebe",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "YXC Crystal Oscillators"
+    ],
+    "model": "0764632f-17ed-4237-a782-bf0cc29c17f1",
+    "orderable_MPNs": {
+        "5d978a4c-9338-494f-bc69-1f2be08904a6": "C70571"
+    },
+    "package": "b0a75c7c-ce84-4f5c-93ab-171ffa794dda",
+    "pad_map": {
+        "371f50f7-85c3-4446-8f25-a63560a7a56b": {
+            "gate": "50976b67-e62b-4d93-b091-fe56cabe2888",
+            "pin": "e621a0c3-c561-4910-be6a-7dbf8970ccd3"
+        },
+        "37c45036-05be-4c82-a028-564dc6614381": {
+            "gate": "50976b67-e62b-4d93-b091-fe56cabe2888",
+            "pin": "9ad68d83-0e55-4d91-8463-eb56dd6945e0"
+        },
+        "8d3a606b-53c3-46fe-9aaf-40d9c18f59de": {
+            "gate": "50976b67-e62b-4d93-b091-fe56cabe2888",
+            "pin": "8fb9a3e9-34e3-48a2-85ea-61635d1804fb"
+        },
+        "da38a9fe-5446-4cd9-9b80-e888527a327e": {
+            "gate": "50976b67-e62b-4d93-b091-fe56cabe2888",
+            "pin": "8fb9a3e9-34e3-48a2-85ea-61635d1804fb"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "crystal"
+    ],
+    "type": "part",
+    "uuid": "a33f9d39-3057-4866-bf06-e0939fbe5967",
+    "value": [
+        false,
+        "24MHz 18pF"
+    ]
+}

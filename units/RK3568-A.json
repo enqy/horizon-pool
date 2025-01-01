@@ -1,0 +1,548 @@
+{
+    "manufacturer": "",
+    "name": "RK3568 A",
+    "pins": {
+        "03e0306c-45ad-4cf6-bb46-c1b6a037c80b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS4__2",
+            "swap_group": 0
+        },
+        "075f1208-cf74-47c6-ba5f-349c88e41a03": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_CPU_COM",
+            "swap_group": 0
+        },
+        "0c704a84-6ff6-4217-943f-113eb3a189e8": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS4__6",
+            "swap_group": 0
+        },
+        "0c9581a0-298c-49c4-b297-f3c93040c5db": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS4__5",
+            "swap_group": 0
+        },
+        "0e12c0a0-4b3b-4fa3-a80e-2842820cc9fa": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_LOGIC__9",
+            "swap_group": 0
+        },
+        "101496ba-38b2-48a3-ad4d-586eadb98f30": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_CPU__5",
+            "swap_group": 0
+        },
+        "111b414a-f7a1-4e23-bbfd-e021e7e14060": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS4__1",
+            "swap_group": 0
+        },
+        "1409cb0d-4aa1-4b5b-9327-f424304187d7": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS3__13",
+            "swap_group": 0
+        },
+        "1435bc74-4ed1-4666-bfd4-939ad468aba2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS2__9",
+            "swap_group": 0
+        },
+        "170f2913-f1f0-48b8-a2fb-1aec91e6cd35": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS3__8",
+            "swap_group": 0
+        },
+        "19dfeef3-4663-4d76-a997-1c4c2dd3c3a1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS3__11",
+            "swap_group": 0
+        },
+        "2393594f-37f6-45b6-9a36-690df5d8984d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_NPU__4",
+            "swap_group": 0
+        },
+        "27760836-0fd2-4378-8ab1-e31e9ae9d63e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS1__3",
+            "swap_group": 0
+        },
+        "27ed25bd-f4c9-499e-939f-d9539006b52b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS2__10",
+            "swap_group": 0
+        },
+        "29bb7baf-e386-49d6-a0fa-9d988b73b9cd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS1__10",
+            "swap_group": 0
+        },
+        "2c3d0007-6df0-497f-a380-364eb9507fdf": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_GPU__1",
+            "swap_group": 0
+        },
+        "2fbb77af-691b-4428-abc8-66a155515c18": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS3__7",
+            "swap_group": 0
+        },
+        "316f1239-248f-4017-aa77-07438b25cf09": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS3__5",
+            "swap_group": 0
+        },
+        "319d10c1-ce72-4a9b-b281-7d8ee47f258b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS1__12",
+            "swap_group": 0
+        },
+        "33c4cea6-a0fe-470e-83ab-0279530e38fb": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS3__14",
+            "swap_group": 0
+        },
+        "382950bf-c495-457e-a23a-5c074d35165c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS1__14",
+            "swap_group": 0
+        },
+        "38aba9ff-eb10-4668-976e-4c2e37a85294": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_LOGIC__2",
+            "swap_group": 0
+        },
+        "3ecfec2b-5f53-4dec-af8c-fcc19cfc40ce": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS4__9",
+            "swap_group": 0
+        },
+        "435fc25d-c45d-4c61-8c4a-39920710af67": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS2__1",
+            "swap_group": 0
+        },
+        "4dd02605-ec71-4ad0-9d22-f2b139c2fdac": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS2__6",
+            "swap_group": 0
+        },
+        "4f5d48c2-3828-4d6e-8aeb-428820dcfcec": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS3__9",
+            "swap_group": 0
+        },
+        "5061c0b0-dbc3-4336-be2f-819df75c441e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS4__4",
+            "swap_group": 0
+        },
+        "513d3472-54f7-4d35-891d-9cf903142057": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS4__7",
+            "swap_group": 0
+        },
+        "53dedf90-b3b0-4ac3-ac13-f92653002b9e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS2__13",
+            "swap_group": 0
+        },
+        "54464160-ab0f-435c-a4b7-c4a2a19fb298": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_GPU",
+            "swap_group": 0
+        },
+        "582ac9f9-0267-494b-951d-aea2ab8d766a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS1__1",
+            "swap_group": 0
+        },
+        "59b6e1be-a506-4c0a-8056-4a54b58459f3": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS3__4",
+            "swap_group": 0
+        },
+        "5c795890-3c41-4141-b788-4c1ac7428758": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_CPU__9",
+            "swap_group": 0
+        },
+        "608daebf-b433-4177-a799-d43ab4bb4fa8": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS1__4",
+            "swap_group": 0
+        },
+        "6161c2cb-6128-44e7-a270-dcb66ce2c32d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS4__3",
+            "swap_group": 0
+        },
+        "619b4fdf-c447-4770-8fe9-fb2e8e33bb3f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS1__2",
+            "swap_group": 0
+        },
+        "6a7563b7-8268-45aa-973d-9d9e534ea8b6": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_LOGIC__5",
+            "swap_group": 0
+        },
+        "6b2ae0b9-6b1c-4a69-b2c1-d7a59f78dc2e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_CPU__6",
+            "swap_group": 0
+        },
+        "6bb91151-e8ff-4120-b2d7-8e63dc239398": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS4__12",
+            "swap_group": 0
+        },
+        "715d604e-d293-43e4-b74e-66e25f496192": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS4",
+            "swap_group": 0
+        },
+        "72667a1b-2868-47dd-a230-0dabb5067977": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_LOGIC__3",
+            "swap_group": 0
+        },
+        "768f349c-63d0-49a8-921e-467fac5925a9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_CPU__7",
+            "swap_group": 0
+        },
+        "77caf1f1-1bda-475e-a512-3e3bed5c3b63": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS2__8",
+            "swap_group": 0
+        },
+        "78dbc62a-7917-4774-a311-8f0d6eef2f13": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_LOGIC__4",
+            "swap_group": 0
+        },
+        "7b33eec3-773d-4d2c-8e87-4fa2516b715d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS1__13",
+            "swap_group": 0
+        },
+        "7db3923e-fc26-4384-89ff-7f29c7088756": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_NPU",
+            "swap_group": 0
+        },
+        "83eb5d34-efec-446f-ae14-f5d91e22b103": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_LOGIC__6",
+            "swap_group": 0
+        },
+        "845dd423-f2d5-4d61-bacc-8dce5517c030": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS3__12",
+            "swap_group": 0
+        },
+        "848d4fe4-b0c5-402e-8e22-c0068e73cb7b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS2__14",
+            "swap_group": 0
+        },
+        "864e24f1-2a0a-4d4d-865c-74fc4f42151b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_CPU__4",
+            "swap_group": 0
+        },
+        "8c29c5b5-40dd-42bb-8e32-a1b9376076b5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS3__6",
+            "swap_group": 0
+        },
+        "97301480-7172-408d-9559-7cab4ef646bc": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS1__11",
+            "swap_group": 0
+        },
+        "9864e2b8-972a-4af0-9d38-ec65a135c6b4": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_NPU__3",
+            "swap_group": 0
+        },
+        "9c27d721-d7ed-463e-b356-37df9e0bfb24": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_GPU__4",
+            "swap_group": 0
+        },
+        "9ca37ec7-fda3-4192-b567-95abc956fad2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS1",
+            "swap_group": 0
+        },
+        "9f636517-6270-430a-ba8a-7a1d9cc868b5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_CPU__8",
+            "swap_group": 0
+        },
+        "a0673b1e-6796-4569-a7f7-75e65a5f3226": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_CPU",
+            "swap_group": 0
+        },
+        "a1411a90-4078-4f57-8fe1-94fd7861779b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_LOGIC__7",
+            "swap_group": 0
+        },
+        "a2467e54-823d-4e3e-8ef3-ef9cd0dbfc3e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_CPU__3",
+            "swap_group": 0
+        },
+        "a31ee06a-a5c9-43f2-99ce-0811b2c94005": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS1__7",
+            "swap_group": 0
+        },
+        "a6bf24b4-0f3a-47e4-849a-bab34320eab8": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_LOGIC",
+            "swap_group": 0
+        },
+        "a70a822c-0ae6-456c-8c08-8f18cd7ea45e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS3__3",
+            "swap_group": 0
+        },
+        "aa5b84a9-71ae-4063-8c85-8cedd5b35feb": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS1__9",
+            "swap_group": 0
+        },
+        "af2e72b2-f09b-4020-a552-e91159a9ef55": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS3__10",
+            "swap_group": 0
+        },
+        "b1d6d4b4-05be-44aa-bee7-c3c9d2db2b23": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS4__10",
+            "swap_group": 0
+        },
+        "bd1df29f-121f-45c0-b55f-6a1b49cfdae9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_NPU__2",
+            "swap_group": 0
+        },
+        "c135d324-1127-4677-8797-82d5947788e2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS2__11",
+            "swap_group": 0
+        },
+        "c1636f68-4094-43c8-af77-4e347c0196a8": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_LOGIC__1",
+            "swap_group": 0
+        },
+        "c2f676e2-a78e-4380-be8e-5e478d887887": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS2__7",
+            "swap_group": 0
+        },
+        "c5f05aed-b9e8-4601-8274-d70accf85707": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS3__2",
+            "swap_group": 0
+        },
+        "c91d8f62-b82e-4675-8b7d-c461118d7aa9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS1__6",
+            "swap_group": 0
+        },
+        "cb531b2d-6e6b-4ea2-babd-0a5ede5b0dae": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_NPU__1",
+            "swap_group": 0
+        },
+        "cda5bfe6-b71f-40cc-9dc7-472c016b1205": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_LOGIC__8",
+            "swap_group": 0
+        },
+        "cf4979cf-ccee-4068-83d6-29ad0af8b76d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS2__4",
+            "swap_group": 0
+        },
+        "d20da8ac-fd6a-4760-b125-566ec54c4170": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS1__8",
+            "swap_group": 0
+        },
+        "d29dbc25-071d-4f81-9cb8-dbf1409c8408": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_CPU__2",
+            "swap_group": 0
+        },
+        "d8fe546c-9dbd-40e2-8ad2-8f7e9cdac132": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS3__1",
+            "swap_group": 0
+        },
+        "dbc56c2d-5b2b-4d43-a4be-be92678ac44e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS3",
+            "swap_group": 0
+        },
+        "dc023e2e-7b25-4932-b0f4-7274a985537a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS4__8",
+            "swap_group": 0
+        },
+        "e16ca4cd-07b9-49db-a9cc-103d135f895c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_GPU__2",
+            "swap_group": 0
+        },
+        "e1a9f0b8-8ec6-4889-b49e-d487910a59b2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS2__5",
+            "swap_group": 0
+        },
+        "e42e163b-282f-48e5-90d4-c70ccc29e626": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS2__3",
+            "swap_group": 0
+        },
+        "e4d2d631-fe52-427f-a579-86a3da2ee3a9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS2__12",
+            "swap_group": 0
+        },
+        "e6e8ad11-ac27-419f-b9f7-18335d70d87c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS4__11",
+            "swap_group": 0
+        },
+        "e7bdce81-25f5-4b6e-bffa-a4183c8eeda1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS2",
+            "swap_group": 0
+        },
+        "e9c83e02-1ed8-499e-9535-f08086888e0f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_GPU__3",
+            "swap_group": 0
+        },
+        "f3934f1a-e7c2-4b67-b22f-26485fab82d9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS2__2",
+            "swap_group": 0
+        },
+        "f3b8992d-c5da-47d6-bf1a-a6efd562d477": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS4__13",
+            "swap_group": 0
+        },
+        "f509635a-dbb8-43f6-bd1e-8c7f578a68ae": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_CPU__1",
+            "swap_group": 0
+        },
+        "f60f14c1-b654-4529-a32a-b6de0619ff41": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVSS1__5",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b19ab527-3326-4ebe-87bf-acb1134f6703"
+}

@@ -1,0 +1,200 @@
+{
+    "manufacturer": "",
+    "name": "RK3568 K",
+    "pins": {
+        "04b235f3-0358-4f6e-ae29-22e2810a0668": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO3_B1_D",
+            "swap_group": 0
+        },
+        "0b540fd3-04c7-4d37-8703-9a746639dbc3": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO2_D5_D",
+            "swap_group": 0
+        },
+        "0c5b28e7-431b-4a48-9660-7842c9c1ad46": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO3_A6_D",
+            "swap_group": 0
+        },
+        "0e2ea226-cc90-439f-b6cb-aa993152b8e3": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO3_A2_D",
+            "swap_group": 0
+        },
+        "0ef3e2a9-84d1-4937-bf94-d625826553c6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO2_D6_D",
+            "swap_group": 0
+        },
+        "0faa9b4e-e08a-4085-a92e-310633c7c2f1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCIO5__1",
+            "swap_group": 0
+        },
+        "19cfd6b5-edb5-44f5-b4e9-61b405816218": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO3_A3_D",
+            "swap_group": 0
+        },
+        "2030c0a5-31ba-4d1f-844f-3b3dee51914e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO2_D2_D",
+            "swap_group": 0
+        },
+        "207c589d-b279-47fd-b7c5-c6068ccd9804": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO3_C5_D",
+            "swap_group": 0
+        },
+        "2a669a5f-e6a7-4c3e-a7b1-f51a8a07f73f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO3_C3_D",
+            "swap_group": 0
+        },
+        "2e2decba-7ba9-45c5-95b7-477edd33342c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO3_B7_D",
+            "swap_group": 0
+        },
+        "4c5e1918-c0ca-46bb-9e36-e968f43b16d6": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCIO5",
+            "swap_group": 0
+        },
+        "56932a2b-cb65-4980-82cd-75d2659baabf": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO3_C4_D",
+            "swap_group": 0
+        },
+        "58ce1ea2-03d4-444e-b257-0233e0b07a0f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO3_A7_D",
+            "swap_group": 0
+        },
+        "62eb1499-5178-44d1-9477-2347d42ab84e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO3_C0_D",
+            "swap_group": 0
+        },
+        "79ce6c17-fa00-4dfe-982b-e622f850c1f6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO3_A5_D",
+            "swap_group": 0
+        },
+        "8af3a28a-66d0-476a-8a1b-983c1a0676cb": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO2_D1_D",
+            "swap_group": 0
+        },
+        "93f789a6-1e47-4580-815e-b6d834a50bcb": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO3_C1_D",
+            "swap_group": 0
+        },
+        "a21225b6-98c6-461d-bc88-9e9d6ec7da06": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO3_B2_D",
+            "swap_group": 0
+        },
+        "a8bac030-0b28-482d-82ee-e1b9348afaaf": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO3_C2_D",
+            "swap_group": 0
+        },
+        "adddcb53-f49d-41c4-bdcf-c097bb37473f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO2_D0_D",
+            "swap_group": 0
+        },
+        "b3bbe17e-6b7a-43f5-b910-0744eddeb007": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO2_D3_D",
+            "swap_group": 0
+        },
+        "b73e0912-ccd4-472b-899f-c077b21838e6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO3_A0_D",
+            "swap_group": 0
+        },
+        "b82b11ec-8c9f-4ca9-a594-fafd7a40eb93": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO3_B6_D",
+            "swap_group": 0
+        },
+        "ccafdf4e-e4f4-4532-977c-0caf2f98464a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO3_B4_D",
+            "swap_group": 0
+        },
+        "d3f7f6c8-f15b-4626-900a-4e0507bee27e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO3_A4_D",
+            "swap_group": 0
+        },
+        "d9fc7c5c-03cb-4c0e-8bf4-62b6ddb0ea2f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO3_B3_D",
+            "swap_group": 0
+        },
+        "dc7a0dba-5598-4f14-ae42-d1d7cf7095aa": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO2_D4_D",
+            "swap_group": 0
+        },
+        "de450e7d-8ff0-4a07-ba4a-2aa4c975bcbd": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO3_B0_D",
+            "swap_group": 0
+        },
+        "e0d212bc-9db4-4ddd-9ef7-75d752909cac": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO2_D7_D",
+            "swap_group": 0
+        },
+        "e9fb1d9d-c5c1-454f-9f6d-c9dfc512e811": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO3_A1_D",
+            "swap_group": 0
+        },
+        "f20c2940-053b-4891-b487-e01d2b35f80f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO3_B5_D",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "e1286c78-6833-4702-ae6e-396600e83f63"
+}

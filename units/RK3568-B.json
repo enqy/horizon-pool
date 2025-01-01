@@ -1,0 +1,548 @@
+{
+    "manufacturer": "",
+    "name": "RK3568 B",
+    "pins": {
+        "01496421-c9d4-4811-8e75-96ebfe80e23d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS3__11",
+            "swap_group": 0
+        },
+        "023eb7b0-ade4-4dba-9ae7-39ccf406cc7e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS3__12",
+            "swap_group": 0
+        },
+        "04c653b0-1f77-4a4d-b902-3880c54e963a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS2__5",
+            "swap_group": 0
+        },
+        "04fa3fb4-bbb0-4277-9234-81b20210912a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS1__10",
+            "swap_group": 0
+        },
+        "0b946868-d94c-4c6c-a521-6be55c206db2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS6__4",
+            "swap_group": 0
+        },
+        "0ce990ec-e09b-4f84-ad74-fdc3886c3071": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS6__6",
+            "swap_group": 0
+        },
+        "0d466156-eafc-4e37-8894-9592061e26bd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS2__7",
+            "swap_group": 0
+        },
+        "135ad83a-651a-4b08-aaca-12cb394cc8f7": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS3__1",
+            "swap_group": 0
+        },
+        "14b7aa64-f7f2-4208-aa56-2a17a4c86849": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS4__3",
+            "swap_group": 0
+        },
+        "158cb864-bd8b-4da5-a3bf-633828b2a1a7": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS2__12",
+            "swap_group": 0
+        },
+        "171b055a-6fe9-43ce-84e7-a0f3bd868d40": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS3__9",
+            "swap_group": 0
+        },
+        "1a603486-b3fe-40cd-9697-ac610eadb1dd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS4",
+            "swap_group": 0
+        },
+        "1be0f928-7737-4c08-8120-dffd6fad559a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS3__4",
+            "swap_group": 0
+        },
+        "1dfc75d4-1a80-4dbe-be78-ec77f0f9c08a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS4__2",
+            "swap_group": 0
+        },
+        "1e74ca22-7823-44e1-bc5b-17e25922f741": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS4__7",
+            "swap_group": 0
+        },
+        "23aa5c25-309b-49a4-b40f-bb8c8a1ea2b8": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS3__7",
+            "swap_group": 0
+        },
+        "259f1194-8a9d-463c-bd4a-bad751090587": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS2__14",
+            "swap_group": 0
+        },
+        "25f43973-3af4-45f0-ac3d-8e45808d0ea4": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS6__11",
+            "swap_group": 0
+        },
+        "2778fe40-caa2-4266-a635-116acabcc19c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS5__11",
+            "swap_group": 0
+        },
+        "2dad6701-9057-4f13-b0d4-baf4cbb956ab": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS1__13",
+            "swap_group": 0
+        },
+        "32c80fbb-3e69-490d-a808-3fd8bf953faa": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS5__8",
+            "swap_group": 0
+        },
+        "3b2a9d2b-1e06-4e18-be33-68ec3f4cbc97": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS5__7",
+            "swap_group": 0
+        },
+        "3ca66b73-35d1-4c49-8798-b5eb36740ae5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS6",
+            "swap_group": 0
+        },
+        "3fe61175-debd-4413-86fa-c597bf5e7f67": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS3__10",
+            "swap_group": 0
+        },
+        "44f2aff7-9298-420d-8d58-3fb491fe2db3": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS6__2",
+            "swap_group": 0
+        },
+        "4897d997-32d6-4ecc-b41b-8ce5562f0ce4": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS4__9",
+            "swap_group": 0
+        },
+        "4b20c7c6-9c7e-47d8-925a-c0b519a96d2c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS1__11",
+            "swap_group": 0
+        },
+        "4e0653a3-d20c-46ec-a38a-9e086e4ad85a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS3",
+            "swap_group": 0
+        },
+        "50337b3f-5892-44b0-93ac-ab37f48736ff": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS3__8",
+            "swap_group": 0
+        },
+        "51721f34-a238-4e54-9f31-90e5b4d672b9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS5",
+            "swap_group": 0
+        },
+        "51e501ea-b6a4-4f7b-83ec-13da105d7fc6": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS4__10",
+            "swap_group": 0
+        },
+        "532ef59d-2f6d-483f-8224-9b646af6b5f8": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS4__8",
+            "swap_group": 0
+        },
+        "54b45c63-3ce6-483f-943b-1b21196486fd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS5__1",
+            "swap_group": 0
+        },
+        "56518e03-c146-4051-bd03-5fdf673bde0b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS6__10",
+            "swap_group": 0
+        },
+        "594ad8eb-e050-4038-adad-4c4a533530af": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS3__5",
+            "swap_group": 0
+        },
+        "5a550bbe-6c7d-490b-8a4f-cc6b6a28a2ca": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS5__6",
+            "swap_group": 0
+        },
+        "5ca5d156-7f5a-4ef3-85c1-4179a472a5e5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS1__12",
+            "swap_group": 0
+        },
+        "5d65eae9-b914-4e86-8551-f00e927f19e1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS5__13",
+            "swap_group": 0
+        },
+        "63cbc46f-afec-4a91-b3cc-a511e9ac8895": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS5__4",
+            "swap_group": 0
+        },
+        "645958a0-7f76-406e-be93-7772fc36d7fb": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS4__6",
+            "swap_group": 0
+        },
+        "65d9e58c-0700-47fb-9abe-352c6bd7da37": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS4__13",
+            "swap_group": 0
+        },
+        "70eb0aad-c6cc-4e01-99eb-3cca52f5f195": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS2",
+            "swap_group": 0
+        },
+        "7c8e03a8-1af1-46e8-962e-cb2e034bd6f0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS4__12",
+            "swap_group": 0
+        },
+        "846def2e-dd00-41c7-822a-1735216ab42a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS4__11",
+            "swap_group": 0
+        },
+        "85145fc5-23ae-4761-ad74-45b6f0860f0f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS1__1",
+            "swap_group": 0
+        },
+        "88f30305-0b0f-4ae6-b591-02d50054b4d5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS2__1",
+            "swap_group": 0
+        },
+        "89d36a93-e6a0-4404-882a-8682d2680d11": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS4__4",
+            "swap_group": 0
+        },
+        "91c43723-5a1a-42b2-b18d-381db8059a4d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS4__5",
+            "swap_group": 0
+        },
+        "957f0424-dac7-415b-8801-18b616c22ce8": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS5__5",
+            "swap_group": 0
+        },
+        "9987e933-04bd-4d77-8f7c-efe364d23c24": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS2__11",
+            "swap_group": 0
+        },
+        "9a15f917-c87e-4fc3-9d75-8c56b34acc78": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS3__13",
+            "swap_group": 0
+        },
+        "9aff51e3-5642-48cd-9ca2-6957546c7b8e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS6__1",
+            "swap_group": 0
+        },
+        "9d841c90-0e4b-4dc1-bc56-9b267a944331": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS6__14",
+            "swap_group": 0
+        },
+        "9de642cb-c5af-4047-a954-59162c02fd60": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS1",
+            "swap_group": 0
+        },
+        "9f502a95-b627-46ea-9257-5220664dcafe": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS6__7",
+            "swap_group": 0
+        },
+        "a0340cb3-e3e5-4f57-a2ea-861da0669741": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS3__2",
+            "swap_group": 0
+        },
+        "a289f54a-0c95-4deb-aed5-496c697d5efa": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS2__2",
+            "swap_group": 0
+        },
+        "a3ab5f05-ad33-4ef7-a0a1-6f3e48e4d07e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS4__1",
+            "swap_group": 0
+        },
+        "a4767989-0b5e-49a9-8a8e-92e0e8a310f2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS5__9",
+            "swap_group": 0
+        },
+        "a478c119-ddcc-450a-9ba4-b6c3d7edafe1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS6__13",
+            "swap_group": 0
+        },
+        "a485c473-1950-411f-8b38-76be21eab3e8": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS1__6",
+            "swap_group": 0
+        },
+        "a521a037-a281-4c6e-b63b-14e355cd23f6": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS1__2",
+            "swap_group": 0
+        },
+        "a6813dab-ab2c-42de-be6c-be8d2627ee42": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS3__14",
+            "swap_group": 0
+        },
+        "ac51e3c0-ab67-4e90-adb1-f465b40d6139": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS5__3",
+            "swap_group": 0
+        },
+        "b1992ca2-a2f5-4215-8575-72305e6d25f1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS1__7",
+            "swap_group": 0
+        },
+        "b24a6805-9814-44a3-b7a1-6eda1d53ca16": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS2__9",
+            "swap_group": 0
+        },
+        "b256f211-cc4a-471e-a94d-b433de9346e8": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS6__3",
+            "swap_group": 0
+        },
+        "bcb140e0-f9c7-4018-a42e-c5c0dabdb2fd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS5__14",
+            "swap_group": 0
+        },
+        "bf3287b4-e1f5-4b4a-be67-7bb7564f79c1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS1__5",
+            "swap_group": 0
+        },
+        "bfc2c09b-2873-4bf8-ac02-d5782e7a89d4": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS2__4",
+            "swap_group": 0
+        },
+        "c079ba7a-f11d-48ee-8a61-22de7664ab3a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS6__8",
+            "swap_group": 0
+        },
+        "c3b18a30-4012-4335-b207-5a2f88feb37c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS2__10",
+            "swap_group": 0
+        },
+        "c3bc5fb6-f642-4df6-877e-72c0322e1860": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS1__4",
+            "swap_group": 0
+        },
+        "c5c25565-e6d7-4c0f-b038-5becbc71acd6": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS5__10",
+            "swap_group": 0
+        },
+        "c8a3015c-1e9e-440a-b91c-4bab1209c436": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS6__9",
+            "swap_group": 0
+        },
+        "c8c8f1d7-f00d-4c3f-acf2-4502beb2a4c3": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS2__3",
+            "swap_group": 0
+        },
+        "cc1fd189-f8a7-4dc3-8a15-f6e320ceb7bf": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS2__13",
+            "swap_group": 0
+        },
+        "d53148b8-c1e5-482d-ac88-ff281ccfc441": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS5__2",
+            "swap_group": 0
+        },
+        "d6e374c5-3071-49b4-97b9-94ed684af5cc": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS1__8",
+            "swap_group": 0
+        },
+        "d98eea19-91cd-4dcd-b1c1-26cd9be0c024": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS2__6",
+            "swap_group": 0
+        },
+        "da64c29a-0abe-4473-a988-c78ef9b39fbb": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS1__9",
+            "swap_group": 0
+        },
+        "dc86fd88-337e-4051-939b-1ebcabc513d0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS3__3",
+            "swap_group": 0
+        },
+        "dfada442-6dcf-43ce-8694-3bc3e8ea5771": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS3__6",
+            "swap_group": 0
+        },
+        "e0440b78-aef3-46f8-9134-d93054ffa587": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS4__14",
+            "swap_group": 0
+        },
+        "e0b9ab0b-6ac3-416c-a29d-698b33680819": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS1__14",
+            "swap_group": 0
+        },
+        "e26cc741-370a-43b7-8593-7c22ec1ad093": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS6__5",
+            "swap_group": 0
+        },
+        "e87cb0b8-f655-4408-a13a-94622448a735": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS1__3",
+            "swap_group": 0
+        },
+        "eacc6e5e-a98a-41a3-8123-02e40a82093e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS5__12",
+            "swap_group": 0
+        },
+        "ec4423aa-1f69-4671-9799-e9d406b48f85": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS2__8",
+            "swap_group": 0
+        },
+        "fb5436f5-1291-4b98-ab2c-2fbbfef57b64": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS6__12",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "3c088669-976b-4737-b2d7-a0e08b0781bf"
+}

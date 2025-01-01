@@ -1,0 +1,782 @@
+{
+    "manufacturer": "Allwinner",
+    "name": "T113",
+    "pins": {
+        "01d3d7b9-ac9c-4e34-a187-7195d8cb37cc": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD21",
+            "swap_group": 0
+        },
+        "0422a5d0-6efb-4c21-9b69-3cf4100e5ebb": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "MICIN3-",
+            "swap_group": 0
+        },
+        "068d0e7d-2c63-4413-99df-f17d2d5122c6": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC-PD",
+            "swap_group": 0
+        },
+        "07872a25-2d17-4b91-a8d6-a2813e044eff": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "HPVCC",
+            "swap_group": 0
+        },
+        "07954053-9e6a-4021-bc64-7b868b851256": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE11",
+            "swap_group": 0
+        },
+        "081ffbab-a45f-4ca8-87d7-3a38cfec88c3": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE7",
+            "swap_group": 0
+        },
+        "09286c4a-0c3b-409b-a761-1ab68ca71dbc": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "TP-Y2",
+            "swap_group": 0
+        },
+        "09f17200-608c-4372-b20c-37ce21a3e821": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD18-DRAM",
+            "swap_group": 0
+        },
+        "0b6aa825-12cc-4615-9b00-9ff6025d4052": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VRA2",
+            "swap_group": 0
+        },
+        "0b7cf27c-7c57-48fb-999d-ffeb71e58a22": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "TVIN1",
+            "swap_group": 0
+        },
+        "0bc8ffc2-cd20-4a25-adf6-c0965f50e375": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PC5",
+            "swap_group": 0
+        },
+        "0d25bc8a-9834-48ec-b312-ab5d560588b1": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HPOUTR",
+            "swap_group": 0
+        },
+        "1168430d-838e-492c-9fdc-7bd1c5563578": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC-DRAM0",
+            "swap_group": 0
+        },
+        "11b0ce50-b73f-41f1-9255-4452e1813847": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE10",
+            "swap_group": 0
+        },
+        "149f5354-f4ce-4541-b5bc-16377ff72617": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVCC",
+            "swap_group": 0
+        },
+        "153e5f26-5838-400d-af90-1fe20ba42d9d": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "LDOB-OUT",
+            "swap_group": 0
+        },
+        "16864da4-0622-41ad-ab2d-b0fbd5de9109": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PC2",
+            "swap_group": 0
+        },
+        "1a398ea5-8ac3-4351-9fa0-b81676fb0663": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC0",
+            "swap_group": 0
+        },
+        "1acdeff7-4cb7-43e7-a3e4-872909a559e9": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB0-D-",
+            "swap_group": 0
+        },
+        "1bdee666-cdac-47b2-9b5c-654b5174f141": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "FMINL",
+            "swap_group": 0
+        },
+        "1fb6163a-aae5-48b9-953b-9d3112036245": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC-LVDS",
+            "swap_group": 0
+        },
+        "22399f17-eb7b-46cb-b78f-3dea90d17152": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "LDOA-OUT",
+            "swap_group": 0
+        },
+        "27f8381b-cd85-4656-a556-a788204e0630": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD18",
+            "swap_group": 0
+        },
+        "2cde6853-34d9-47ec-9342-0814c477fd83": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PC7",
+            "swap_group": 0
+        },
+        "2ed433aa-b840-486f-9328-7e9640496487": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB6",
+            "swap_group": 0
+        },
+        "2f59ccad-aee3-456b-b3bb-0ed56d51ee83": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD10",
+            "swap_group": 0
+        },
+        "31e92147-cd1a-4729-9a17-2eab7668a3c2": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PG1",
+            "swap_group": 0
+        },
+        "32120299-ff95-4eac-bc19-3b4fec099cb4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB3",
+            "swap_group": 0
+        },
+        "329cebb2-3c0c-41aa-a30d-051d56165c2c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB5",
+            "swap_group": 0
+        },
+        "340265ba-2b3f-45cd-beba-2426a19a5262": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD19",
+            "swap_group": 0
+        },
+        "3492e15d-5ae0-49d6-86fe-8f6764091b9d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC-PLL",
+            "swap_group": 0
+        },
+        "3800933e-2cf9-4f12-a76f-86d4a3eb6ffd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC-RTC",
+            "swap_group": 0
+        },
+        "390692fc-e05b-48c1-b140-ba3dd38ae2c4": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "EPAD",
+            "swap_group": 0
+        },
+        "457ea2ee-19d2-488e-b2db-a779b3dfa374": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PG13",
+            "swap_group": 0
+        },
+        "465fd4e4-9a88-41d9-82c6-bb7a11e20820": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE4",
+            "swap_group": 0
+        },
+        "490bfd8d-a0f9-4761-b415-49268b03e39b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PG14",
+            "swap_group": 0
+        },
+        "4d967caa-288a-48c5-9e76-f129a0a3633f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PC3",
+            "swap_group": 0
+        },
+        "511a95a7-f9e9-48d0-89f6-e4e84393028e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD2",
+            "swap_group": 0
+        },
+        "51dc91a6-aeeb-42cf-8143-afad7774b2b4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "LINEINL",
+            "swap_group": 0
+        },
+        "5887be07-a35f-4c81-b9b1-c3787c56739c": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "X32KOUT",
+            "swap_group": 0
+        },
+        "594d17eb-bdc9-46cd-aade-2953361a8f16": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD7",
+            "swap_group": 0
+        },
+        "5b9b2404-a928-4f1c-9700-4ce3eadee79c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD-SYS1",
+            "swap_group": 0
+        },
+        "607250e1-2188-474e-85b8-939a06e016fb": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC-PE",
+            "swap_group": 0
+        },
+        "61395c9d-b476-487b-b536-1bf909f45d16": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD3",
+            "swap_group": 0
+        },
+        "63705d54-534a-459c-bb96-30b58f9d330b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD5",
+            "swap_group": 0
+        },
+        "640ea77a-2459-40e8-84c5-f94de756ae1c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PG9",
+            "swap_group": 0
+        },
+        "668593c4-abb0-45d4-ad2b-aeef325e62de": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HPOUTL",
+            "swap_group": 0
+        },
+        "68d6f824-b5f4-4b16-b779-689fea8246da": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "TP-X2",
+            "swap_group": 0
+        },
+        "68e06c3b-b3b2-4d44-84d7-353c1c4d7e70": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PG3",
+            "swap_group": 0
+        },
+        "68f69dbd-10b3-441c-99bd-29321b89920a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD8",
+            "swap_group": 0
+        },
+        "6a79e8ed-0408-4c51-90e7-b42e6d0a77b7": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PC4",
+            "swap_group": 0
+        },
+        "6b35e160-f5f2-4eca-8913-95486f151765": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE6",
+            "swap_group": 0
+        },
+        "6cc8f9ba-cf2a-4b82-96aa-f314e2c76385": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB7",
+            "swap_group": 0
+        },
+        "6e705503-13d0-4f62-b256-7c90e4d4964b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PG2",
+            "swap_group": 0
+        },
+        "723973ad-a392-4887-88e5-bdd8a98c4e96": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE2",
+            "swap_group": 0
+        },
+        "7317da67-39aa-43c1-99db-0dcf5714f94c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "TP-Y1",
+            "swap_group": 0
+        },
+        "73e9022e-0ba2-4798-8e2a-7fe528211581": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC-IO",
+            "swap_group": 0
+        },
+        "746c7c43-66a9-4828-93b5-7892d222730f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC-PG",
+            "swap_group": 0
+        },
+        "74d01918-8f69-4670-bdeb-efcbb56587dd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD-CORE0",
+            "swap_group": 0
+        },
+        "75507eec-3c72-4e5b-b6cc-05b8d1f1c5e8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE8",
+            "swap_group": 0
+        },
+        "75706d41-aad8-4ffb-9509-f8b175da4fa9": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD20",
+            "swap_group": 0
+        },
+        "767bf6fc-5ee0-401c-bf95-2825f77e3548": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "LDO-IN",
+            "swap_group": 0
+        },
+        "777f5065-10fe-460e-87ba-e116e3ae47cd": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PF3",
+            "swap_group": 0
+        },
+        "7792bb7a-e10c-4d59-9b04-d3580505fab4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PF5",
+            "swap_group": 0
+        },
+        "79c0efac-91a2-43d6-bbd2-7693e057de31": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD0",
+            "swap_group": 0
+        },
+        "7e6b1d31-4517-47e3-9b62-3946dcb3fc26": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE0",
+            "swap_group": 0
+        },
+        "7ebd8d74-f620-49de-8cb9-f9af2daa0ecc": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PF1",
+            "swap_group": 0
+        },
+        "80146b26-e8c7-495a-bb4e-db8beff7ea44": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE5",
+            "swap_group": 0
+        },
+        "80b35c37-8e7b-42cb-9a86-d5f1d9886bf7": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC-TVIN",
+            "swap_group": 0
+        },
+        "80f8c4e2-652c-48ab-b7d5-8058525eaf37": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DXIN",
+            "swap_group": 0
+        },
+        "818f37dc-b50a-40af-b16d-6cf4362d171f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB1-D+",
+            "swap_group": 0
+        },
+        "8b67fc25-e149-4dba-8e10-b0265ead11df": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPADC0",
+            "swap_group": 0
+        },
+        "8bef47e3-7343-4f9f-9fe1-2a6de5ff5e22": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PF2",
+            "swap_group": 0
+        },
+        "8d3ff20d-5a71-45e6-9165-7f828fa90008": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "TVIN-VR-",
+            "swap_group": 0
+        },
+        "8df35658-5ad8-47df-b091-9b38e45d82e4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB4",
+            "swap_group": 0
+        },
+        "8f1173a8-4867-4c32-83f4-aba803a752b0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PG5",
+            "swap_group": 0
+        },
+        "8f62dda6-275c-4de0-8f39-970a89f061b2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD-SYS2",
+            "swap_group": 0
+        },
+        "96933e11-02d6-4a3f-b537-4a4b5be4ac4b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "TVIN0",
+            "swap_group": 0
+        },
+        "96f82677-6644-4109-8733-4c7c49fb019b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE12",
+            "swap_group": 0
+        },
+        "991a4f71-28f3-488d-a703-531bd405245d": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "REFCLK-OUT",
+            "swap_group": 0
+        },
+        "9a7424ac-38cc-4c02-9bd6-f8103223f8f7": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE3",
+            "swap_group": 0
+        },
+        "9a7da70c-ccc0-4eac-b4d1-ea655e106f87": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE1",
+            "swap_group": 0
+        },
+        "9d4db1b4-00a2-4558-bb9e-4c244a852ef8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD17",
+            "swap_group": 0
+        },
+        "9d7c9ec7-7f44-4939-a329-019fca8b9335": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PG8",
+            "swap_group": 0
+        },
+        "9df26717-5e35-48b8-815b-23b62d267f7f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "TP-X1",
+            "swap_group": 0
+        },
+        "9f81e306-5d88-48e2-bb19-75f3f1124fa1": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DXOUT",
+            "swap_group": 0
+        },
+        "9fb5a984-c893-48a7-be51-3c953d51fe37": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD4",
+            "swap_group": 0
+        },
+        "a0b871ba-d0b8-4412-a8d9-07bf2e2189f3": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC-DRAM1",
+            "swap_group": 0
+        },
+        "a8d31d5d-da71-46f9-9790-c8d01feb8a1c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PG10",
+            "swap_group": 0
+        },
+        "a9915ba3-aa23-4137-9fd5-335d4f36c0a5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RESET",
+            "swap_group": 0
+        },
+        "b1c1df05-dd48-4813-9b5d-318b1ace22d6": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC-TVOUT",
+            "swap_group": 0
+        },
+        "b5b57649-d875-48a9-acd9-4b02e18a787b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD1",
+            "swap_group": 0
+        },
+        "b8fe6c90-faca-496e-b2e7-e7cb728233d0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD16",
+            "swap_group": 0
+        },
+        "ba2f1f67-e834-43ed-a22c-134649eb9454": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD22",
+            "swap_group": 0
+        },
+        "bc55e54c-7b41-4560-8d5e-fbc075c7dd80": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PF6",
+            "swap_group": 0
+        },
+        "bcfb8c9a-a82d-4aa7-ab63-4cb965c89232": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PG0",
+            "swap_group": 0
+        },
+        "bdb6e0b3-965f-4f19-b16f-6ed57492bc12": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "MICIN3+",
+            "swap_group": 0
+        },
+        "bf2e344d-e9d8-4904-a007-36e57fb89b0d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PF0",
+            "swap_group": 0
+        },
+        "bf90d1fa-0e51-4b7c-99a7-9aa6420f5d11": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB2",
+            "swap_group": 0
+        },
+        "c3cb6d33-e196-4c58-8775-1647e89e7c81": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PG4",
+            "swap_group": 0
+        },
+        "c7ac3aa3-9b80-4a36-8026-415540bb950c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PF4",
+            "swap_group": 0
+        },
+        "c8283f20-0ad0-4ab6-b68a-8e833dc324e7": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD6",
+            "swap_group": 0
+        },
+        "c9381f7f-24f3-4410-96c8-f8e156205dec": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PG15",
+            "swap_group": 0
+        },
+        "cc4e6820-d1d0-4aad-8fdc-5ab0f259d3de": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PG7",
+            "swap_group": 0
+        },
+        "cf6a5010-1d06-477f-9e83-8d659f197c2b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD14",
+            "swap_group": 0
+        },
+        "cf8f2311-ebd9-4135-8dc9-6e36b86d39fb": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PG6",
+            "swap_group": 0
+        },
+        "d41beff1-3862-4b8c-b868-0f2143ae3fc8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD15",
+            "swap_group": 0
+        },
+        "d522e1a6-fa4c-4e36-9f35-267c140e9f55": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD-CORE1",
+            "swap_group": 0
+        },
+        "d65c7265-a7e2-41ce-b588-205e2110f696": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PC6",
+            "swap_group": 0
+        },
+        "d6b70c17-e20b-42d1-842b-93f14ff5900f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "TVIN-VR+",
+            "swap_group": 0
+        },
+        "d749cd4a-a641-438e-af9d-433feedbc06c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD-SYS0",
+            "swap_group": 0
+        },
+        "dbd69a52-1472-420c-bbb6-0c73778cdc14": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD13",
+            "swap_group": 0
+        },
+        "e0199feb-4dbc-4853-935f-621fbd4ed01e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "AGND",
+            "swap_group": 0
+        },
+        "e831eae8-6497-4bf3-ad20-5894fdebb23c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB1-D-",
+            "swap_group": 0
+        },
+        "e9d8098c-0a1f-4952-a08b-eec90c4a8132": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "FMINR",
+            "swap_group": 0
+        },
+        "eab4029a-b834-4210-8b28-e5a529e454da": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "DZQ",
+            "swap_group": 0
+        },
+        "ec25450a-7f82-4127-b5de-a4d44078c0d0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PG12",
+            "swap_group": 0
+        },
+        "ed31faf3-c432-4f98-bf19-273599d50d2d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE13",
+            "swap_group": 0
+        },
+        "ed47e500-a147-44cf-af6c-22662e61510c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE9",
+            "swap_group": 0
+        },
+        "eef00455-b300-4b4b-b382-e3fe754f0784": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VRA1",
+            "swap_group": 0
+        },
+        "f0be415c-0570-4c63-bbeb-527d6ad9dad0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB0-D+",
+            "swap_group": 0
+        },
+        "f0c0cf74-49fd-43b0-9680-82f6f939811a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PG11",
+            "swap_group": 0
+        },
+        "f26e632c-04f4-4ca6-a426-fa6953a2eb1e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD12",
+            "swap_group": 0
+        },
+        "f37b3689-3682-4528-8ba3-0fc9e48395d4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "HPOUTFB",
+            "swap_group": 0
+        },
+        "f468ecf9-37e5-4980-a3f0-5fdc068f6d4f": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "TVOUT0",
+            "swap_group": 0
+        },
+        "f92bb9f9-d8fc-420f-9c40-fbe35f276b03": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD9",
+            "swap_group": 0
+        },
+        "fce9d0e5-8b93-4686-a424-49a40ebb94cf": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "X32KIN",
+            "swap_group": 0
+        },
+        "fdc55f8b-3c28-4fe2-b52e-4d5a00571502": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "LINEINR",
+            "swap_group": 0
+        },
+        "ff91b620-30cc-45c8-a88d-5bf78a81e095": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD11",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "3f6bcd31-01d0-4e19-9fff-5816fcf53111"
+}

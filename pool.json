@@ -2,7 +2,9 @@
     "default_frame": "00000000-0000-0000-0000-000000000000",
     "default_via": "00000000-0000-0000-0000-000000000000",
     "name": "enqy",
-    "pools_included": [],
+    "pools_included": [
+        "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
+    ],
     "type": "pool",
     "uuid": "0a33af86-cad3-4550-b2d0-6eb8c1b31c8d"
 }

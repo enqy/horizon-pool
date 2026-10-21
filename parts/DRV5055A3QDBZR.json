@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "DRV5055A3QDBZR"
+    ],
+    "base": "f78ac719-922a-412e-89bc-6d9c82391359",
+    "datasheet": [
+        true,
+        "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
+    ],
+    "description": [
+        true,
+        "Ratiometric linear hall effect sensor with analog output"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Texas Instruments"
+    ],
+    "model": "1ebac498-5423-42dc-90a6-7ad333585f6a",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "b45f1520-339c-4c8b-b79b-d75b92002df5",
+    "value": [
+        true,
+        "DRV5055"
+    ]
+}

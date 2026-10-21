@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "e3564c6e-ab76-4493-913b-3d4f17c560e5": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "f984927c-7643-42cc-a756-daa4929cdced"
+        }
+    },
+    "manufacturer": "3PEAK",
+    "name": "TP2021-TR",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "083a647a-0b8b-4458-81f1-36f3f973395b"
+}

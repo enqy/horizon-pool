@@ -1,0 +1,134 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {
+        "202a64c0-6bd1-470d-901c-82dd76c1bb25": {
+            "position": [
+                17500000,
+                -16250000
+            ]
+        },
+        "e74fd2d9-279d-4db8-a2de-d28bfede1211": {
+            "position": [
+                -17500000,
+                -16250000
+            ]
+        },
+        "f2ed9a4d-7130-46a0-82b2-b9beaa5263ed": {
+            "position": [
+                17500000,
+                16250000
+            ]
+        },
+        "f7fd1b40-6ae4-4d4e-84d2-0daeab32f439": {
+            "position": [
+                -17500000,
+                16250000
+            ]
+        }
+    },
+    "lines": {
+        "0d1da01b-b5d7-4cc0-ba2d-8faf7d977f48": {
+            "from": "e74fd2d9-279d-4db8-a2de-d28bfede1211",
+            "layer": 0,
+            "to": "f7fd1b40-6ae4-4d4e-84d2-0daeab32f439",
+            "width": 0
+        },
+        "1135d062-f15e-48b3-a2c5-0d5e1cae8d8f": {
+            "from": "f2ed9a4d-7130-46a0-82b2-b9beaa5263ed",
+            "layer": 0,
+            "to": "202a64c0-6bd1-470d-901c-82dd76c1bb25",
+            "width": 0
+        },
+        "178fe644-db95-4754-bd22-575521576b91": {
+            "from": "f7fd1b40-6ae4-4d4e-84d2-0daeab32f439",
+            "layer": 0,
+            "to": "f2ed9a4d-7130-46a0-82b2-b9beaa5263ed",
+            "width": 0
+        },
+        "8cf3cfda-5e12-47e6-a601-73093cfe6582": {
+            "from": "202a64c0-6bd1-470d-901c-82dd76c1bb25",
+            "layer": 0,
+            "to": "e74fd2d9-279d-4db8-a2de-d28bfede1211",
+            "width": 0
+        }
+    },
+    "name": "RK3308 G",
+    "pins": {
+        "17890c8f-e227-4eeb-8ae3-ef187acf7910": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                17500000,
+                1250000
+            ]
+        },
+        "9d775823-073b-47ee-962a-95743316bb94": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                17500000,
+                -1250000
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "090aaa58-b1f2-44d1-a80d-f7d2654ca554": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -17500000,
+                    -17500000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        },
+        "64a41a40-6b5f-4b55-8c6b-b2196ddeab31": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -17500000,
+                    17500000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "6fec97fe-fb7b-462e-8f6b-2d59994bb1c6",
+    "uuid": "332a2f09-3dbb-4c81-bca1-6ebc5d4090f6"
+}

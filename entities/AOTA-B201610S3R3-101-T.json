@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "be8e8978-b1c5-4cde-bc93-cbefe7f94675": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "d73adcb6-a080-477f-a67e-f4c7a5c42956"
+        }
+    },
+    "manufacturer": "Abracon",
+    "name": "AOTA-B201610S3R3-101-T",
+    "prefix": "L",
+    "tags": [
+        "inductor"
+    ],
+    "type": "entity",
+    "uuid": "79178a92-9f50-4d7f-aa74-b1a4da153eca"
+}

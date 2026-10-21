@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "ab464e1e-1637-4a01-b221-c7d67b6d85a5": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8a06756d-b6c9-4288-a88c-de9af6b2cb33"
+        }
+    },
+    "manufacturer": "Awinic",
+    "name": "AW9110C",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "8541e6b5-bf1d-4f12-aa6c-339bd2c9d741"
+}

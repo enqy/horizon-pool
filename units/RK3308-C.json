@@ -1,0 +1,62 @@
+{
+    "manufacturer": "Rockchip",
+    "name": "RK3308 C",
+    "pins": {
+        "12d12a1f-74a3-4fa4-980e-470b494eba85": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GPIO4_A5",
+            "swap_group": 0
+        },
+        "5ddc9ea8-9902-460b-8eb2-a9e4a5993ef4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GPIO4_A0",
+            "swap_group": 0
+        },
+        "5e5d4fa0-de56-4d4a-a525-7d5ec3d1ab15": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VCCIO4",
+            "swap_group": 0
+        },
+        "6310872e-9c2d-4f25-a750-a019019cd02b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GPIO4_A7",
+            "swap_group": 0
+        },
+        "648f0616-3793-4884-9570-31bbfa5b028d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GPIO4_A6",
+            "swap_group": 0
+        },
+        "7874e1b1-3d91-46ad-b0ae-02f9e9ded5f7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GPIO4_A3",
+            "swap_group": 0
+        },
+        "be6d5f9f-d600-497e-ade6-e9b0055948d6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GPIO4_A4",
+            "swap_group": 0
+        },
+        "c3610f56-c95f-4b6d-8b9e-6059013a80fb": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GPIO4_A1",
+            "swap_group": 0
+        },
+        "dd3b1e71-ae69-49a4-b7c1-e1dd4c2070ee": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GPIO4_A2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "9d6587ae-347a-4993-8317-7de5a2c0119b"
+}

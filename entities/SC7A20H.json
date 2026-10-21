@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "994ee1df-0776-47a0-b22f-95822eaa10da": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "6d0ea4db-44cf-4346-b556-68d2225491be"
+        }
+    },
+    "manufacturer": "Silan",
+    "name": "SC7A20H",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "accelerometer"
+    ],
+    "type": "entity",
+    "uuid": "c71aa5aa-bb2e-49d4-9581-5abd5d09ab66"
+}

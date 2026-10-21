@@ -1,0 +1,32 @@
+{
+    "manufacturer": "OPSCO Optoelectronics",
+    "name": "SK6812MINI-E",
+    "pins": {
+        "bdf31ed2-703b-446f-986e-8e570e60c529": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "bf842703-4d01-42b1-a5e1-8ce84d31ec30": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DIN",
+            "swap_group": 0
+        },
+        "edb6e3f1-4d54-47f8-9da4-65002c6794ad": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DOUT",
+            "swap_group": 0
+        },
+        "f2cc493b-f1db-4c98-86e0-51565efa1637": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "6b77747b-7afb-4847-81c1-851802d66d06"
+}

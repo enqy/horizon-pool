@@ -1,0 +1,67 @@
+{
+    "MPN": [
+        false,
+        "CSD17318Q2"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/csd17318q2.pdf?ts=1785047092445"
+    ],
+    "description": [
+        false,
+        "30V N-channel MOSFET"
+    ],
+    "entity": "c135130c-0663-4575-9083-3b328ac00c90",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "30f00fdd-db28-4735-adb2-35a7b5bbb9df",
+    "pad_map": {
+        "4c32d32a-682d-4ac6-a80e-36747530c312": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        },
+        "6dd83de5-67f7-498a-859f-23cacf7a74c5": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        },
+        "732f2eac-2c28-4574-a243-c63a5a4cf16e": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        },
+        "84463977-118d-461f-b81a-8421baacdd61": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        },
+        "86dab7e5-79d8-40b9-9573-142665583e9d": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "074c3718-08fd-4f94-88fc-2bb43174b245"
+        },
+        "87e052d2-42e6-40ff-ac63-00f93c7ede0b": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        },
+        "b12bc59f-9eca-428a-ad33-f863df353c90": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        },
+        "f60853ba-8090-443f-984d-84e862501482": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "mosfet"
+    ],
+    "type": "part",
+    "uuid": "8eaffa69-ae9d-4a36-acbe-b1fe5d5de189",
+    "value": [
+        false,
+        ""
+    ]
+}

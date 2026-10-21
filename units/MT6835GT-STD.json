@@ -1,0 +1,104 @@
+{
+    "manufacturer": "MagnTek",
+    "name": "MT6835GT-STD",
+    "pins": {
+        "281ceae7-9926-49bb-adca-f5b1ab464a12": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CAL_EN",
+            "swap_group": 0
+        },
+        "2a5807a0-cc4b-4727-a6f3-ec007ea9afc1": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "Z",
+            "swap_group": 0
+        },
+        "42b8fab8-143c-45d0-a2d4-06e127e6fbf1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "51afaf11-27fe-4aa1-9e58-4ce341d542a4": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "V",
+            "swap_group": 0
+        },
+        "6774152d-1009-4e83-a7f3-6ae2e4a84c4f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCK",
+            "swap_group": 0
+        },
+        "776c3ae5-35a4-40a0-b864-c2f7493d324e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "TEST_EN",
+            "swap_group": 0
+        },
+        "82fe5c20-5f3d-4542-8074-c083eb9ad25d": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "8dfe83e1-1e1b-44d3-8410-c7ea78e2e1ca": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "TEST",
+            "swap_group": 0
+        },
+        "91144ec7-113d-4ec0-8e11-81564803252e": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "U",
+            "swap_group": 0
+        },
+        "a3dd0475-6c92-45e9-b15b-f0bc08342e1f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MOSI",
+            "swap_group": 0
+        },
+        "aa0eafff-b784-4ef8-84fb-9009ca93177d": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        },
+        "b28ba14b-a509-41c6-bf44-bba13eb11a3f": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "W",
+            "swap_group": 0
+        },
+        "b3b91b68-71c6-416f-b9ac-28e0f28212e5": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUT",
+            "swap_group": 0
+        },
+        "b4cd4c27-2cbe-4197-a0c8-e1da870d4482": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CSN",
+            "swap_group": 0
+        },
+        "beabdfb9-ce16-49bf-8d13-decfceac735f": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MISO",
+            "swap_group": 0
+        },
+        "cd323173-d8bd-4aef-a750-53673654e751": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "41f6ee01-a5ef-458a-9259-6b8081015243"
+}

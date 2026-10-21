@@ -1,0 +1,14 @@
+{
+    "manufacturer": "Rockchip",
+    "name": "RK3308 A",
+    "pins": {
+        "912d6880-5f70-4b6c-be94-8bf101b600ab": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "af2d16a7-ef1e-477c-b2eb-0a7fabf9a23e"
+}

@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "2cfcb814-e7d6-439a-91ed-3e8ad85dd982": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "6c959c6b-e5a4-4b27-9036-f61e624cdb87"
+        }
+    },
+    "manufacturer": "Seeed Studio",
+    "name": "XIAO ESP32-C5",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "dd039a29-d765-4272-8751-9d9fdfcd23ed"
+}

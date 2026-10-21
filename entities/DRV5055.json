@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "ae6b3dc9-c871-4561-9f88-26835be91fbb": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "4a20c174-d121-4183-a712-d79470738c6e"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "DRV5055",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "6c44f8fe-83fa-4b8b-a7be-ae9fff1ff7a0"
+}

@@ -1,0 +1,130 @@
+{
+    "manufacturer": "NXP",
+    "name": "NTP53121G0JHKZ",
+    "pins": {
+        "074de5e0-d951-41de-87c4-ce91a6ef557e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "HPD",
+            "swap_group": 0
+        },
+        "3e9534af-cd07-4cae-8896-db4121b84c13": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "47e91da7-238a-4368-9cef-f4311224dc16": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "5fdf93cb-2707-4d9d-a800-f7011e45bbca": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "748715d1-ad22-4e33-ae5e-30a8fa20db26": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VOUT",
+            "swap_group": 0
+        },
+        "878e9aaf-0621-49c7-abc2-2ce6dfe019bf": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "a89e3776-a0ef-4783-8ecd-e0a8d71b97d7": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "c53d1e03-833b-4e7b-87fe-45fa77cef202": {
+            "alt_names": {
+                "e4bab26a-c946-4b27-bc02-e8e418dcbcd8": {
+                    "direction": "output",
+                    "name": "PWM0"
+                }
+            },
+            "direction": "output",
+            "names": [],
+            "primary_name": "ED",
+            "swap_group": 0
+        },
+        "d387c492-c201-4e7d-888d-f71bcbd06f83": {
+            "alt_names": {
+                "8641131b-ec1f-43ec-a185-c9e51cb4eb30": {
+                    "direction": "output",
+                    "name": "PWM1"
+                },
+                "ff7f7094-5890-4b3e-96b5-f5f2aaa701f6": {
+                    "direction": "bidirectional",
+                    "name": "GPIO1"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "dea816b7-a2c0-4eea-9792-1806e28da2d5": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "LA",
+            "swap_group": 0
+        },
+        "e583b21c-10bd-4467-8c6e-bec59fd7d968": {
+            "alt_names": {
+                "62a5653d-f60a-460f-8068-048ce2be6d9d": {
+                    "direction": "bidirectional",
+                    "name": "GPIO0"
+                },
+                "8d7af743-38e0-4ddb-a871-7c2155fdbbeb": {
+                    "direction": "output",
+                    "name": "PWM0"
+                }
+            },
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "f293c688-124f-4b53-8b7c-c913f6fa7b88": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "f40b3dfb-cbde-43d8-a0fc-a22370ba476b": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "f8476ad1-4533-43aa-8723-aeabca2789ad": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "fbd652d0-e1fd-40a4-bb4c-aedad3d69eb0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "fd2cc37e-7feb-43bd-8eee-3219dc99d1d1": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "LB",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "16db84b9-b8ae-480f-bf6a-baf327f6b648"
+}

@@ -1,0 +1,58 @@
+{
+    "MPN": [
+        false,
+        "EG27517"
+    ],
+    "datasheet": [
+        false,
+        "https://www.lcsc.com/datasheet/C2987449.pdf"
+    ],
+    "description": [
+        false,
+        "4 A single-channel high-speed low-side gate driver, UCC27517-compatible"
+    ],
+    "entity": "6de188ad-9610-4825-9424-c6cc6f405361",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "EG Micro"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "cac93ed9-ba83-49dd-ba4d-5328ce2d45d2": "C2987449"
+    },
+    "package": "70c65846-2ee7-4d11-9d38-fe0fa84dc963",
+    "pad_map": {
+        "531c3759-a1b6-40c6-9474-5554dc94bcec": {
+            "gate": "3db48cb8-e90f-473a-ad68-5b0a354873af",
+            "pin": "aa73a596-c1a7-4067-b86f-051832a1bbca"
+        },
+        "9fe9b6c3-f887-4523-976a-6aa050235658": {
+            "gate": "3db48cb8-e90f-473a-ad68-5b0a354873af",
+            "pin": "82bc3877-eb2a-4066-837f-9c269223efed"
+        },
+        "bb9bbbd8-9aa2-49aa-98fd-b508ded56028": {
+            "gate": "3db48cb8-e90f-473a-ad68-5b0a354873af",
+            "pin": "5984a3f6-11c0-4051-a370-c020285fcf29"
+        },
+        "be802fd1-5220-4258-a11f-c1529e6187e0": {
+            "gate": "3db48cb8-e90f-473a-ad68-5b0a354873af",
+            "pin": "ef09d407-b8b2-4251-b612-5f45a5e81de2"
+        },
+        "f827f54d-8a25-45ce-a5c6-aa1cdc05418a": {
+            "gate": "3db48cb8-e90f-473a-ad68-5b0a354873af",
+            "pin": "0758012e-6b16-4993-94d6-de196749b3f5"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "096cb3e2-bf75-4e69-9783-b248f50056ea",
+    "value": [
+        false,
+        ""
+    ]
+}

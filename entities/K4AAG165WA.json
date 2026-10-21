@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "ed0c51a8-3f4a-4f75-a5ec-27422d2159cc": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a61ec10f-4da5-406f-b96a-284ec828e8f5"
+        }
+    },
+    "manufacturer": "Samsung",
+    "name": "K4AAG165WA",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "c7a964ff-8f0f-4a49-8eda-ae36eacdc0f4"
+}

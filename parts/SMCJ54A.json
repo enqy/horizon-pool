@@ -1,0 +1,46 @@
+{
+    "MPN": [
+        false,
+        "SMCJ54A"
+    ],
+    "datasheet": [
+        false,
+        "https://www.lcsc.com/datasheet/C438116.pdf"
+    ],
+    "description": [
+        false,
+        "54 V unidirectional TVS diode, 1500 W peak pulse power, DO-214AB (SMC)"
+    ],
+    "entity": "3cff4087-2a3f-4688-8fd4-590659e86412",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Jingdao Microelectronics"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "f0517dc0-3740-4dfc-b92f-66dbeb835b68": "C438116"
+    },
+    "package": "c84b5062-13ab-4714-8f83-bc30f4499f83",
+    "pad_map": {
+        "800af12f-6386-4f4d-a3a1-113226b99ef5": {
+            "gate": "91d8a5a9-984f-4a9f-a7c0-e4026ade3e9f",
+            "pin": "96cd3e50-656a-4441-a090-504e9f22eb2c"
+        },
+        "d5e2b72c-52db-4815-945e-f2009348c598": {
+            "gate": "91d8a5a9-984f-4a9f-a7c0-e4026ade3e9f",
+            "pin": "1cebbf32-1357-4318-97eb-1870be2614e9"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "tvs"
+    ],
+    "type": "part",
+    "uuid": "9d45282e-ef40-460f-a587-7a6dc5430dd5",
+    "value": [
+        false,
+        "54V"
+    ]
+}

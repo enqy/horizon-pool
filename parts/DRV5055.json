@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "DRV5055"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
+    ],
+    "description": [
+        false,
+        "Ratiometric linear hall effect sensor with analog output"
+    ],
+    "entity": "6c44f8fe-83fa-4b8b-a7be-ae9fff1ff7a0",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "a37e4931-af72-4de0-b4e4-0357747ba44d",
+    "pad_map": {
+        "531c3759-a1b6-40c6-9474-5554dc94bcec": {
+            "gate": "ae6b3dc9-c871-4561-9f88-26835be91fbb",
+            "pin": "bf361b70-5deb-48a7-96ee-efa84f70acb2"
+        },
+        "9fe9b6c3-f887-4523-976a-6aa050235658": {
+            "gate": "ae6b3dc9-c871-4561-9f88-26835be91fbb",
+            "pin": "bcbc2cf6-e4ae-4ee3-b076-280616a372ef"
+        },
+        "be802fd1-5220-4258-a11f-c1529e6187e0": {
+            "gate": "ae6b3dc9-c871-4561-9f88-26835be91fbb",
+            "pin": "d3f1df15-4541-4bb5-8bdb-d3b8408073e3"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "hall effect",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "f78ac719-922a-412e-89bc-6d9c82391359",
+    "value": [
+        false,
+        ""
+    ]
+}

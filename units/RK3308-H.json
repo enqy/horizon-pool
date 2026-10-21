@@ -1,0 +1,14 @@
+{
+    "manufacturer": "Rockchip",
+    "name": "RK3308 H",
+    "pins": {
+        "7fe96daa-a947-4d0e-a094-f979c48c519d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CORE_VDD",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "e17dab84-5094-40d9-ae36-4097fa417901"
+}

@@ -1,0 +1,62 @@
+{
+    "manufacturer": "ST",
+    "name": "LED2000",
+    "pins": {
+        "03f7a374-68b3-4c90-bfd0-56ddd56f0cb1": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "086228a0-b6dc-422b-89d4-511a953f3e6d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VINA",
+            "swap_group": 0
+        },
+        "09c2f888-cf3c-449a-a19e-d8fba131ff60": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VINSW",
+            "swap_group": 0
+        },
+        "5398138f-8a4b-4b16-9f74-06514e5679af": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "FB",
+            "swap_group": 0
+        },
+        "6192ad19-f740-43b7-ba86-109e95a9afed": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SW",
+            "swap_group": 0
+        },
+        "a1f115fa-0ab4-4998-ac3d-7d6f03ecad44": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "PGND",
+            "swap_group": 0
+        },
+        "edfbacd2-749d-4eea-9403-fc490b6affb9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "EP",
+            "swap_group": 0
+        },
+        "f4e2d5c0-f2a5-40cf-aae6-4372637a6d80": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DIM",
+            "swap_group": 0
+        },
+        "fb1e3773-da47-4790-a56f-8eec454f7890": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "3bec8e69-bc03-4cb8-b09a-f2d882d11d91"
+}

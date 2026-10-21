@@ -1,0 +1,14 @@
+{
+    "manufacturer": "Rockchip",
+    "name": "RK3308 P",
+    "pins": {
+        "4a717910-2165-4d5b-885c-5c59ca6286a4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "LOGIC_VDD",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "142c6b51-0235-446b-9f86-41586a4cd0b3"
+}

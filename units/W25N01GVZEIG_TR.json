@@ -1,0 +1,56 @@
+{
+    "manufacturer": "",
+    "name": "W25N01GVZEIG_TR",
+    "pins": {
+        "0549abf1-26fa-4100-bdde-5dad39ea3c30": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DO(IO1)",
+            "swap_group": 0
+        },
+        "1ab8403b-a5e8-496e-a33a-74398fb284bb": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "2ead28f6-4893-4912-9dfc-bef16dd3a1e8": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "6418f3f7-dea5-4f6c-9d35-5a695a0934e8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CLK",
+            "swap_group": 0
+        },
+        "77a613bb-8fd1-4251-a086-bd1bef40b275": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "/CS",
+            "swap_group": 0
+        },
+        "a31ad0db-e4e4-4026-ba24-569b2c99260d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "/HOLD(IO3)",
+            "swap_group": 0
+        },
+        "ad83c568-7e3f-4d4a-9b7a-9a3bc140fa94": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DI(IO0)",
+            "swap_group": 0
+        },
+        "dcd24781-6a0d-483e-8d74-8c759e0c31ac": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "/WP(IO2)",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "ffb5a2da-796f-40e0-8c68-876a0ce68a32"
+}

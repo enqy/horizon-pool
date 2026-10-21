@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "9aaa2419-f0cb-4643-9f90-7d109c2d7177": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "0630cdb1-d00d-4830-b092-efe5172f75db"
+        }
+    },
+    "manufacturer": "AMASS",
+    "name": "XT30PW(2+2)",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "ada64f67-5c01-46d9-962a-07074e999b15"
+}

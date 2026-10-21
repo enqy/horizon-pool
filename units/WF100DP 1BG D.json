@@ -1,0 +1,38 @@
+{
+    "manufacturer": "WF",
+    "name": "WF100DP 1BG D",
+    "pins": {
+        "4ed84609-e1a4-4a87-afb9-1fe26f70a63c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CSB",
+            "swap_group": 0
+        },
+        "85ceb95f-00c7-4275-a303-8cea26a7db35": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "b0ce47bd-6ff8-4d0b-87f1-a36f9d2699a9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "c46c7927-ee51-4ffe-9615-63651c7da522": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "c4dc7d25-b9eb-4bb7-8a3c-1e6d4b361a51": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "2b37aac6-535e-4b31-b0ad-0947a5d9133a"
+}

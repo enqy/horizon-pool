@@ -1,0 +1,38 @@
+{
+    "manufacturer": "EG Micro",
+    "name": "EG27517",
+    "pins": {
+        "0758012e-6b16-4993-94d6-de196749b3f5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN+",
+            "swap_group": 0
+        },
+        "5984a3f6-11c0-4051-a370-c020285fcf29": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "82bc3877-eb2a-4066-837f-9c269223efed": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN-",
+            "swap_group": 0
+        },
+        "aa73a596-c1a7-4067-b86f-051832a1bbca": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "ef09d407-b8b2-4251-b612-5f45a5e81de2": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUT",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "9d8e706f-2412-4660-8480-b1b4f4e09498"
+}

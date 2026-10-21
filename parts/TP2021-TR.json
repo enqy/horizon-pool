@@ -1,0 +1,60 @@
+{
+    "MPN": [
+        false,
+        "TP2021-TR"
+    ],
+    "datasheet": [
+        false,
+        "https://static.3peak.com/res/doc/ds/Datasheet_TP2021.pdf"
+    ],
+    "description": [
+        false,
+        "Nano-power comparator with integrated 1.248V voltage reference, push-pull output, 1.8V to 5.5V, SOT-23-6"
+    ],
+    "entity": "083a647a-0b8b-4458-81f1-36f3f973395b",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "3PEAK"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "fa22d8cd-b2df-428b-b4b4-0cf581bb04b7",
+    "pad_map": {
+        "070d0fed-3356-4782-bc68-33d7e178b4ab": {
+            "gate": "e3564c6e-ab76-4493-913b-3d4f17c560e5",
+            "pin": "2b1c570a-0379-4e1b-8ccf-4f065dbea92e"
+        },
+        "169d9ec6-a286-478f-876a-140a331843f2": {
+            "gate": "e3564c6e-ab76-4493-913b-3d4f17c560e5",
+            "pin": "9dd7b410-5fdb-4d76-9b79-f9e83e442ca3"
+        },
+        "3a765900-d0dc-449e-8c18-a212b2282853": {
+            "gate": "e3564c6e-ab76-4493-913b-3d4f17c560e5",
+            "pin": "780658af-939b-4553-a851-6f27a30bec5e"
+        },
+        "3e3d61f0-af76-4a01-9ab5-d560d0d93eea": {
+            "gate": "e3564c6e-ab76-4493-913b-3d4f17c560e5",
+            "pin": "42b13925-b158-4d84-8938-666b0bdf438e"
+        },
+        "8acc9e79-3388-45be-b701-4b11642d9403": {
+            "gate": "e3564c6e-ab76-4493-913b-3d4f17c560e5",
+            "pin": "2c4cf166-22c4-4e23-8509-dd3a4e9843c9"
+        },
+        "cc3b4f55-6eb3-4db3-857c-80e76eb972c1": {
+            "gate": "e3564c6e-ab76-4493-913b-3d4f17c560e5",
+            "pin": "429ba95b-9466-4361-84b8-fe8350836400"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "comparator",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "2e79a7cb-212a-40c1-98f1-4190bf6c991a",
+    "value": [
+        false,
+        ""
+    ]
+}

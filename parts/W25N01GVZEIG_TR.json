@@ -1,0 +1,76 @@
+{
+    "MPN": [
+        false,
+        "W25N01GVZEIG_TR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121610_Winbond-Elec-W25N01GVZEIG_C88868.pdf"
+    ],
+    "description": [
+        false,
+        "2.7V~3.6V 104MHz 1Gbit WSON-8-EP(6.1x8) NAND FLASH ROHS"
+    ],
+    "entity": "56ce030c-325e-4c91-8a38-eb1c95934452",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Winbond Elec"
+    ],
+    "model": "3270d046-1e99-4d26-8145-2582bfbf3aa2",
+    "orderable_MPNs": {
+        "4ad11d40-3008-4220-a2e4-7d107d52725e": "C88868"
+    },
+    "package": "e5f83ab6-cd3d-4a41-b550-41ea62c03e2a",
+    "pad_map": {
+        "2345fa90-6eb5-4de6-970f-9ffbe608cbce": {
+            "gate": "3c5fcffc-6023-4436-880b-21ce8fbe4fa1",
+            "pin": "2ead28f6-4893-4912-9dfc-bef16dd3a1e8"
+        },
+        "2f3faa7f-e66b-4f31-ba01-c4c9c8ed3d21": {
+            "gate": "3c5fcffc-6023-4436-880b-21ce8fbe4fa1",
+            "pin": "dcd24781-6a0d-483e-8d74-8c759e0c31ac"
+        },
+        "4c56fb9e-0cac-4d11-81b5-91073387db04": {
+            "gate": "3c5fcffc-6023-4436-880b-21ce8fbe4fa1",
+            "pin": "ad83c568-7e3f-4d4a-9b7a-9a3bc140fa94"
+        },
+        "4f965534-9bdf-45e2-8544-603efece3fc4": {
+            "gate": "3c5fcffc-6023-4436-880b-21ce8fbe4fa1",
+            "pin": "6418f3f7-dea5-4f6c-9d35-5a695a0934e8"
+        },
+        "bcfd21e3-5610-435a-860d-fc767ad33e61": {
+            "gate": "3c5fcffc-6023-4436-880b-21ce8fbe4fa1",
+            "pin": "77a613bb-8fd1-4251-a086-bd1bef40b275"
+        },
+        "c1812178-7126-425a-8e91-e0edd5aa134d": {
+            "gate": "3c5fcffc-6023-4436-880b-21ce8fbe4fa1",
+            "pin": "1ab8403b-a5e8-496e-a33a-74398fb284bb"
+        },
+        "c2514e41-bc98-43ed-a259-bcc0c7cc27ab": {
+            "gate": "3c5fcffc-6023-4436-880b-21ce8fbe4fa1",
+            "pin": "0549abf1-26fa-4100-bdde-5dad39ea3c30"
+        },
+        "ed4bd767-6131-45ce-b603-d19414e02656": {
+            "gate": "3c5fcffc-6023-4436-880b-21ce8fbe4fa1",
+            "pin": "a31ad0db-e4e4-4026-ba24-569b2c99260d"
+        },
+        "ee7dffa7-1077-41af-a7db-cefb35f4d7a7": {
+            "gate": "3c5fcffc-6023-4436-880b-21ce8fbe4fa1",
+            "pin": "2ead28f6-4893-4912-9dfc-bef16dd3a1e8"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "flash",
+        "ic",
+        "nand"
+    ],
+    "type": "part",
+    "uuid": "a09a1bb2-be48-4069-b371-1e3ec63d47a7",
+    "value": [
+        false,
+        ""
+    ]
+}

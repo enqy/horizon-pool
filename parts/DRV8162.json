@@ -1,0 +1,103 @@
+{
+    "MPN": [
+        false,
+        "DRV8162"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/drv8162.pdf"
+    ],
+    "description": [
+        false,
+        "100V half-bridge smart gate driver"
+    ],
+    "entity": "51340fb3-a495-4b0d-b305-2bfcf6ad8e17",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "948e12c5-4716-4f7c-b2bd-2f45e72ac741",
+    "pad_map": {
+        "0e3164f4-0308-4731-b9b2-96973ae24023": {
+            "gate": "ec49d1d7-4f2f-4488-be21-3a0791f84070",
+            "pin": "949cd6bd-a08b-420f-970a-6f5d42004581"
+        },
+        "24223b4e-fff4-48ab-8399-734f709c43a9": {
+            "gate": "ec49d1d7-4f2f-4488-be21-3a0791f84070",
+            "pin": "acfa09f0-42a3-4a6e-9647-959d1afb0ed5"
+        },
+        "264d2848-2567-432d-8ac2-1e7df8358074": {
+            "gate": "ec49d1d7-4f2f-4488-be21-3a0791f84070",
+            "pin": "70deb4be-bab9-415d-a25c-c838254e758b"
+        },
+        "48b928a6-b224-437c-898d-887c9e7c15d2": {
+            "gate": "ec49d1d7-4f2f-4488-be21-3a0791f84070",
+            "pin": "367d3a9f-c9c3-4c82-b19d-272c904f3aed"
+        },
+        "5088d184-f20b-4c1f-8a5a-d5e596c28276": {
+            "gate": "ec49d1d7-4f2f-4488-be21-3a0791f84070",
+            "pin": "efeadffd-b1e5-4c85-8564-8929ab7f39b6"
+        },
+        "52b6a838-78e9-4684-bc91-6e70436f0466": {
+            "gate": "ec49d1d7-4f2f-4488-be21-3a0791f84070",
+            "pin": "9cc5685b-c8f4-4d4e-ab0d-ad6f0d048813"
+        },
+        "78e3ff6b-fa95-4b50-a8dd-95ac2da12e94": {
+            "gate": "ec49d1d7-4f2f-4488-be21-3a0791f84070",
+            "pin": "dbfd5020-eb56-463f-b0db-f27008bc2dbb"
+        },
+        "7f3bb347-9a14-4e4b-8220-cee0886b1382": {
+            "gate": "ec49d1d7-4f2f-4488-be21-3a0791f84070",
+            "pin": "3f444237-a671-4434-9d4b-90fa91fda800"
+        },
+        "857527b9-be0d-4265-b17e-6f02abb0a856": {
+            "gate": "ec49d1d7-4f2f-4488-be21-3a0791f84070",
+            "pin": "fd594ee9-09c0-46dd-b80a-4bd73d0010de"
+        },
+        "af3c1e9e-f726-4e61-9c4e-a429e55e24e8": {
+            "gate": "ec49d1d7-4f2f-4488-be21-3a0791f84070",
+            "pin": "7c882dc6-82b4-45ba-94f0-b077c180102c"
+        },
+        "c2f59464-87ff-416e-a352-488959dd4d97": {
+            "gate": "ec49d1d7-4f2f-4488-be21-3a0791f84070",
+            "pin": "ff422643-dba6-4981-9fe3-3b4911c00908"
+        },
+        "d3ceb932-4ec7-4fdb-9f00-1f71bd3db171": {
+            "gate": "ec49d1d7-4f2f-4488-be21-3a0791f84070",
+            "pin": "069b386a-5e20-4648-979a-f1814aa23a7a"
+        },
+        "d7786521-5290-4ee8-a21d-068f2c610ed1": {
+            "gate": "ec49d1d7-4f2f-4488-be21-3a0791f84070",
+            "pin": "ae457153-db6f-4e1d-a2c0-9089031b7d09"
+        },
+        "df0552db-9807-416f-a1e0-3e94daff593c": {
+            "gate": "ec49d1d7-4f2f-4488-be21-3a0791f84070",
+            "pin": "5e790f65-575e-4544-b89e-83c43171d30b"
+        },
+        "f1013290-42d4-4cfb-b5c6-972c47012705": {
+            "gate": "ec49d1d7-4f2f-4488-be21-3a0791f84070",
+            "pin": "6ab51c14-9943-4b7e-9045-8448a583579d"
+        },
+        "f6568c1b-32dd-44d8-af0c-ac0dae0228aa": {
+            "gate": "ec49d1d7-4f2f-4488-be21-3a0791f84070",
+            "pin": "df3b67ec-8db3-4f58-be8a-93d25fb0a424"
+        },
+        "fb2d98b4-fc6d-4c7f-9713-9c71bdb25ab8": {
+            "gate": "ec49d1d7-4f2f-4488-be21-3a0791f84070",
+            "pin": "e678af5c-4ab1-4fd6-b89a-7ad7962d0927"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "gate-driver"
+    ],
+    "type": "part",
+    "uuid": "e7f4ef9e-ba2f-4d28-884f-046770097c8f",
+    "value": [
+        false,
+        ""
+    ]
+}

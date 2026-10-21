@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "541a1546-b442-424d-9799-c7dec5e2c607": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "42d68440-cfb8-44c1-84a0-d0657e4fc2c4"
+        }
+    },
+    "manufacturer": "ST",
+    "name": "ST25DV04KC",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "nfc"
+    ],
+    "type": "entity",
+    "uuid": "675695c9-99a1-4a27-a9c3-3b9b051d01b3"
+}

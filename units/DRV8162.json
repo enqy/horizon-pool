@@ -1,0 +1,110 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "DRV8162",
+    "pins": {
+        "069b386a-5e20-4648-979a-f1814aa23a7a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "nDRVOFF",
+            "swap_group": 0
+        },
+        "367d3a9f-c9c3-4c82-b19d-272c904f3aed": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "BST",
+            "swap_group": 0
+        },
+        "3f444237-a671-4434-9d4b-90fa91fda800": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "GH",
+            "swap_group": 0
+        },
+        "5e790f65-575e-4544-b89e-83c43171d30b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INL/EN",
+            "swap_group": 0
+        },
+        "6ab51c14-9943-4b7e-9045-8448a583579d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DT/MODE",
+            "swap_group": 0
+        },
+        "70deb4be-bab9-415d-a25c-c838254e758b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IDRIVE1",
+            "swap_group": 0
+        },
+        "7c882dc6-82b4-45ba-94f0-b077c180102c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SL",
+            "swap_group": 0
+        },
+        "949cd6bd-a08b-420f-970a-6f5d42004581": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "nFAULT",
+            "swap_group": 0
+        },
+        "9cc5685b-c8f4-4d4e-ab0d-ad6f0d048813": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "GL",
+            "swap_group": 0
+        },
+        "acfa09f0-42a3-4a6e-9647-959d1afb0ed5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GVDD",
+            "swap_group": 0
+        },
+        "ae457153-db6f-4e1d-a2c0-9089031b7d09": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INH/IN",
+            "swap_group": 0
+        },
+        "dbfd5020-eb56-463f-b0db-f27008bc2dbb": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IDRIVE2",
+            "swap_group": 0
+        },
+        "df3b67ec-8db3-4f58-be8a-93d25fb0a424": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VDSLVL",
+            "swap_group": 0
+        },
+        "e678af5c-4ab1-4fd6-b89a-7ad7962d0927": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDRAIN",
+            "swap_group": 0
+        },
+        "efeadffd-b1e5-4c85-8564-8929ab7f39b6": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "fd594ee9-09c0-46dd-b80a-4bd73d0010de": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SH",
+            "swap_group": 0
+        },
+        "ff422643-dba6-4981-9fe3-3b4911c00908": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GVDD_LS",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "27fe4a7d-ed0b-451c-a4a9-64fb3ccc1386"
+}

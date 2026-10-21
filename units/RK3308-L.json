@@ -1,0 +1,62 @@
+{
+    "manufacturer": "Rockchip",
+    "name": "RK3308 L",
+    "pins": {
+        "18f3be06-b92a-475c-8b87-dc10555c9133": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB1_DM",
+            "swap_group": 0
+        },
+        "2082fbc3-ef7d-4565-8286-1cfde58e73df": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB0_DP",
+            "swap_group": 0
+        },
+        "4593cb88-c1d0-447a-bc26-a49cffa938c1": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB_ID",
+            "swap_group": 0
+        },
+        "467c899f-c965-498f-a590-fd5a5bc4ef27": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB_AVDD_3V3",
+            "swap_group": 0
+        },
+        "7c998fce-07a3-42ce-bb79-a6d6d59b7814": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB_VBUS",
+            "swap_group": 0
+        },
+        "80e19508-b14a-471c-b847-a05b5b236aac": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB0_DM",
+            "swap_group": 0
+        },
+        "8d43c166-9f68-429b-a222-c1d246914cc4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB1_DP",
+            "swap_group": 0
+        },
+        "8e6b8e36-0c40-47e9-9b04-8cb1cfa01382": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB_VDD_0V9",
+            "swap_group": 0
+        },
+        "b41bb542-ee76-441a-b52d-074f94577c09": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB_AVDD_1V8",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "f214117c-8f65-454c-a47f-bd33696fc992"
+}

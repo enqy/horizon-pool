@@ -1,0 +1,76 @@
+{
+    "MPN": [
+        false,
+        "530471010"
+    ],
+    "datasheet": [
+        false,
+        "https://www.molex.com/en-us/products/part-detail/530471010?display=pdf"
+    ],
+    "description": [
+        false,
+        "10 Pin Molex PicoBlade Straight Header"
+    ],
+    "entity": "504f4bfc-0750-4221-89bb-1160fc2e6ee7",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Molex"
+    ],
+    "model": "7c24ad97-67a9-483b-8978-2f8fc077dd5f",
+    "package": "f90b7a07-3e22-48dd-bd78-6c1919282b15",
+    "pad_map": {
+        "172500e7-25e2-4bd0-ac58-399458ab0d97": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "7222169d-2694-4b74-ae22-5ad906606f99"
+        },
+        "55fc5682-e01f-49e1-b8e1-afdeca04358f": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "aa3df9df-f618-49c4-bbe4-36d4757a60ba"
+        },
+        "5c8b0775-04b3-4c90-9985-4268d3eb1d6e": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "38db3294-dfc3-430b-92a1-2a1187c442ab"
+        },
+        "75994450-24d4-4333-941a-de166be40108": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "1cca2e10-ef16-4885-9ecc-9ee7fdbb7a4a"
+        },
+        "8540799d-43e5-4853-a0ea-127ee226a913": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "c4b28d29-3d36-426c-9e96-e3c874a781ac"
+        },
+        "a9b489f1-1f3a-40a4-831b-83e6cc9cd29d": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "f776e830-d17f-422f-adac-e6e5ebaee545"
+        },
+        "b94059bc-eb3d-4087-bf67-35f2634f9ebb": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "4c3f7b77-060a-4cc8-9589-5b33c9d3b678"
+        },
+        "d5f8ae89-229a-42c0-bdf1-1082068f0714": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "63a2f649-839c-488c-8d87-bfae6388ef1a"
+        },
+        "e0861065-58d6-4f05-ad7e-0c24a661b901": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "d1f34c2f-6541-401e-b843-81befc8d8f93"
+        },
+        "e90312a1-d74a-43a5-b6bb-ab97a802a30a": {
+            "gate": "d0030b61-eea7-40e5-bb04-e8914c4f57d4",
+            "pin": "3db7fe02-604e-4960-b2b1-0578f4782512"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "header"
+    ],
+    "type": "part",
+    "uuid": "7ffe3a4e-b799-408a-8bad-dd855ec866ba",
+    "value": [
+        false,
+        ""
+    ]
+}

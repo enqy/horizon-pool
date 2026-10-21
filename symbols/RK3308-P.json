@@ -1,0 +1,117 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {
+        "0d149548-e596-416e-924a-d7de5bc19228": {
+            "position": [
+                -8750000,
+                -2500000
+            ]
+        },
+        "3dc9df6c-e665-4801-85c8-7f743159ce0d": {
+            "position": [
+                8750000,
+                -2500000
+            ]
+        },
+        "9ace3c56-f00b-40c6-b710-d8aa8c3202cf": {
+            "position": [
+                -8750000,
+                2500000
+            ]
+        },
+        "b399bf70-ad6d-4d45-b7d1-d9b8ca7079a7": {
+            "position": [
+                8750000,
+                2500000
+            ]
+        }
+    },
+    "lines": {
+        "0c31a91a-79f9-4919-a456-292022403dee": {
+            "from": "b399bf70-ad6d-4d45-b7d1-d9b8ca7079a7",
+            "layer": 0,
+            "to": "3dc9df6c-e665-4801-85c8-7f743159ce0d",
+            "width": 0
+        },
+        "2f3e5226-44d3-427a-b5cb-e8c74e67ba7c": {
+            "from": "0d149548-e596-416e-924a-d7de5bc19228",
+            "layer": 0,
+            "to": "9ace3c56-f00b-40c6-b710-d8aa8c3202cf",
+            "width": 0
+        },
+        "a41c87b2-97c6-48c3-8001-f678576bfb90": {
+            "from": "3dc9df6c-e665-4801-85c8-7f743159ce0d",
+            "layer": 0,
+            "to": "0d149548-e596-416e-924a-d7de5bc19228",
+            "width": 0
+        },
+        "eb100488-2d03-45a0-ad6d-aad326fcaff2": {
+            "from": "9ace3c56-f00b-40c6-b710-d8aa8c3202cf",
+            "layer": 0,
+            "to": "b399bf70-ad6d-4d45-b7d1-d9b8ca7079a7",
+            "width": 0
+        }
+    },
+    "name": "RK3308 P",
+    "pins": {
+        "4a717910-2165-4d5b-885c-5c59ca6286a4": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                8750000,
+                0
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "4f2e0f12-94ca-4c94-9737-2d14d9bcf435": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -8750000,
+                    3750000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        },
+        "aa475b0c-a581-4a13-9663-e96ecf151ac5": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -8750000,
+                    -3750000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "142c6b51-0235-446b-9f86-41586a4cd0b3",
+    "uuid": "844c6d64-667a-408f-9229-c1fb490ad327"
+}

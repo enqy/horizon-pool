@@ -1,0 +1,20 @@
+{
+    "manufacturer": "TUOZHAN",
+    "name": "P2-0402R5TA2-045T-001",
+    "pins": {
+        "0125d7d9-2027-4539-a626-1dda38bbd734": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "ac26a2b0-932f-4899-a0f1-1e8c4cc74b60": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "K",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "3e562de0-2b45-4d40-9366-644b005e25e3"
+}

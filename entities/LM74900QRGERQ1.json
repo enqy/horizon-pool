@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "619965b5-7dcd-4b86-9064-15b457b7cf45": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8bbe6e84-e7c9-49fe-88a3-a451e0eb0ef3"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "LM74900QRGERQ1",
+    "prefix": "U",
+    "tags": [
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "b5c5773d-b3c7-4082-b86c-86df8188c399"
+}

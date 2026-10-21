@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "3db48cb8-e90f-473a-ad68-5b0a354873af": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "9d8e706f-2412-4660-8480-b1b4f4e09498"
+        }
+    },
+    "manufacturer": "EG Micro",
+    "name": "EG27517",
+    "prefix": "U",
+    "tags": [
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "6de188ad-9610-4825-9424-c6cc6f405361"
+}

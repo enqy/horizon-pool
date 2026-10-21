@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "7574db0f-3c65-417a-bf92-da59f100bbc2": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "6b77747b-7afb-4847-81c1-851802d66d06"
+        }
+    },
+    "manufacturer": "SMD RGB LEDs(Built-in IC) ROHS",
+    "name": "SK6812MINI-E",
+    "prefix": "D",
+    "tags": [
+        "led"
+    ],
+    "type": "entity",
+    "uuid": "ea052838-49a1-41f8-952f-0ed55eb17617"
+}

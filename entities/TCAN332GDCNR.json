@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "69dd6458-13ec-44a0-8a3e-ba2fc04a2105": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8db2e405-2c20-42b2-a38b-4782b957d042"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "TCAN332GDCNR",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "66d5c274-c618-4eea-bbe4-c046468a963c"
+}

@@ -1,0 +1,32 @@
+{
+    "manufacturer": "AMASS",
+    "name": "XT30PW(2+2)",
+    "pins": {
+        "15274175-6af5-45a4-a4bf-44b284fbf64c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "X_TOP",
+            "swap_group": 0
+        },
+        "49166f8e-2a74-4d03-a4d8-92392111f4f2": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "94d1f17e-24da-4541-9cc4-7ce1a3da1f73": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "X_BOT",
+            "swap_group": 0
+        },
+        "9ad25b1b-91de-4756-8475-fb8c27845698": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "0630cdb1-d00d-4830-b092-efe5172f75db"
+}

@@ -1,0 +1,43 @@
+{
+    "MPN": [
+        false,
+        "AOTA-B201610S3R3-101-T"
+    ],
+    "datasheet": [
+        false,
+        "https://www.lcsc.com/datasheet/C42411119.pdf"
+    ],
+    "description": [
+        false,
+        "Inductor for RP2350 series microcontrollers,"
+    ],
+    "entity": "79178a92-9f50-4d7f-aa74-b1a4da153eca",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Abracon"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "d75e9a5e-6289-4a73-905a-35f1584a410e",
+    "pad_map": {
+        "5fca2e9a-38bf-4b7d-9835-65410ff781fa": {
+            "gate": "be8e8978-b1c5-4cde-bc93-cbefe7f94675",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "aec37e30-ecbc-4fc0-ac75-ea242b799c5a": {
+            "gate": "be8e8978-b1c5-4cde-bc93-cbefe7f94675",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "inductor"
+    ],
+    "type": "part",
+    "uuid": "d281a6f9-9349-465a-861c-d4635a75aecd",
+    "value": [
+        false,
+        "3.3uH"
+    ]
+}

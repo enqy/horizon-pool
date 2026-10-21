@@ -1,0 +1,102 @@
+{
+    "MPN": [
+        false,
+        "MP8772GQ-Z"
+    ],
+    "datasheet": [
+        false,
+        "https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP8772GQ"
+    ],
+    "description": [
+        false,
+        "The MP8772 is a fully integrated, high-frequency, synchronous, rectified, step-down, switch-mode converter with internal power MOSFETs. The MP8772 offers a very compact solution that achieves 12A of continuous output current with excellent load and line regulation over a wide input range. The MP8772 uses synchronous mode operation for higher efficiency over the output current load range. Constant-on-time (COT) control operation provides very fast transient response, easy loop design, and very tight output regulation. Full protection features include short-circuit protection (SCP), over-current protection (OCP), under-voltage protection (UVP), and thermal shutdown. The MP8772 requires a minimal number of readily available, standard, external components and is available in a space-saving QFN-16 (3mmx3mm) package."
+    ],
+    "entity": "55c7d3a1-944e-460c-bfd3-e907ee027aad",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "42597e75-3bd6-48ee-89ae-f437eddf9067",
+    "package": "6c1c059f-12f6-4edb-a587-d72d8c4804aa",
+    "pad_map": {
+        "2ada45fa-c572-4f4f-8b0c-20ed68017642": {
+            "gate": "4af9eda6-12c6-49db-b216-cfa3005bdc26",
+            "pin": "94051383-ac2d-4a16-9ebd-59474f96d389"
+        },
+        "2c57551c-d84a-4e4e-9a44-1646905eba80": {
+            "gate": "4af9eda6-12c6-49db-b216-cfa3005bdc26",
+            "pin": "6b4122e6-407c-4a1b-818e-566330c59888"
+        },
+        "3389afa4-6ba6-4941-adba-00b806126e6c": {
+            "gate": "4af9eda6-12c6-49db-b216-cfa3005bdc26",
+            "pin": "91148069-e88b-41e6-a097-41f1e090c4b9"
+        },
+        "53de9c9b-2db3-44f1-a4b3-b71662eaa67b": {
+            "gate": "4af9eda6-12c6-49db-b216-cfa3005bdc26",
+            "pin": "91148069-e88b-41e6-a097-41f1e090c4b9"
+        },
+        "71f20d76-0cf5-458b-a554-b0d92604e977": {
+            "gate": "4af9eda6-12c6-49db-b216-cfa3005bdc26",
+            "pin": "91148069-e88b-41e6-a097-41f1e090c4b9"
+        },
+        "826757e3-c971-4c34-a5bc-d90b81c1d403": {
+            "gate": "4af9eda6-12c6-49db-b216-cfa3005bdc26",
+            "pin": "6598bbf9-7366-4eff-a719-41f88bc955a1"
+        },
+        "970bcd54-0507-4c44-8d86-0b4cfb183d1b": {
+            "gate": "4af9eda6-12c6-49db-b216-cfa3005bdc26",
+            "pin": "d413f0e4-b46a-4ae5-b630-b92b4da0a224"
+        },
+        "a52c775b-f945-4b5a-9244-0a66ab5679e7": {
+            "gate": "4af9eda6-12c6-49db-b216-cfa3005bdc26",
+            "pin": "b26ccacf-2a40-4e52-847a-553e10096555"
+        },
+        "b8786970-ef0a-4199-bcf5-8742307a9bd9": {
+            "gate": "4af9eda6-12c6-49db-b216-cfa3005bdc26",
+            "pin": "d2fb356c-3777-489f-8c8e-1e959f5f5d50"
+        },
+        "bd4c4509-278e-4e82-9053-33921b0d1efe": {
+            "gate": "4af9eda6-12c6-49db-b216-cfa3005bdc26",
+            "pin": "e3e24427-5989-4f8c-8dd5-2295abc921fe"
+        },
+        "bd64b12c-4f7a-4f2c-bd0a-e3f456502586": {
+            "gate": "4af9eda6-12c6-49db-b216-cfa3005bdc26",
+            "pin": "91148069-e88b-41e6-a097-41f1e090c4b9"
+        },
+        "bdf70204-f5f5-4934-ae75-53d92a4d2345": {
+            "gate": "4af9eda6-12c6-49db-b216-cfa3005bdc26",
+            "pin": "d01f8f79-25c9-4bde-b161-4150f820af18"
+        },
+        "ccb68f92-8d69-40b2-8eab-82ba3ffebfa6": {
+            "gate": "4af9eda6-12c6-49db-b216-cfa3005bdc26",
+            "pin": "df82f0a2-a9ad-42a9-aaff-e058c96d9e86"
+        },
+        "d2f1a31a-b079-4bba-a211-296a57538a2f": {
+            "gate": "4af9eda6-12c6-49db-b216-cfa3005bdc26",
+            "pin": "d01f8f79-25c9-4bde-b161-4150f820af18"
+        },
+        "e4de6169-6bd8-4d8e-ada8-249c36a3371f": {
+            "gate": "4af9eda6-12c6-49db-b216-cfa3005bdc26",
+            "pin": "02f9526f-66fb-4e99-8edc-561a71e90d3c"
+        },
+        "f3613be0-b06b-4265-8151-28ad454fe5e1": {
+            "gate": "4af9eda6-12c6-49db-b216-cfa3005bdc26",
+            "pin": "91148069-e88b-41e6-a097-41f1e090c4b9"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "buck",
+        "dcdc",
+        "ic",
+        "regulator"
+    ],
+    "type": "part",
+    "uuid": "0ba71ab8-4d95-4b18-a535-f7d522f15648",
+    "value": [
+        false,
+        ""
+    ]
+}

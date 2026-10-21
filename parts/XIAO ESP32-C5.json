@@ -1,0 +1,97 @@
+{
+    "MPN": [
+        false,
+        "XIAO ESP32-C5"
+    ],
+    "datasheet": [
+        false,
+        "https://wiki.seeedstudio.com/xiao_esp32c5_getting_started"
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "dd039a29-d765-4272-8751-9d9fdfcd23ed",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Seeed Studio"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "949d4ff9-ca3d-4ab0-9d62-5ef7b2e2fd5e",
+    "pad_map": {
+        "05c280d3-0df4-4af8-af46-e44792f56f98": {
+            "gate": "2cfcb814-e7d6-439a-91ed-3e8ad85dd982",
+            "pin": "760dd3ab-2df7-4ab4-8f20-57504f9fc91e"
+        },
+        "10847f9a-013d-47a8-801a-2cb4b5ddaf90": {
+            "gate": "2cfcb814-e7d6-439a-91ed-3e8ad85dd982",
+            "pin": "207fa12b-7e2f-4834-b366-a2dadab039cd"
+        },
+        "374138bb-d027-445b-a65e-e78644f0589e": {
+            "gate": "2cfcb814-e7d6-439a-91ed-3e8ad85dd982",
+            "pin": "667fedae-2fc1-4f30-85b8-f3b0f24e0680"
+        },
+        "3f213310-d336-484f-b38c-8779c0aa728d": {
+            "gate": "2cfcb814-e7d6-439a-91ed-3e8ad85dd982",
+            "pin": "95e6d3a4-b866-49e1-8a65-489850f033e5"
+        },
+        "46ecc946-acf7-4128-8659-5a8072c7abf1": {
+            "gate": "2cfcb814-e7d6-439a-91ed-3e8ad85dd982",
+            "pin": "d2cb4a53-1f7b-4d0e-b3ed-c1aacc3a7a32"
+        },
+        "6f65a893-c4c9-4f3a-813f-234f2eceb778": {
+            "gate": "2cfcb814-e7d6-439a-91ed-3e8ad85dd982",
+            "pin": "7cb25c9a-2603-42c2-bcd9-465ddb53cd35"
+        },
+        "724a4f01-c712-4ab9-a755-f523482aeae7": {
+            "gate": "2cfcb814-e7d6-439a-91ed-3e8ad85dd982",
+            "pin": "ea6b417e-c936-46f5-98b0-cd84fa8d7ebc"
+        },
+        "83523f6d-9107-4d22-b71d-27015de37953": {
+            "gate": "2cfcb814-e7d6-439a-91ed-3e8ad85dd982",
+            "pin": "02fda920-36f9-4d85-b822-50d73594ebdd"
+        },
+        "8377c738-10e9-4e4b-a9d3-55dd8333c645": {
+            "gate": "2cfcb814-e7d6-439a-91ed-3e8ad85dd982",
+            "pin": "090a4f38-a563-4014-99f2-01ac923e85c7"
+        },
+        "8f0d8e54-3dec-4505-a1b4-c3c42cd2ad5d": {
+            "gate": "2cfcb814-e7d6-439a-91ed-3e8ad85dd982",
+            "pin": "b5298649-69e7-44d5-9ed3-f5a99cd60880"
+        },
+        "9ffbe975-bec6-4997-9645-49a7fed2dc97": {
+            "gate": "2cfcb814-e7d6-439a-91ed-3e8ad85dd982",
+            "pin": "3f2d8ae4-845c-4a27-9839-b568ccd31394"
+        },
+        "a52eebe6-6a04-4c75-93ad-f71a319be76e": {
+            "gate": "2cfcb814-e7d6-439a-91ed-3e8ad85dd982",
+            "pin": "9330524a-b384-4292-9191-6eec3e6ac5bd"
+        },
+        "b4b8340d-a29c-4a77-9669-dc5514e6758f": {
+            "gate": "2cfcb814-e7d6-439a-91ed-3e8ad85dd982",
+            "pin": "05a3e0c8-b5fc-40b2-a590-d64377c86bf1"
+        },
+        "bca478fe-b50b-481e-aa97-67bb3e19dfda": {
+            "gate": "2cfcb814-e7d6-439a-91ed-3e8ad85dd982",
+            "pin": "fc02efff-c35b-47ff-a259-fbd3e31fa1ec"
+        },
+        "d5e4b8be-7b25-42d0-9f13-c9f07bf9de93": {
+            "gate": "2cfcb814-e7d6-439a-91ed-3e8ad85dd982",
+            "pin": "be40752c-6a71-4185-afb4-e521e13e1287"
+        },
+        "f52ab235-8cf5-4190-92e2-54e044247860": {
+            "gate": "2cfcb814-e7d6-439a-91ed-3e8ad85dd982",
+            "pin": "ddfa6892-c521-4759-b24f-50aa718b87b5"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "059ad663-c9f5-438b-bd40-ac69c8e386ef",
+    "value": [
+        false,
+        ""
+    ]
+}

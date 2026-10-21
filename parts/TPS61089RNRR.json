@@ -1,0 +1,81 @@
+{
+    "MPN": [
+        false,
+        "TPS61089RNRR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.lcsc.com/datasheet/C165129.pdf"
+    ],
+    "description": [
+        false,
+        "The TPS61089x represents the TPS61089 and the TPS610891. The TPS61089x is a fully-integrated synchronous boost converter with a 19-mΩ main power switch and a 27-mΩ rectifier switch. The device provides a high efficiency and small size power solution for portable equipment. The TPS61089x features wide input voltage range from 2.7 V to 12 V to support applications powered with single cell or two cell Lithium ion/polymer batteries. The TPS61089x has 7-A continuous switch current capability and provides output voltage up to 12.6 V."
+    ],
+    "entity": "28ca07f2-9958-4af4-bf87-5cc41b408865",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "dae38fc7-880e-4070-a529-2faf195f66b6",
+    "pad_map": {
+        "00ac6c90-8dcd-46ef-88c4-f11f29ea6875": {
+            "gate": "4e1b4756-0184-426b-8475-222237b10e98",
+            "pin": "7d9d4205-548a-409a-8137-fb783ea2d2de"
+        },
+        "0efbcc43-5427-4d0c-8e82-9dde214468ab": {
+            "gate": "4e1b4756-0184-426b-8475-222237b10e98",
+            "pin": "c8c3f9fb-338f-4c6a-84cd-28ee26e9152e"
+        },
+        "10aa6be5-9c84-4eea-85cf-a20474cd6b5d": {
+            "gate": "4e1b4756-0184-426b-8475-222237b10e98",
+            "pin": "8a6d099a-ddfb-4318-8c6a-c1f3193c71f0"
+        },
+        "10ab70e3-2cd8-489f-a0cb-b0964a945555": {
+            "gate": "4e1b4756-0184-426b-8475-222237b10e98",
+            "pin": "bdb648ca-d078-4216-8cda-6342f90a8870"
+        },
+        "1729ce91-b3fc-4597-a88a-43aed9e45cf2": {
+            "gate": "4e1b4756-0184-426b-8475-222237b10e98",
+            "pin": "c282f06e-9ffe-4ca3-bdba-1f67a8a9999f"
+        },
+        "3fd9e174-e16e-426a-954e-c6dc0997a9be": {
+            "gate": "4e1b4756-0184-426b-8475-222237b10e98",
+            "pin": "2b0f7029-dda8-4470-845d-a4a37f0ebef3"
+        },
+        "58c00e56-1ed2-4b99-b04b-58588ae27675": {
+            "gate": "4e1b4756-0184-426b-8475-222237b10e98",
+            "pin": "ff85ce4c-23f3-4e33-ad64-aef0b9068b52"
+        },
+        "6e306da3-4a95-48be-a0f1-35b2516fc41c": {
+            "gate": "4e1b4756-0184-426b-8475-222237b10e98",
+            "pin": "3eec1a67-ccc2-4e9d-985b-1171c42230a9"
+        },
+        "9219f0ba-1f74-4235-bac3-f323eb4375ba": {
+            "gate": "4e1b4756-0184-426b-8475-222237b10e98",
+            "pin": "1710150d-2375-4c51-b54e-0ad247c5d2db"
+        },
+        "cb969bd8-b8ce-4eb0-89c9-b7b841b85024": {
+            "gate": "4e1b4756-0184-426b-8475-222237b10e98",
+            "pin": "8d8d8976-86a0-4c0f-bc24-8bbc302f8c13"
+        },
+        "ddd448d8-f4b4-4fbe-992d-3fc89f82c0ee": {
+            "gate": "4e1b4756-0184-426b-8475-222237b10e98",
+            "pin": "bdb648ca-d078-4216-8cda-6342f90a8870"
+        },
+        "f2e66d43-b76a-4540-8dec-1aeb9b9b733d": {
+            "gate": "4e1b4756-0184-426b-8475-222237b10e98",
+            "pin": "5cf8d2c2-1481-48dc-a685-3f37e284bc6a"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "0e529b92-509d-4b9b-a36f-4619196aee37",
+    "value": [
+        false,
+        ""
+    ]
+}

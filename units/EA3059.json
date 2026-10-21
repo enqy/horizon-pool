@@ -1,0 +1,152 @@
+{
+    "manufacturer": "Everanalog",
+    "name": "EA3059",
+    "pins": {
+        "00c1e34a-25c1-4dc5-9efe-17fde361ce47": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VIN1",
+            "swap_group": 0
+        },
+        "119169c7-00ce-4e05-b0ca-ccf009e2b012": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "LX3",
+            "swap_group": 0
+        },
+        "3cf38eb8-08b4-4cc5-88b4-56a4a0659a07": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "3f303922-26cf-46e6-894d-fdd859f9e6d3": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN1",
+            "swap_group": 0
+        },
+        "439facbc-3889-4237-b57f-5a28ef05ceda": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "AGND",
+            "swap_group": 0
+        },
+        "4a236cde-9061-4c4b-a78b-0d5e0fa0d2d7": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VIN3",
+            "swap_group": 0
+        },
+        "4ef8746b-42d5-4580-aa80-8c14437ab511": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN3",
+            "swap_group": 0
+        },
+        "5090088f-84be-4e3c-9681-e805e0fa19b9": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "LX2",
+            "swap_group": 0
+        },
+        "5b3193c4-207e-4fac-bf47-e55a26eff90d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "FB4",
+            "swap_group": 0
+        },
+        "5cf231a4-9da6-4f42-8709-5ac77d091d49": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND2",
+            "swap_group": 0
+        },
+        "5fd6d0c9-01de-489e-926f-3d47e3384120": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "LX1",
+            "swap_group": 0
+        },
+        "7d59a125-454c-42ea-ab5a-b44e4fe71d20": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "FB3",
+            "swap_group": 0
+        },
+        "890c2790-6804-40ce-9d07-4d863b62be65": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN2",
+            "swap_group": 0
+        },
+        "8ae54784-9df5-4ecf-aed4-13291fbf8eb1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "FB2",
+            "swap_group": 0
+        },
+        "8d5749c0-fc75-4aef-8334-440506b38b29": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "b4485847-b8d0-459f-821a-2230c37db8de": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VIN4",
+            "swap_group": 0
+        },
+        "b5227805-812c-43ab-8b25-8b572e6ab73b": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "LX4",
+            "swap_group": 0
+        },
+        "d0045fb0-680b-49fc-9277-f049928e509c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN4",
+            "swap_group": 0
+        },
+        "d3e5e5d9-2fcc-4169-95a6-3f88431a4b3b": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "da674d38-dd64-4a9b-90e1-18d33053c13b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND4",
+            "swap_group": 0
+        },
+        "e888d0df-68db-48eb-ada5-6bc2cd6ba469": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "FB1",
+            "swap_group": 0
+        },
+        "ebcaad38-e1af-4763-99ba-a883afa1b0c7": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VIN2",
+            "swap_group": 0
+        },
+        "f1a062be-724f-4e06-bfcd-812edbd4fd9d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND1",
+            "swap_group": 0
+        },
+        "fa9a43f9-aeb4-4f26-90a5-47b4b239984a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND3",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "94ff389e-c078-4cc9-9d9a-212b5b3eb223"
+}

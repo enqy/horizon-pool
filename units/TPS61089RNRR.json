@@ -1,0 +1,74 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "TPS61089RNRR",
+    "pins": {
+        "1710150d-2375-4c51-b54e-0ad247c5d2db": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "FB",
+            "swap_group": 0
+        },
+        "2b0f7029-dda8-4470-845d-a4a37f0ebef3": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "3eec1a67-ccc2-4e9d-985b-1171c42230a9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "5cf8d2c2-1481-48dc-a685-3f37e284bc6a": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "7d9d4205-548a-409a-8137-fb783ea2d2de": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "ILIM",
+            "swap_group": 0
+        },
+        "8a6d099a-ddfb-4318-8c6a-c1f3193c71f0": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "COMP",
+            "swap_group": 0
+        },
+        "8d8d8976-86a0-4c0f-bc24-8bbc302f8c13": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "BOOT",
+            "swap_group": 0
+        },
+        "bdb648ca-d078-4216-8cda-6342f90a8870": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "SW",
+            "swap_group": 0
+        },
+        "c282f06e-9ffe-4ca3-bdba-1f67a8a9999f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "FSW",
+            "swap_group": 0
+        },
+        "c8c3f9fb-338f-4c6a-84cd-28ee26e9152e": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VOUT",
+            "swap_group": 0
+        },
+        "ff85ce4c-23f3-4e33-ad64-aef0b9068b52": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VIN",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "665e6ca1-a26f-4aaf-ab2e-b66738e70066"
+}

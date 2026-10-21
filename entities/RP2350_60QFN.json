@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "277d94cd-3f1c-4008-b13d-3e5b7afb0741": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "c32cf3b5-2075-4c48-a015-d909f9a0b6d0"
+        }
+    },
+    "manufacturer": "Raspberry Pi",
+    "name": "RP2350_60QFN",
+    "prefix": "U",
+    "tags": [
+        "mcu"
+    ],
+    "type": "entity",
+    "uuid": "34e4c5d7-a0b2-42dc-b879-fd83cc3f7c5c"
+}

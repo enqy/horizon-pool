@@ -1,0 +1,20 @@
+{
+    "manufacturer": "MYOUNG",
+    "name": "MY-21700-01",
+    "pins": {
+        "e1aceed8-fca2-425d-b933-40d87fe06dc3": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "BAT+",
+            "swap_group": 0
+        },
+        "e99cca5b-8760-41ee-91ce-59bd5949d7ec": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "BAT-",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "64eae486-8363-4919-b608-31788c43ef10"
+}

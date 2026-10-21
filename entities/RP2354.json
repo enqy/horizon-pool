@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "277d94cd-3f1c-4008-b13d-3e5b7afb0741": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "4be0bf06-15a8-4f15-a1f7-ef1673e1e0a5"
+        }
+    },
+    "manufacturer": "Raspberry Pi",
+    "name": "RP2354",
+    "prefix": "U",
+    "tags": [
+        "mcu"
+    ],
+    "type": "entity",
+    "uuid": "456eb110-be4f-4450-ab23-586fa9ee9651"
+}

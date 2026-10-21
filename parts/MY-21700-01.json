@@ -1,0 +1,59 @@
+{
+    "MPN": [
+        false,
+        "MY-21700-01"
+    ],
+    "datasheet": [
+        false,
+        "https://www.lcsc.com/datasheet/C19184126.pdf"
+    ],
+    "description": [
+        false,
+        "21700 battery clip."
+    ],
+    "entity": "a6402e7e-da5d-46d5-8c5a-bd9b4537bda7",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "MYOUNG"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "ac1a76bc-8ed7-4367-a95b-f41540cad27d",
+    "pad_map": {
+        "0dafd9fd-3aed-4d00-9eca-57cc05e04da5": {
+            "gate": "722bf7a1-c9d5-44b1-b8dc-88973a04c810",
+            "pin": "e1aceed8-fca2-425d-b933-40d87fe06dc3"
+        },
+        "48be90d0-00b6-4b00-a3bf-ddb1f78f47ad": {
+            "gate": "722bf7a1-c9d5-44b1-b8dc-88973a04c810",
+            "pin": "e99cca5b-8760-41ee-91ce-59bd5949d7ec"
+        },
+        "a247b4f5-e6e1-480c-8b00-e2c97940d09d": {
+            "gate": "722bf7a1-c9d5-44b1-b8dc-88973a04c810",
+            "pin": "e1aceed8-fca2-425d-b933-40d87fe06dc3"
+        },
+        "c81e43cd-afa4-4929-b0dc-9b2bff28457a": {
+            "gate": "722bf7a1-c9d5-44b1-b8dc-88973a04c810",
+            "pin": "e99cca5b-8760-41ee-91ce-59bd5949d7ec"
+        },
+        "cbbca17c-b567-4c45-98d2-38693091dc42": {
+            "gate": "722bf7a1-c9d5-44b1-b8dc-88973a04c810",
+            "pin": "e99cca5b-8760-41ee-91ce-59bd5949d7ec"
+        },
+        "da95c14d-5bb4-4641-8516-7efff86388d0": {
+            "gate": "722bf7a1-c9d5-44b1-b8dc-88973a04c810",
+            "pin": "e1aceed8-fca2-425d-b933-40d87fe06dc3"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "battery"
+    ],
+    "type": "part",
+    "uuid": "e965c8a8-9ccc-4706-8fd1-fa3dd60d9785",
+    "value": [
+        false,
+        ""
+    ]
+}

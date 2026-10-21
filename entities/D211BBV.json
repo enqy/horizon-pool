@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "f1730ead-86cc-430f-9840-774ca6a90456": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "0805de6c-a55e-4242-82b3-11dae4110d50"
+        }
+    },
+    "manufacturer": "Artinchip",
+    "name": "D211BBV",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "9985bc93-bdf0-45b5-a5fe-581e906f8565"
+}

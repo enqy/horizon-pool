@@ -1,0 +1,103 @@
+{
+    "MPN": [
+        false,
+        "NTP53121G0JHKZ"
+    ],
+    "datasheet": [
+        false,
+        "https://www.nxp.com/docs/en/data-sheet/NTP53x2.pdf"
+    ],
+    "description": [
+        false,
+        "NTAG 5 link, NFC Forum Type 5 Tag with I2C bridge and energy harvesting, 16 kbit EEPROM"
+    ],
+    "entity": "59708733-9687-48d1-9529-8541dfaa9ce6",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "NXP"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "c7063a93-3032-432d-8363-5f3705213ba5": "C1864154"
+    },
+    "package": "108ef36d-b3e8-4102-8ac2-d819339d07f1",
+    "pad_map": {
+        "10e94d29-db12-4b49-8b1a-19036ad4f33b": {
+            "gate": "d068a7ec-9eb5-40ea-848e-689b9bb74a26",
+            "pin": "074de5e0-d951-41de-87c4-ce91a6ef557e"
+        },
+        "12e45955-2a72-4162-ae1a-6b737d710c79": {
+            "gate": "d068a7ec-9eb5-40ea-848e-689b9bb74a26",
+            "pin": "fbd652d0-e1fd-40a4-bb4c-aedad3d69eb0"
+        },
+        "21bac06e-3356-48eb-983b-1e93f2b22e3f": {
+            "gate": "d068a7ec-9eb5-40ea-848e-689b9bb74a26",
+            "pin": "5fdf93cb-2707-4d9d-a800-f7011e45bbca"
+        },
+        "30cca7d6-0b28-4a02-9f89-6f5ca47474fb": {
+            "gate": "d068a7ec-9eb5-40ea-848e-689b9bb74a26",
+            "pin": "3e9534af-cd07-4cae-8896-db4121b84c13"
+        },
+        "4b9fc5e7-4e5d-4c2a-a7ff-79df488d5413": {
+            "gate": "d068a7ec-9eb5-40ea-848e-689b9bb74a26",
+            "pin": "dea816b7-a2c0-4eea-9792-1806e28da2d5"
+        },
+        "5712a0ac-bf36-42f8-bfef-0987f803d336": {
+            "gate": "d068a7ec-9eb5-40ea-848e-689b9bb74a26",
+            "pin": "f40b3dfb-cbde-43d8-a0fc-a22370ba476b"
+        },
+        "5c99e2d7-0961-4494-aaa0-d9d23c739760": {
+            "gate": "d068a7ec-9eb5-40ea-848e-689b9bb74a26",
+            "pin": "d387c492-c201-4e7d-888d-f71bcbd06f83"
+        },
+        "70aa511b-b2f1-4916-b76d-1a96c374cb78": {
+            "gate": "d068a7ec-9eb5-40ea-848e-689b9bb74a26",
+            "pin": "878e9aaf-0621-49c7-abc2-2ce6dfe019bf"
+        },
+        "796051a6-3825-4d1e-bed3-0735582191dc": {
+            "gate": "d068a7ec-9eb5-40ea-848e-689b9bb74a26",
+            "pin": "f293c688-124f-4b53-8b7c-c913f6fa7b88"
+        },
+        "7aea1006-44be-4634-9e3d-93b7ef7771e3": {
+            "gate": "d068a7ec-9eb5-40ea-848e-689b9bb74a26",
+            "pin": "a89e3776-a0ef-4783-8ecd-e0a8d71b97d7"
+        },
+        "7ea5f63c-5e87-490c-8c9f-244d02a2455a": {
+            "gate": "d068a7ec-9eb5-40ea-848e-689b9bb74a26",
+            "pin": "748715d1-ad22-4e33-ae5e-30a8fa20db26"
+        },
+        "8ea7f09c-8a4a-423e-b6b0-b9d97c84ab0c": {
+            "gate": "d068a7ec-9eb5-40ea-848e-689b9bb74a26",
+            "pin": "e583b21c-10bd-4467-8c6e-bec59fd7d968"
+        },
+        "af713f1c-6d5c-4336-870e-8bae9ce9856c": {
+            "gate": "d068a7ec-9eb5-40ea-848e-689b9bb74a26",
+            "pin": "47e91da7-238a-4368-9cef-f4311224dc16"
+        },
+        "d29cc7e4-0e51-420c-8c3c-cf1ab0dd53a0": {
+            "gate": "d068a7ec-9eb5-40ea-848e-689b9bb74a26",
+            "pin": "f8476ad1-4533-43aa-8723-aeabca2789ad"
+        },
+        "decafa0d-3807-4001-b8db-c4c038c25f83": {
+            "gate": "d068a7ec-9eb5-40ea-848e-689b9bb74a26",
+            "pin": "fd2cc37e-7feb-43bd-8eee-3219dc99d1d1"
+        },
+        "f41c544b-7fbc-49ee-b6d1-ccb7822f7dcc": {
+            "gate": "d068a7ec-9eb5-40ea-848e-689b9bb74a26",
+            "pin": "c53d1e03-833b-4e7b-87fe-45fa77cef202"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "nfc"
+    ],
+    "type": "part",
+    "uuid": "572eff58-e0c9-4e23-8678-33f071773679",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "ec49d1d7-4f2f-4488-be21-3a0791f84070": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "27fe4a7d-ed0b-451c-a4a9-64fb3ccc1386"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "DRV8162",
+    "prefix": "U",
+    "tags": [
+        "gate-driver"
+    ],
+    "type": "entity",
+    "uuid": "51340fb3-a495-4b0d-b305-2bfcf6ad8e17"
+}

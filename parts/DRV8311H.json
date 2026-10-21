@@ -1,0 +1,137 @@
+{
+    "MPN": [
+        false,
+        "DRV8311H"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/drv8311.pdf"
+    ],
+    "description": [
+        false,
+        "The DRV8311 provides three integrated MOSFET half-H-bridges for driving a three-phase brushless DC (BLDC) motor for 5-V, 9-V, 12-V, or 18-V DC rails or 1S to 4S battery powered applications. The device integrates three current-sense amplifiers (CSA) with integrated current sense for sensing the three phase currents of BLDC motors to achieve optimum FOC and current-control system implementation."
+    ],
+    "entity": "aaca8c73-e2ac-4be6-b162-157895c5eb96",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "7e3ff02d-2162-4ba2-8b3b-be1aa02f7677",
+    "pad_map": {
+        "0b088110-c064-4a09-8aad-9350910cd3ee": {
+            "gate": "e3783917-6818-45de-b16b-467b5765610e",
+            "pin": "b827bff4-f8ef-40b4-b8c0-c688be5d836a"
+        },
+        "1bb466d1-b171-45f7-8e61-0f402c3ac10e": {
+            "gate": "e3783917-6818-45de-b16b-467b5765610e",
+            "pin": "845884e7-241e-43f7-a4c0-c699447b6643"
+        },
+        "1c26f68c-bc80-447a-bc3b-c07dc9b741fc": {
+            "gate": "e3783917-6818-45de-b16b-467b5765610e",
+            "pin": "7bfcdea8-363d-40ac-83fd-e3e0038ef7b4"
+        },
+        "1d239a24-1227-40f8-986f-e463e293cc01": {
+            "gate": "e3783917-6818-45de-b16b-467b5765610e",
+            "pin": "32678475-9e64-47c8-a377-9524d0907fab"
+        },
+        "23fdddd7-3bdb-41b6-9f42-88e8cda2e87c": {
+            "gate": "e3783917-6818-45de-b16b-467b5765610e",
+            "pin": "d8fde418-faac-4f58-8a40-1781d4cc7308"
+        },
+        "304f2330-e0f9-4542-b7ea-d48080426bfb": {
+            "gate": "e3783917-6818-45de-b16b-467b5765610e",
+            "pin": "fc6819e7-55ff-4d77-aa41-bc17456a1f73"
+        },
+        "47b9b8cf-da8c-4b03-8c8d-568ad1e8f8fc": {
+            "gate": "e3783917-6818-45de-b16b-467b5765610e",
+            "pin": "625590ef-0d24-447c-aa0b-6850dbb716ca"
+        },
+        "4c83479e-8704-4db3-a425-78225aa2100c": {
+            "gate": "e3783917-6818-45de-b16b-467b5765610e",
+            "pin": "3fabfcd7-7199-4ef8-b1eb-3681c5930600"
+        },
+        "5054dcc6-4fcd-4ed2-b619-bd5871ec95f2": {
+            "gate": "e3783917-6818-45de-b16b-467b5765610e",
+            "pin": "c3a6237f-722b-4848-aea6-347e2cdb9fc3"
+        },
+        "51e9104c-2c41-431f-9525-30b778c38b1e": {
+            "gate": "e3783917-6818-45de-b16b-467b5765610e",
+            "pin": "a04620ae-057e-42af-ace0-18c6af844698"
+        },
+        "521b5238-1b23-401e-bee9-15d903c86203": {
+            "gate": "e3783917-6818-45de-b16b-467b5765610e",
+            "pin": "882bb49c-15f6-4497-ae6b-3c5f998e6c5b"
+        },
+        "609c3477-3f2a-4d08-b1a1-433538c2e3ca": {
+            "gate": "e3783917-6818-45de-b16b-467b5765610e",
+            "pin": "89eb1f5f-527a-41d9-b6af-55eef102c5da"
+        },
+        "6c18a341-3239-42b2-b499-9cc7af10829d": {
+            "gate": "e3783917-6818-45de-b16b-467b5765610e",
+            "pin": "a6160ed8-13c9-4388-bd1a-849c4218660d"
+        },
+        "79fbd1b7-1ca7-41a2-b169-8d0dbf79b408": {
+            "gate": "e3783917-6818-45de-b16b-467b5765610e",
+            "pin": "d8fde418-faac-4f58-8a40-1781d4cc7308"
+        },
+        "7a5586cb-dc7c-4079-a7d0-fb33b4b71dc4": {
+            "gate": "e3783917-6818-45de-b16b-467b5765610e",
+            "pin": "79843108-a761-408e-9b55-2c2fbbf43496"
+        },
+        "7d18979f-6fea-4a03-85f6-f49f23f353b5": {
+            "gate": "e3783917-6818-45de-b16b-467b5765610e",
+            "pin": "e7b8c0ec-4746-45ec-b7b8-cc584a48d798"
+        },
+        "7f62bd8e-c1da-4064-bf99-2ea2fa2780a4": {
+            "gate": "e3783917-6818-45de-b16b-467b5765610e",
+            "pin": "f7eeddde-9f6d-44e3-8fee-260d4453e4de"
+        },
+        "9e784598-183e-4acd-848e-6d60cfdba6ce": {
+            "gate": "e3783917-6818-45de-b16b-467b5765610e",
+            "pin": "5e2a56f2-62d8-4f91-b15c-33cc4d5c12b4"
+        },
+        "aad7bb0b-4dbb-440d-b0dd-73bb67a103ef": {
+            "gate": "e3783917-6818-45de-b16b-467b5765610e",
+            "pin": "847dca11-8c4d-402d-b915-b487e4693c20"
+        },
+        "b505e227-a344-4ace-8a89-83784b436bf6": {
+            "gate": "e3783917-6818-45de-b16b-467b5765610e",
+            "pin": "d2bef99c-704a-4caf-9646-6b8861f47d1a"
+        },
+        "be6425dc-07ca-4426-8cb5-2eef2b490c55": {
+            "gate": "e3783917-6818-45de-b16b-467b5765610e",
+            "pin": "f05987bc-1a73-4acf-83d5-2ee3a55b73db"
+        },
+        "be9a5456-3ef2-46a2-9334-037e5f617efc": {
+            "gate": "e3783917-6818-45de-b16b-467b5765610e",
+            "pin": "a0c35078-01bb-4c2e-9e49-53526f26ccee"
+        },
+        "c653a26e-d89a-4ffc-a1ce-380e133675c2": {
+            "gate": "e3783917-6818-45de-b16b-467b5765610e",
+            "pin": "69b3f977-96d3-4920-a7f4-54530ca7463e"
+        },
+        "d2c5df20-8156-4d01-b056-550bc2d99918": {
+            "gate": "e3783917-6818-45de-b16b-467b5765610e",
+            "pin": "f45bd4c9-e0fb-42b9-b1f5-08032b099e56"
+        },
+        "fe0871d3-265c-4364-9281-d00437a41a0a": {
+            "gate": "e3783917-6818-45de-b16b-467b5765610e",
+            "pin": "7a907a7e-4822-45b9-a769-0001b6166129"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "bldc",
+        "gate driver",
+        "motor controller"
+    ],
+    "type": "part",
+    "uuid": "6edc6814-eb3f-4bb6-85f5-580000352180",
+    "value": [
+        false,
+        ""
+    ]
+}

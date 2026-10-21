@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "e3053e16-7ef8-4a99-a12b-4f6cac2a790a": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "94ff389e-c078-4cc9-9d9a-212b5b3eb223"
+        }
+    },
+    "manufacturer": "Everanalog",
+    "name": "EA3059",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "174f1f67-bb7c-4c4d-a57a-61804721bc93"
+}

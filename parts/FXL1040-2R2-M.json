@@ -1,0 +1,43 @@
+{
+    "MPN": [
+        false,
+        "FXL1040-2R2-M"
+    ],
+    "datasheet": [
+        false,
+        "https://www.lcsc.com/datasheet/C167228.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=Q1VdBVMHEgcNAQZVFVJeV1wFRFBZVlZWRFcKUQUCQFUxVlNRQFNYUVdfT1BcUjtW"
+    ],
+    "description": [
+        false,
+        "12A 2.2uH ±20% 18A 7mΩ Molded Inductor SMD,11.5x10mm Fixed Inductors RoHS"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "cjiang (Changjiang Microelectronics Tech)"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "ede2b620-a388-426b-aaee-09274b26968a",
+    "pad_map": {
+        "8052c764-b8d7-4d8f-8a67-2871a82407bf": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "f1454004-78e8-404e-b16d-1e4879606465": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "inductor"
+    ],
+    "type": "part",
+    "uuid": "ac691b1f-d587-4741-ac8e-6306d4ce9430",
+    "value": [
+        false,
+        "2.2uH"
+    ]
+}

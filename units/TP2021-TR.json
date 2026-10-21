@@ -1,0 +1,44 @@
+{
+    "manufacturer": "3PEAK",
+    "name": "TP2021-TR",
+    "pins": {
+        "2b1c570a-0379-4e1b-8ccf-4f065dbea92e": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUT",
+            "swap_group": 0
+        },
+        "2c4cf166-22c4-4e23-8509-dd3a4e9843c9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "V-",
+            "swap_group": 0
+        },
+        "429ba95b-9466-4361-84b8-fe8350836400": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN-",
+            "swap_group": 0
+        },
+        "42b13925-b158-4d84-8938-666b0bdf438e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN+",
+            "swap_group": 0
+        },
+        "780658af-939b-4553-a851-6f27a30bec5e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "V+",
+            "swap_group": 0
+        },
+        "9dd7b410-5fdb-4d76-9b79-f9e83e442ca3": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "REF",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "f984927c-7643-42cc-a756-daa4929cdced"
+}

@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "204b3a60-44ec-4df7-b4c7-3c0f679feea3": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "4af288e2-9632-4a0e-ab58-ef027d568086"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "MSPM0C1104S8YCJR",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "26bffe48-d4c3-4e3e-92dc-c25b016b9e46"
+}

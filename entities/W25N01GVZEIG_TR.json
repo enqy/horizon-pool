@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "3c5fcffc-6023-4436-880b-21ce8fbe4fa1": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "ffb5a2da-796f-40e0-8c68-876a0ce68a32"
+        }
+    },
+    "manufacturer": "",
+    "name": "W25N01GVZEIG_TR",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "56ce030c-325e-4c91-8a38-eb1c95934452"
+}

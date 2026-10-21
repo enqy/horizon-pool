@@ -1,0 +1,73 @@
+{
+    "MPN": [
+        false,
+        "LED2000"
+    ],
+    "datasheet": [
+        false,
+        "https://www.st.com/resource/en/datasheet/led2000.pdf"
+    ],
+    "description": [
+        false,
+        "Monolithic 3A buck LED constant current driver."
+    ],
+    "entity": "f3bf0cf3-cc26-4e2c-9941-78f8ffcc9c76",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ST"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "96aef65c-7395-4ef6-8216-d0f4e948c37a",
+    "pad_map": {
+        "0c663ba0-dc41-4299-910c-c1126243bedf": {
+            "gate": "3c029b52-8807-46a4-bf89-e913633e9465",
+            "pin": "f4e2d5c0-f2a5-40cf-aae6-4372637a6d80"
+        },
+        "2832be48-6e39-40dc-ae05-a05bf1da7e3b": {
+            "gate": "3c029b52-8807-46a4-bf89-e913633e9465",
+            "pin": "09c2f888-cf3c-449a-a19e-d8fba131ff60"
+        },
+        "50433ef2-a611-42f5-8f94-ebe72df625dc": {
+            "gate": "3c029b52-8807-46a4-bf89-e913633e9465",
+            "pin": "6192ad19-f740-43b7-ba86-109e95a9afed"
+        },
+        "5bd22159-f96d-4c9a-8e4f-6fb3b2156b53": {
+            "gate": "3c029b52-8807-46a4-bf89-e913633e9465",
+            "pin": "086228a0-b6dc-422b-89d4-511a953f3e6d"
+        },
+        "5e219b79-d054-406e-a434-07c186ff8092": {
+            "gate": "3c029b52-8807-46a4-bf89-e913633e9465",
+            "pin": "a1f115fa-0ab4-4998-ac3d-7d6f03ecad44"
+        },
+        "61b4af3f-7c40-47fb-a80c-29bf66742284": {
+            "gate": "3c029b52-8807-46a4-bf89-e913633e9465",
+            "pin": "edfbacd2-749d-4eea-9403-fc490b6affb9"
+        },
+        "638ef533-0b7a-45ea-825a-8d72bc0f9430": {
+            "gate": "3c029b52-8807-46a4-bf89-e913633e9465",
+            "pin": "fb1e3773-da47-4790-a56f-8eec454f7890"
+        },
+        "b3c6be0d-412f-4e1e-a354-cd2e9d409354": {
+            "gate": "3c029b52-8807-46a4-bf89-e913633e9465",
+            "pin": "03f7a374-68b3-4c90-bfd0-56ddd56f0cb1"
+        },
+        "c69d57b4-eff5-4a28-89ff-282532a8de1d": {
+            "gate": "3c029b52-8807-46a4-bf89-e913633e9465",
+            "pin": "5398138f-8a4b-4b16-9f74-06514e5679af"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "driver",
+        "ic",
+        "led"
+    ],
+    "type": "part",
+    "uuid": "887d7cb9-ed12-4e84-bec7-c2e211c82293",
+    "value": [
+        false,
+        ""
+    ]
+}

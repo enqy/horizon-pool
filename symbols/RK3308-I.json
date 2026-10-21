@@ -1,0 +1,117 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {
+        "152510ea-2d34-4c1a-bd97-2863c35af592": {
+            "position": [
+                15000000,
+                16250000
+            ]
+        },
+        "517378e2-0c38-4ed5-8d3b-1fd5ad349eab": {
+            "position": [
+                15000000,
+                -16250000
+            ]
+        },
+        "7b3ba552-4b27-4388-8032-677e46a16c26": {
+            "position": [
+                -15000000,
+                -16250000
+            ]
+        },
+        "ca5d6466-7e36-4991-a63a-5e358bf59e28": {
+            "position": [
+                -15000000,
+                16250000
+            ]
+        }
+    },
+    "lines": {
+        "28a42169-f026-48ba-aa5f-ff4352ec1942": {
+            "from": "7b3ba552-4b27-4388-8032-677e46a16c26",
+            "layer": 0,
+            "to": "ca5d6466-7e36-4991-a63a-5e358bf59e28",
+            "width": 0
+        },
+        "65b8bb17-f378-40d7-8eb4-b776040efce9": {
+            "from": "517378e2-0c38-4ed5-8d3b-1fd5ad349eab",
+            "layer": 0,
+            "to": "7b3ba552-4b27-4388-8032-677e46a16c26",
+            "width": 0
+        },
+        "799e0cce-58dc-4db9-8b9b-dd3232f13ed5": {
+            "from": "152510ea-2d34-4c1a-bd97-2863c35af592",
+            "layer": 0,
+            "to": "517378e2-0c38-4ed5-8d3b-1fd5ad349eab",
+            "width": 0
+        },
+        "d73708ad-399d-4e33-b52f-7fa835c179d9": {
+            "from": "ca5d6466-7e36-4991-a63a-5e358bf59e28",
+            "layer": 0,
+            "to": "152510ea-2d34-4c1a-bd97-2863c35af592",
+            "width": 0
+        }
+    },
+    "name": "RK3308 I",
+    "pins": {
+        "172e8991-4af4-45e3-b2ca-068a109349cd": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "up",
+            "pad_visible": true,
+            "position": [
+                12500000,
+                16250000
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "4933ba4b-7cf0-45cc-a847-0dc6ca3b90c7": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -15000000,
+                    -17500000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        },
+        "96c67d1c-4a2e-4c03-9d29-9ecf718a43fc": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -15000000,
+                    17500000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "99633609-df4d-4db7-ab8c-ea92879e56b8",
+    "uuid": "6ad2e3da-c47e-4e35-8807-0a84e90b1f29"
+}

@@ -1,0 +1,80 @@
+{
+    "MPN": [
+        false,
+        "BQ25185DLHR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/bq25185.pdf?ts=1740000876172&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FBQ25185%252Fpart-details%252FBQ25185DLHR"
+    ],
+    "description": [
+        false,
+        "The BQ25185 is a linear battery charger IC focusing on small solution size and low quiescent current for extending battery life. The device is available in a leadless, small package with a thermal pad giving thermal performance. The device can support up to 1-A charging and system loads of up to 3.125 A."
+    ],
+    "entity": "af278dea-1e60-4e83-8bf8-1466e21f9a19",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "15d14b74-7411-45f4-bbdf-765a4c7b8d57",
+    "pad_map": {
+        "12db515f-4003-45b0-b0aa-7da020cf10cc": {
+            "gate": "86589bce-8471-4241-b33d-2516cfdee08c",
+            "pin": "e64e9d86-5ee2-470f-9a77-8bc3db7ac468"
+        },
+        "2de389c3-c288-4115-a970-a73c9faea1f9": {
+            "gate": "86589bce-8471-4241-b33d-2516cfdee08c",
+            "pin": "665ff494-ea1b-450f-bbd8-27299a7cc68d"
+        },
+        "3efc9bcf-50e3-4720-8576-b2aebc4ee3c8": {
+            "gate": "86589bce-8471-4241-b33d-2516cfdee08c",
+            "pin": "56e40104-4c1b-465e-85cd-465f89825602"
+        },
+        "6ec351cc-05ba-46da-87e3-fdec440958db": {
+            "gate": "86589bce-8471-4241-b33d-2516cfdee08c",
+            "pin": "510e3eb6-7ef7-4115-9c09-885b2bec1976"
+        },
+        "72e67863-3907-40d7-b432-01ec8e5becdb": {
+            "gate": "86589bce-8471-4241-b33d-2516cfdee08c",
+            "pin": "9216dd7c-13a1-4e59-998b-126ea90571a1"
+        },
+        "a642c37a-a9e6-4d3a-a9e5-1030bcca2d06": {
+            "gate": "86589bce-8471-4241-b33d-2516cfdee08c",
+            "pin": "29439710-3aa2-4a43-b2a2-b7802202a985"
+        },
+        "aa02252f-0271-41d6-8596-ee0350f32207": {
+            "gate": "86589bce-8471-4241-b33d-2516cfdee08c",
+            "pin": "aefa37c2-0229-4f92-a4f0-d8a8a721b09e"
+        },
+        "bafaac3b-c601-476f-b535-fe970b77986e": {
+            "gate": "86589bce-8471-4241-b33d-2516cfdee08c",
+            "pin": "41dbea37-fa07-4af3-a622-2425d5c3db74"
+        },
+        "c6686060-4e95-4e1d-84ac-61dd5b9039ed": {
+            "gate": "86589bce-8471-4241-b33d-2516cfdee08c",
+            "pin": "29439710-3aa2-4a43-b2a2-b7802202a985"
+        },
+        "d96a12a3-bd98-4c6d-a069-32ff07fc4a8b": {
+            "gate": "86589bce-8471-4241-b33d-2516cfdee08c",
+            "pin": "590f4f6d-708a-4831-84a3-735e2cb1a599"
+        },
+        "eba35555-d08d-494e-b507-3206a30f1c09": {
+            "gate": "86589bce-8471-4241-b33d-2516cfdee08c",
+            "pin": "70b5b239-3324-480c-9414-8862e2b18cf4"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "battery",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "74ddb662-e264-42d4-a07a-00c5c324ecfa",
+    "value": [
+        false,
+        ""
+    ]
+}

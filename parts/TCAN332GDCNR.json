@@ -1,0 +1,60 @@
+{
+    "MPN": [
+        false,
+        "TCAN332GDCNR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.lcsc.com/datasheet/C191007.pdf"
+    ],
+    "description": [
+        false,
+        "3.3V Can Transceiver"
+    ],
+    "entity": "66d5c274-c618-4eea-bbe4-c046468a963c",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "676967a5-ffcf-4ee9-a093-87b65e792f3e",
+    "pad_map": {
+        "1557c38f-db42-466e-9218-10a8b54bfbfa": {
+            "gate": "69dd6458-13ec-44a0-8a3e-ba2fc04a2105",
+            "pin": "72e800a6-6c95-4485-b913-3973f87b164f"
+        },
+        "38b5e3e8-34c3-43a0-9f04-1ff71fc1ce16": {
+            "gate": "69dd6458-13ec-44a0-8a3e-ba2fc04a2105",
+            "pin": "376700b9-1504-49dd-b495-767891a2cdcd"
+        },
+        "923f669c-1131-4c11-90db-a598de4660cf": {
+            "gate": "69dd6458-13ec-44a0-8a3e-ba2fc04a2105",
+            "pin": "55d576d4-0ce1-4724-b3ee-4518ddb9c194"
+        },
+        "942ade03-74bd-42f4-8c2c-56adcb93381f": {
+            "gate": "69dd6458-13ec-44a0-8a3e-ba2fc04a2105",
+            "pin": "a3354979-6c88-44f9-bc58-91fe22bab736"
+        },
+        "b1f25606-2f25-4adf-870d-4e418f4e4827": {
+            "gate": "69dd6458-13ec-44a0-8a3e-ba2fc04a2105",
+            "pin": "db125477-1c7f-4d5b-a4bb-ff2015546684"
+        },
+        "f5d0e5e1-7a17-44f2-b05d-6d0545b8db2c": {
+            "gate": "69dd6458-13ec-44a0-8a3e-ba2fc04a2105",
+            "pin": "68cafcf4-17ce-45e0-846a-72f4a60a64fa"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "can",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "ba292a54-3b93-414d-bfe9-e6f7ac7c70a2",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "MPN": [
+        false,
+        "P2-0402R5TA2-045T-001"
+    ],
+    "datasheet": [
+        false,
+        "https://www.lcsc.com/datasheet/C779449.pdf"
+    ],
+    "description": [
+        false,
+        "Red LED, 620-625 nm (peak 633 nm), 200 mcd at 20 mA, Vf 1.8-2.4 V, water-clear lens, 120 deg viewing angle, 0402 (1005)"
+    ],
+    "entity": "29012ba4-18f2-4f1d-a80f-115a137b09de",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TUOZHAN"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "4e31dc64-5079-4fee-8503-1141f1262f5e": "C779449"
+    },
+    "package": "a7e76790-9a79-4990-b006-32415b4c92d2",
+    "pad_map": {
+        "3f843eeb-a186-40a2-82bc-6e4be261af2a": {
+            "gate": "a52c5e10-f482-441f-8e79-123eca85cea2",
+            "pin": "ac26a2b0-932f-4899-a0f1-1e8c4cc74b60"
+        },
+        "c90cea02-1da2-4195-b14a-fd364ccd23dd": {
+            "gate": "a52c5e10-f482-441f-8e79-123eca85cea2",
+            "pin": "0125d7d9-2027-4539-a626-1dda38bbd734"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "led"
+    ],
+    "type": "part",
+    "uuid": "44a54cd1-02cb-47ce-9b27-65a62aac599d",
+    "value": [
+        false,
+        ""
+    ]
+}

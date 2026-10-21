@@ -1,0 +1,26 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "DRV5055",
+    "pins": {
+        "bcbc2cf6-e4ae-4ee3-b076-280616a372ef": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "bf361b70-5deb-48a7-96ee-efa84f70acb2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "d3f1df15-4541-4bb5-8bdb-d3b8408073e3": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUT",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "4a20c174-d121-4183-a712-d79470738c6e"
+}

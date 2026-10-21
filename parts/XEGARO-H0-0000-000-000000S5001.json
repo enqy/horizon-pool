@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "XEGARO-H0-0000-000-000000S5001"
+    ],
+    "base": "bf6d7bc2-a928-42d4-ac9f-378a503a5df1",
+    "datasheet": [
+        true,
+        "https://downloads.cree-led.com/files/ds/x/XLamp-XE-G.pdf"
+    ],
+    "description": [
+        false,
+        "Red-Orange XLamp XE-G LED"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Cree"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "df0be2b5-4ca0-48e3-997f-1bbffb1c774a",
+    "value": [
+        true,
+        "XLamp XE-G"
+    ]
+}

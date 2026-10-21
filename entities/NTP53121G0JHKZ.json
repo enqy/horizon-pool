@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "d068a7ec-9eb5-40ea-848e-689b9bb74a26": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "16db84b9-b8ae-480f-bf6a-baf327f6b648"
+        }
+    },
+    "manufacturer": "NXP",
+    "name": "NTP53121G0JHKZ",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "nfc"
+    ],
+    "type": "entity",
+    "uuid": "59708733-9687-48d1-9529-8541dfaa9ce6"
+}

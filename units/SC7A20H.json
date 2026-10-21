@@ -1,0 +1,80 @@
+{
+    "manufacturer": "Silan",
+    "name": "SC7A20H",
+    "pins": {
+        "2b9bcb1a-fc1c-4abb-b820-a9c05a3670c1": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CS",
+            "swap_group": 0
+        },
+        "40389ef7-7998-4c94-b4e5-205b9bbd0c4e": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC_1",
+            "swap_group": 0
+        },
+        "5f75dd18-20ee-4810-b53d-6d92bcda4bbd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GNDIO",
+            "swap_group": 0
+        },
+        "66623b0a-453b-47bc-a346-061168f4ffbe": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "79afc7b8-d7e1-47d6-bdc4-e59b867ea95b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "INT1",
+            "swap_group": 0
+        },
+        "8630e2cf-4d11-47be-bd2a-dde9975c1bac": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SDO",
+            "swap_group": 0
+        },
+        "8b317d59-aa84-45d3-8a40-592effd270f8": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDDIO",
+            "swap_group": 0
+        },
+        "a3cb89a9-0af1-491f-930f-67a81309022c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "aa0825c9-ea76-4215-9273-a0b9b72263df": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCx",
+            "swap_group": 0
+        },
+        "b64ea7cd-64ba-40d7-b638-7474b97ad8ed": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "b7c73193-6fca-4c32-b186-d29eefeb5316": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "INT2",
+            "swap_group": 0
+        },
+        "f6e7b6e7-304f-4ee2-a84f-f91900abf9ce": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDx",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "6d0ea4db-44cf-4346-b556-68d2225491be"
+}

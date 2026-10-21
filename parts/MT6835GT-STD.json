@@ -1,0 +1,100 @@
+{
+    "MPN": [
+        false,
+        "MT6835GT-STD"
+    ],
+    "datasheet": [
+        false,
+        "https://www.magntek.com.cn/upload/pdf/202407/MT6835_Rev.1.3.pdf"
+    ],
+    "description": [
+        false,
+        "21-bit High Accuracy Magnetic Angle Encoder IC"
+    ],
+    "entity": "0326885d-ed4e-4d4b-9c18-8942ec3b7e94",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "MagnTek"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "5d2457bb-5f7c-4976-ba29-170b5e1b26d5",
+    "pad_map": {
+        "05758a9c-5c2e-40da-8ac9-f28d2fb24ac3": {
+            "gate": "b0f830f6-ab24-493c-8383-97e783a044fb",
+            "pin": "2a5807a0-cc4b-4727-a6f3-ec007ea9afc1"
+        },
+        "20b9ee87-f5bb-46fe-ae39-b7ce71967d3a": {
+            "gate": "b0f830f6-ab24-493c-8383-97e783a044fb",
+            "pin": "b28ba14b-a509-41c6-bf44-bba13eb11a3f"
+        },
+        "58962fc9-a130-460a-acea-f5d84a96a403": {
+            "gate": "b0f830f6-ab24-493c-8383-97e783a044fb",
+            "pin": "aa0eafff-b784-4ef8-84fb-9009ca93177d"
+        },
+        "75d67c9d-52af-4abc-b8a7-dd30f87a6e66": {
+            "gate": "b0f830f6-ab24-493c-8383-97e783a044fb",
+            "pin": "281ceae7-9926-49bb-adca-f5b1ab464a12"
+        },
+        "7a8c3193-f15d-4027-873b-0344090df9d3": {
+            "gate": "b0f830f6-ab24-493c-8383-97e783a044fb",
+            "pin": "82fe5c20-5f3d-4542-8074-c083eb9ad25d"
+        },
+        "9293df8c-47ae-433b-a096-632c181f8d65": {
+            "gate": "b0f830f6-ab24-493c-8383-97e783a044fb",
+            "pin": "8dfe83e1-1e1b-44d3-8410-c7ea78e2e1ca"
+        },
+        "93ea395e-2243-4f17-ae7c-17390e9beec4": {
+            "gate": "b0f830f6-ab24-493c-8383-97e783a044fb",
+            "pin": "a3dd0475-6c92-45e9-b15b-f0bc08342e1f"
+        },
+        "a22ea422-2d31-4d18-9e98-c33f608558af": {
+            "gate": "b0f830f6-ab24-493c-8383-97e783a044fb",
+            "pin": "776c3ae5-35a4-40a0-b864-c2f7493d324e"
+        },
+        "a3d0c984-42ee-4e53-a5ea-2b0dfa83283b": {
+            "gate": "b0f830f6-ab24-493c-8383-97e783a044fb",
+            "pin": "cd323173-d8bd-4aef-a750-53673654e751"
+        },
+        "a4d88b50-f86a-4ab5-a7e7-8984afcf0b37": {
+            "gate": "b0f830f6-ab24-493c-8383-97e783a044fb",
+            "pin": "6774152d-1009-4e83-a7f3-6ae2e4a84c4f"
+        },
+        "b1bc5146-f3c3-4b10-8aba-5193eb663443": {
+            "gate": "b0f830f6-ab24-493c-8383-97e783a044fb",
+            "pin": "42b8fab8-143c-45d0-a2d4-06e127e6fbf1"
+        },
+        "cf1f71fb-8be4-4283-a757-f977de020f47": {
+            "gate": "b0f830f6-ab24-493c-8383-97e783a044fb",
+            "pin": "beabdfb9-ce16-49bf-8d13-decfceac735f"
+        },
+        "d59f461d-eeae-4bd0-88d5-8b78f86b13ca": {
+            "gate": "b0f830f6-ab24-493c-8383-97e783a044fb",
+            "pin": "51afaf11-27fe-4aa1-9e58-4ce341d542a4"
+        },
+        "da02e5d6-de1a-4a9d-9cd2-63d2e559673b": {
+            "gate": "b0f830f6-ab24-493c-8383-97e783a044fb",
+            "pin": "91144ec7-113d-4ec0-8e11-81564803252e"
+        },
+        "dfbf3b4a-985f-4d95-ac64-17ccad7d5bc4": {
+            "gate": "b0f830f6-ab24-493c-8383-97e783a044fb",
+            "pin": "b4cd4c27-2cbe-4197-a0c8-e1da870d4482"
+        },
+        "e3279ebf-3553-4d64-80d2-dd6d5230f4e8": {
+            "gate": "b0f830f6-ab24-493c-8383-97e783a044fb",
+            "pin": "b3b91b68-71c6-416f-b9ac-28e0f28212e5"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "encoder",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "c97dc9d8-53ce-46ac-bcb6-a19e9313622c",
+    "value": [
+        false,
+        ""
+    ]
+}

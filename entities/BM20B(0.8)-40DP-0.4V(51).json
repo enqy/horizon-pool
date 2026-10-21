@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "0a193c87-3e1b-4172-abde-30bc7de734f8": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "27dcd634-6c8d-4fce-8304-cce29736d4d8"
+        }
+    },
+    "manufacturer": "",
+    "name": "BM20B_0.8_-40DP-0.4V_51_",
+    "prefix": "J",
+    "tags": [],
+    "type": "entity",
+    "uuid": "7d35f09f-1be7-4f72-8df1-40b1aef7be3e"
+}

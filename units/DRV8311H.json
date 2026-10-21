@@ -1,0 +1,152 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "DRV8311H",
+    "pins": {
+        "32678475-9e64-47c8-a377-9524d0907fab": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "nFAULT",
+            "swap_group": 0
+        },
+        "3fabfcd7-7199-4ef8-b1eb-3681c5930600": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUTC",
+            "swap_group": 0
+        },
+        "5e2a56f2-62d8-4f91-b15c-33cc4d5c12b4": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SOC",
+            "swap_group": 0
+        },
+        "625590ef-0d24-447c-aa0b-6850dbb716ca": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SOA",
+            "swap_group": 0
+        },
+        "69b3f977-96d3-4920-a7f4-54530ca7463e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INLC",
+            "swap_group": 0
+        },
+        "79843108-a761-408e-9b55-2c2fbbf43496": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INLB",
+            "swap_group": 0
+        },
+        "7a907a7e-4822-45b9-a769-0001b6166129": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "CSAREF",
+            "swap_group": 0
+        },
+        "7bfcdea8-363d-40ac-83fd-e3e0038ef7b4": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VIN_AVDD",
+            "swap_group": 0
+        },
+        "845884e7-241e-43f7-a4c0-c699447b6643": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INHC",
+            "swap_group": 0
+        },
+        "847dca11-8c4d-402d-b915-b487e4693c20": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SLEW",
+            "swap_group": 0
+        },
+        "882bb49c-15f6-4497-ae6b-3c5f998e6c5b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GAIN",
+            "swap_group": 0
+        },
+        "89eb1f5f-527a-41d9-b6af-55eef102c5da": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "AVDD",
+            "swap_group": 0
+        },
+        "a04620ae-057e-42af-ace0-18c6af844698": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INHA",
+            "swap_group": 0
+        },
+        "a0c35078-01bb-4c2e-9e49-53526f26ccee": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "nSLEEP",
+            "swap_group": 0
+        },
+        "a6160ed8-13c9-4388-bd1a-849c4218660d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INHB",
+            "swap_group": 0
+        },
+        "b827bff4-f8ef-40b4-b8c0-c688be5d836a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SOB",
+            "swap_group": 0
+        },
+        "c3a6237f-722b-4848-aea6-347e2cdb9fc3": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "CP",
+            "swap_group": 0
+        },
+        "d2bef99c-704a-4caf-9646-6b8861f47d1a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INLA",
+            "swap_group": 0
+        },
+        "d8fde418-faac-4f58-8a40-1781d4cc7308": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "PGND",
+            "swap_group": 0
+        },
+        "e7b8c0ec-4746-45ec-b7b8-cc584a48d798": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "AGND",
+            "swap_group": 0
+        },
+        "f05987bc-1a73-4acf-83d5-2ee3a55b73db": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUTB",
+            "swap_group": 0
+        },
+        "f45bd4c9-e0fb-42b9-b1f5-08032b099e56": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MODE",
+            "swap_group": 0
+        },
+        "f7eeddde-9f6d-44e3-8fee-260d4453e4de": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VM",
+            "swap_group": 0
+        },
+        "fc6819e7-55ff-4d77-aa41-bc17456a1f73": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUTA",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b6df341e-6dbc-4bd0-91c6-1eaa8c51a32d"
+}

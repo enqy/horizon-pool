@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "e8a690b5-9ccd-4f1c-9069-7ba30bec0013": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "2b37aac6-535e-4b31-b0ad-0947a5d9133a"
+        }
+    },
+    "manufacturer": "WF",
+    "name": "WF100DP 1BG D",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "8321ef41-936e-4114-8a85-722461b4a9ed"
+}

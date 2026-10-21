@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "XEGABL-H2-0000-000-000000R4006"
+    ],
+    "base": "bf6d7bc2-a928-42d4-ac9f-378a503a5df1",
+    "datasheet": [
+        true,
+        "https://downloads.cree-led.com/files/ds/x/XLamp-XE-G.pdf"
+    ],
+    "description": [
+        false,
+        "Blue XLamp XE-G LED"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Cree"
+    ],
+    "model": "db9bace6-37a9-4760-a54a-acb3d0c2821a",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "114b51cb-fef7-47f7-8f99-a78ef3adc435",
+    "value": [
+        true,
+        "XLamp XE-G"
+    ]
+}

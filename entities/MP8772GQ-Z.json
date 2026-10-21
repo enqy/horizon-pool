@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "4af9eda6-12c6-49db-b216-cfa3005bdc26": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "e5ed3b69-3e51-4938-8c20-a3f86545f767"
+        }
+    },
+    "manufacturer": "",
+    "name": "MP8772GQ-Z",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "55c7d3a1-944e-460c-bfd3-e907ee027aad"
+}

@@ -1,0 +1,26 @@
+{
+    "manufacturer": "Rockchip",
+    "name": "RK3308 F",
+    "pins": {
+        "55ca8b4a-237f-4804-9ba1-189dde4fcd69": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PLL_AVDD_0V9",
+            "swap_group": 0
+        },
+        "d998c3dd-0ac8-4682-8459-278dbd9ab429": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PLL_AVDD_1V8",
+            "swap_group": 0
+        },
+        "ef46679b-fd64-4efc-af23-6748bd92fb12": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PLL_VSS",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "7c942354-ebdc-452b-8e2c-e2bc818025b1"
+}

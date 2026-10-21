@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "SMCJ54A",
+    "pins": {
+        "1cebbf32-1357-4318-97eb-1870be2614e9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "K",
+            "swap_group": 0
+        },
+        "96cd3e50-656a-4441-a090-504e9f22eb2c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "367ffb70-1d09-4607-a646-b33c57433aeb"
+}

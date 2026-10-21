@@ -1,0 +1,87 @@
+{
+    "MPN": [
+        false,
+        "SC7A20HTR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.lcsc.com/datasheet/C19274408.pdf"
+    ],
+    "description": [
+        false,
+        "High-precision digital 3-axis accelerometer, \u00b12g/\u00b14g/\u00b18g/\u00b116g full scale, 12-bit output, I2C/SPI interface, 1.71-3.6 V, FIFO, self-test, programmable interrupts"
+    ],
+    "entity": "c71aa5aa-bb2e-49d4-9581-5abd5d09ab66",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Silan"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "534dbb12-d7b3-41af-bde5-08d3cdedb21b": "C19274408"
+    },
+    "package": "b540f5f1-109a-420b-aca7-cba2adcd096e",
+    "pad_map": {
+        "2bfcd1c2-4ae6-4257-9119-c2808b4efb5d": {
+            "gate": "994ee1df-0776-47a0-b22f-95822eaa10da",
+            "pin": "8630e2cf-4d11-47be-bd2a-dde9975c1bac"
+        },
+        "3ac13a10-b511-40bb-8266-8db57ee99f6a": {
+            "gate": "994ee1df-0776-47a0-b22f-95822eaa10da",
+            "pin": "5f75dd18-20ee-4810-b53d-6d92bcda4bbd"
+        },
+        "56dedb30-f892-44e4-b295-a0762c6d94e1": {
+            "gate": "994ee1df-0776-47a0-b22f-95822eaa10da",
+            "pin": "40389ef7-7998-4c94-b4e5-205b9bbd0c4e"
+        },
+        "60ce7bb1-bfa9-4e27-b713-e1d717804ba4": {
+            "gate": "994ee1df-0776-47a0-b22f-95822eaa10da",
+            "pin": "2b9bcb1a-fc1c-4abb-b820-a9c05a3670c1"
+        },
+        "62ddec63-f0f1-4167-9f7b-2f908efaf36e": {
+            "gate": "994ee1df-0776-47a0-b22f-95822eaa10da",
+            "pin": "66623b0a-453b-47bc-a346-061168f4ffbe"
+        },
+        "8db53fa7-53bb-465c-b6a1-14d26283467d": {
+            "gate": "994ee1df-0776-47a0-b22f-95822eaa10da",
+            "pin": "79afc7b8-d7e1-47d6-bdc4-e59b867ea95b"
+        },
+        "90a29dec-f3c7-4900-b847-42dc76836ab7": {
+            "gate": "994ee1df-0776-47a0-b22f-95822eaa10da",
+            "pin": "b7c73193-6fca-4c32-b186-d29eefeb5316"
+        },
+        "cf67a777-9871-4112-a738-21c5d149982a": {
+            "gate": "994ee1df-0776-47a0-b22f-95822eaa10da",
+            "pin": "8b317d59-aa84-45d3-8a40-592effd270f8"
+        },
+        "d7b59e37-7345-4064-9228-3754ca4a46cc": {
+            "gate": "994ee1df-0776-47a0-b22f-95822eaa10da",
+            "pin": "aa0825c9-ea76-4215-9273-a0b9b72263df"
+        },
+        "e2f4edb3-f8c9-481e-a3f0-7f6598702f2a": {
+            "gate": "994ee1df-0776-47a0-b22f-95822eaa10da",
+            "pin": "a3cb89a9-0af1-491f-930f-67a81309022c"
+        },
+        "f3544cd1-c139-42d7-98ef-de88f7a33114": {
+            "gate": "994ee1df-0776-47a0-b22f-95822eaa10da",
+            "pin": "b64ea7cd-64ba-40d7-b638-7474b97ad8ed"
+        },
+        "f6fb6401-ead4-4fdf-b568-9e62ca2f4a60": {
+            "gate": "994ee1df-0776-47a0-b22f-95822eaa10da",
+            "pin": "f6e7b6e7-304f-4ee2-a84f-f91900abf9ce"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "accelerometer"
+    ],
+    "type": "part",
+    "uuid": "bc9a1d08-6957-4923-ab8b-aa828ef9a5f5",
+    "value": [
+        false,
+        ""
+    ]
+}

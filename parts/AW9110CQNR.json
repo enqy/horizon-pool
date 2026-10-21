@@ -1,0 +1,122 @@
+{
+    "MPN": [
+        false,
+        "AW9110CQNR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.lcsc.com/datasheet/C2943134.pdf"
+    ],
+    "description": [
+        false,
+        "10-channel I2C GPIO expander / LED driver, 2.5-5.5V, WQFN-20 3x3"
+    ],
+    "entity": "8541e6b5-bf1d-4f12-aa6c-339bd2c9d741",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Awinic"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "61474592-d0da-491b-a3b6-565c7cff63c1",
+    "pad_map": {
+        "020317a0-c8eb-4663-bb65-23337b82e2cb": {
+            "gate": "ab464e1e-1637-4a01-b221-c7d67b6d85a5",
+            "pin": "515112ea-dd09-47d1-b52f-59d86eb6bd2d"
+        },
+        "02b82877-5b85-42a5-9d56-6fb03f89b9ac": {
+            "gate": "ab464e1e-1637-4a01-b221-c7d67b6d85a5",
+            "pin": "d8be3320-dae3-4fcf-9977-7ac29d86bca3"
+        },
+        "04b1dee1-9b44-4980-94a0-13fc3446c937": {
+            "gate": "ab464e1e-1637-4a01-b221-c7d67b6d85a5",
+            "pin": "d099093c-c65b-46ff-841c-00fe232ada11"
+        },
+        "29261850-0c39-41a3-a8ef-85de06eb7387": {
+            "gate": "ab464e1e-1637-4a01-b221-c7d67b6d85a5",
+            "pin": "9da54c12-bf2e-404d-8f9c-61ce0b194ab0"
+        },
+        "428fcc6d-fae0-4db9-9ece-9457fd4915bf": {
+            "gate": "ab464e1e-1637-4a01-b221-c7d67b6d85a5",
+            "pin": "19796725-3f25-455d-97b1-fbb731da99fc"
+        },
+        "47bd2fb5-e433-4181-8836-66ea9a11244d": {
+            "gate": "ab464e1e-1637-4a01-b221-c7d67b6d85a5",
+            "pin": "bd84969e-8c33-484b-a92f-1eeb7cb0523c"
+        },
+        "4ffd8052-508e-44de-aa70-48a586edc249": {
+            "gate": "ab464e1e-1637-4a01-b221-c7d67b6d85a5",
+            "pin": "84c17be3-b202-4547-a002-8ed89e060e65"
+        },
+        "5d852d82-c01b-4692-ae24-57c8cbbb65fd": {
+            "gate": "ab464e1e-1637-4a01-b221-c7d67b6d85a5",
+            "pin": "a7322e78-2610-464d-9844-ccb9f69c0ca2"
+        },
+        "636a695c-de26-4609-aaef-0f2f821cd234": {
+            "gate": "ab464e1e-1637-4a01-b221-c7d67b6d85a5",
+            "pin": "20a64bfe-83a5-46e5-84f4-6b8151734423"
+        },
+        "93f9c024-1b6b-4f7a-be8e-750835524e3a": {
+            "gate": "ab464e1e-1637-4a01-b221-c7d67b6d85a5",
+            "pin": "07231a64-bdc6-4598-9463-3b1e2b3026e6"
+        },
+        "9de894e0-8fa1-4257-a066-36d178f38d40": {
+            "gate": "ab464e1e-1637-4a01-b221-c7d67b6d85a5",
+            "pin": "67cef1e9-3724-48eb-992a-7aa0d0e12efb"
+        },
+        "a088d971-d67e-495e-904c-4813be0afc38": {
+            "gate": "ab464e1e-1637-4a01-b221-c7d67b6d85a5",
+            "pin": "e943b4c6-a6c3-4005-aef5-a6d016914b7f"
+        },
+        "a41eb9bc-40f4-42c7-b0e7-fcd7a4f7db63": {
+            "gate": "ab464e1e-1637-4a01-b221-c7d67b6d85a5",
+            "pin": "07231a64-bdc6-4598-9463-3b1e2b3026e6"
+        },
+        "a55e7f0a-3498-4dd3-a544-a1fc1ed8fb97": {
+            "gate": "ab464e1e-1637-4a01-b221-c7d67b6d85a5",
+            "pin": "d195e864-ea3b-4d3e-93b5-9e2780f79a3d"
+        },
+        "ba74a7f2-ee3f-41be-8d66-b9f4896b8258": {
+            "gate": "ab464e1e-1637-4a01-b221-c7d67b6d85a5",
+            "pin": "3162df8e-40be-41a4-b085-d3cf5ddb6dd0"
+        },
+        "bb0a85b8-5eb6-4146-b182-8c07ceb8adf7": {
+            "gate": "ab464e1e-1637-4a01-b221-c7d67b6d85a5",
+            "pin": "3611fb11-a2c3-42b4-95c4-a8b0e09fc694"
+        },
+        "c6624620-5b48-4366-aa6b-c8e7bd427285": {
+            "gate": "ab464e1e-1637-4a01-b221-c7d67b6d85a5",
+            "pin": "859ff35a-3b78-4054-ae62-97306b63278c"
+        },
+        "c6cc38b0-6cf6-402a-b767-24d6171720f3": {
+            "gate": "ab464e1e-1637-4a01-b221-c7d67b6d85a5",
+            "pin": "3c86635a-348a-4ec7-9181-b9de5886f50a"
+        },
+        "dbd78405-6ba9-45c0-9d46-bbd732e47781": {
+            "gate": "ab464e1e-1637-4a01-b221-c7d67b6d85a5",
+            "pin": "07231a64-bdc6-4598-9463-3b1e2b3026e6"
+        },
+        "e167fd9b-84e4-4f61-a030-2376d99c21b8": {
+            "gate": "ab464e1e-1637-4a01-b221-c7d67b6d85a5",
+            "pin": "71bda28e-c5f4-4fb7-a8fb-6efb503fc7c1"
+        },
+        "f6a59535-fa61-48d2-ae06-2a6e7a3562f8": {
+            "gate": "ab464e1e-1637-4a01-b221-c7d67b6d85a5",
+            "pin": "492c2d4e-f3cc-4170-97c7-afe2eb8e4558"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "gpio expander",
+        "i2c",
+        "ic",
+        "led"
+    ],
+    "type": "part",
+    "uuid": "8ca94a6a-0efc-4b3b-b48f-8b746f7740be",
+    "value": [
+        false,
+        ""
+    ]
+}

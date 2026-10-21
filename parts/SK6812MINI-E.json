@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "SK6812MINI-E"
+    ],
+    "datasheet": [
+        false,
+        "https://www.lcsc.com/datasheet/lcsc_datasheet_2412101523_OPSCO-Optoelectronics-SK6812MINI-E_C5149201.pdf"
+    ],
+    "description": [
+        false,
+        "RGB Led with Builtin Control IC"
+    ],
+    "entity": "ea052838-49a1-41f8-952f-0ed55eb17617",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "OPSCO Optoelectronics"
+    ],
+    "model": "bea67a50-1e51-4abd-84c0-a40680432f95",
+    "orderable_MPNs": {
+        "6c1dcda4-51ce-4461-b58c-829f31c95c1f": "C5149201"
+    },
+    "package": "f4b66462-21c7-4ee8-9e82-9ff9f8c4b9bb",
+    "pad_map": {
+        "000859d4-ac72-46d1-870e-c1a02fc7c522": {
+            "gate": "7574db0f-3c65-417a-bf92-da59f100bbc2",
+            "pin": "f2cc493b-f1db-4c98-86e0-51565efa1637"
+        },
+        "1e0d9313-4bc8-426d-91f3-275922e1e8ad": {
+            "gate": "7574db0f-3c65-417a-bf92-da59f100bbc2",
+            "pin": "edb6e3f1-4d54-47f8-9da4-65002c6794ad"
+        },
+        "bd445440-2cd9-4e6d-9cfc-dfb82f21134f": {
+            "gate": "7574db0f-3c65-417a-bf92-da59f100bbc2",
+            "pin": "bf842703-4d01-42b1-a5e1-8ce84d31ec30"
+        },
+        "d6fc9714-49b1-4349-a9bc-b64e8b357e9a": {
+            "gate": "7574db0f-3c65-417a-bf92-da59f100bbc2",
+            "pin": "bdf31ed2-703b-446f-986e-8e570e60c529"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "93c5a15e-50d3-402c-b027-833f909e2153",
+    "value": [
+        false,
+        ""
+    ]
+}

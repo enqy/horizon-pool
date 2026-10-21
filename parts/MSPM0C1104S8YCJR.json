@@ -1,0 +1,68 @@
+{
+    "MPN": [
+        false,
+        "MSPM0C1104S8YCJR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/mspm0c1104.pdf"
+    ],
+    "description": [
+        false,
+        "Extremely small MCU."
+    ],
+    "entity": "26bffe48-d4c3-4e3e-92dc-c25b016b9e46",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "4e2b790e-1a20-40df-89c9-66bc1c7ed7e8",
+    "pad_map": {
+        "483ca837-316c-4ef5-b55e-b8b9459b35a7": {
+            "gate": "204b3a60-44ec-4df7-b4c7-3c0f679feea3",
+            "pin": "c9656c64-d473-405e-bcf0-4c7e6dc88d59"
+        },
+        "9f28c4a9-5f4b-4cc2-831d-43fa75dca1c6": {
+            "gate": "204b3a60-44ec-4df7-b4c7-3c0f679feea3",
+            "pin": "353e903c-17ae-48ca-a80a-3e351857967a"
+        },
+        "a5ea445d-8cb8-44b2-9c19-646cb02505d9": {
+            "gate": "204b3a60-44ec-4df7-b4c7-3c0f679feea3",
+            "pin": "95789f07-2640-4c16-9fb5-fd33c2830e4e"
+        },
+        "af62377e-4176-42e5-bbb5-5fabf4df1495": {
+            "gate": "204b3a60-44ec-4df7-b4c7-3c0f679feea3",
+            "pin": "223cf692-fe42-4324-88ca-b306dcf10f30"
+        },
+        "bb84a7ca-7dd8-43ed-a155-8ed480189856": {
+            "gate": "204b3a60-44ec-4df7-b4c7-3c0f679feea3",
+            "pin": "f99e1dbf-909d-4048-add7-4033eddc6b66"
+        },
+        "f0608b64-c1ac-49f1-8922-f9c3b5006506": {
+            "gate": "204b3a60-44ec-4df7-b4c7-3c0f679feea3",
+            "pin": "8c966710-7759-4250-bddf-00ed2c6ca7ab"
+        },
+        "f85d3a2f-8c46-4742-a8fb-57f5e054c0ab": {
+            "gate": "204b3a60-44ec-4df7-b4c7-3c0f679feea3",
+            "pin": "5f8f9e56-e4f6-4037-b233-4a6d8f94e2bc"
+        },
+        "ff4bb819-d412-44e1-b62b-3bae9e45a37c": {
+            "gate": "204b3a60-44ec-4df7-b4c7-3c0f679feea3",
+            "pin": "cc864b6c-e508-4ef9-b2e3-f7e375600d09"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "mcu"
+    ],
+    "type": "part",
+    "uuid": "96fa2188-a5a4-409c-84f1-b9cb0a7bc3c3",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "manufacturer": "Rockchip",
+    "name": "RK3308 G",
+    "pins": {
+        "17890c8f-e227-4eeb-8ae3-ef187acf7910": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "XIN_24M",
+            "swap_group": 0
+        },
+        "9d775823-073b-47ee-962a-95743316bb94": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "XOUT_24M",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "6fec97fe-fb7b-462e-8f6b-2d59994bb1c6"
+}

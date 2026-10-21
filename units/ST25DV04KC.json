@@ -1,0 +1,68 @@
+{
+    "manufacturer": "ST",
+    "name": "ST25DV04KC",
+    "pins": {
+        "03dbc06e-75e4-4739-bf9e-e00ea6cea836": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDCG",
+            "swap_group": 0
+        },
+        "0f747eeb-8da6-4458-9b28-550d647d7d4c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "AC1",
+            "swap_group": 0
+        },
+        "1513dfab-5fa7-4e81-a250-48b87f812eb5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "2c297d10-08ba-4cf6-8dfb-175eba6de6bc": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "508bcdcb-0ea9-44fa-9149-eabf3f4d1872": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "AC0",
+            "swap_group": 0
+        },
+        "526dadb3-9c0f-43bf-a6ba-fad1b06ccd08": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "GPO",
+            "swap_group": 0
+        },
+        "7c1bd58b-76e5-4128-b435-3825721d4cff": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "LPD",
+            "swap_group": 0
+        },
+        "c33b0735-6f7c-4d44-b967-f1966f6c3653": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "V_EH",
+            "swap_group": 0
+        },
+        "d0504cd7-14df-48eb-bc0a-7a6ce9a748aa": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "d3b6c506-3b00-4c66-a10b-f0106b4be593": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "42d68440-cfb8-44c1-84a0-d0657e4fc2c4"
+}

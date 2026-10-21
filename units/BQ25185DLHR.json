@@ -1,0 +1,81 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "BQ25185DLHR",
+    "pins": {
+        "29439710-3aa2-4a43-b2a2-b7802202a985": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "41dbea37-fa07-4af3-a622-2425d5c3db74": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "/CE",
+            "swap_group": 0
+        },
+        "510e3eb6-7ef7-4115-9c09-885b2bec1976": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "STAT2",
+            "swap_group": 0
+        },
+        "56e40104-4c1b-465e-85cd-465f89825602": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ISET",
+            "swap_group": 0
+        },
+        "590f4f6d-708a-4831-84a3-735e2cb1a599": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "IN",
+            "swap_group": 0
+        },
+        "665ff494-ea1b-450f-bbd8-27299a7cc68d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "BAT",
+            "swap_group": 0
+        },
+        "70b5b239-3324-480c-9414-8862e2b18cf4": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "SYS",
+            "swap_group": 0
+        },
+        "9216dd7c-13a1-4e59-998b-126ea90571a1": {
+            "alt_names": {
+                "f7acee4a-961e-461c-96fd-da68045d1335": {
+                    "direction": "bidirectional",
+                    "name": "MR"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "TS",
+            "swap_group": 0
+        },
+        "aefa37c2-0229-4f92-a4f0-d8a8a721b09e": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "STAT1",
+            "swap_group": 0
+        },
+        "e64e9d86-5ee2-470f-9a77-8bc3db7ac468": {
+            "alt_names": {
+                "06ca88d2-4934-486a-b852-4bc1ed274058": {
+                    "direction": "bidirectional",
+                    "name": "VSET"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ILIM",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "d0d0be0c-9b2f-429a-a49b-f2527648cfdb",
+    "version": 1
+}

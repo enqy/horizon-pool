@@ -1,0 +1,138 @@
+{
+    "MPN": [
+        false,
+        "LM74900QRGERQ1"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/lm74900-q1.pdf"
+    ],
+    "description": [
+        false,
+        "Automotive ideal diode controller with hot-swap protection"
+    ],
+    "entity": "b5c5773d-b3c7-4082-b86c-86df8188c399",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "2544c0d0-da5f-472b-8274-b7b422616ada": "C20345498"
+    },
+    "package": "f45bb4c0-e9cb-4bfe-81ba-dbc1183ae838",
+    "pad_map": {
+        "058b05ec-df66-408f-a548-1261a594e424": {
+            "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",
+            "pin": "a584a2c5-73a6-4f06-94c4-f4c155757859"
+        },
+        "07f0d7af-749d-4e52-b1d2-8d1b99473413": {
+            "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",
+            "pin": "69eb1bfb-9564-4e58-8c61-f6e7b365d99b"
+        },
+        "261d65b0-0ccc-4e85-b7af-d1838e4895cd": {
+            "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",
+            "pin": "d29a50ba-c0fe-4ae8-b4ef-f0d1af22ab3a"
+        },
+        "2d253ee8-b2ea-432b-bfcd-78326f92d5cb": {
+            "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",
+            "pin": "20068d3d-f062-45a4-9978-29889e7440b0"
+        },
+        "336d9c0b-bf5f-49a8-a614-37a6be1109bd": {
+            "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",
+            "pin": "8eb6978e-8f29-455c-9583-e5904e08e9a7"
+        },
+        "4897f47c-abb5-4cb5-a877-5916091e7c5e": {
+            "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",
+            "pin": "d4adcbbf-3065-4162-a48b-650218f82e61"
+        },
+        "54a0c3dd-4c83-4735-b2f6-24bea4597961": {
+            "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",
+            "pin": "d005e990-c800-4dc3-b18f-0198334f7b2b"
+        },
+        "5afdfe6e-e799-4df2-a1b9-129449ae0fa9": {
+            "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",
+            "pin": "2073f9ad-c073-4eb2-94af-e9b1ec20acf7"
+        },
+        "66d2c849-285d-4dd4-b30f-4e4c8b21ac0c": {
+            "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",
+            "pin": "0e71aad9-7dd1-4850-a47e-3e6d77c56802"
+        },
+        "7a496ac2-76af-41f1-92fb-d83e470d0a47": {
+            "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",
+            "pin": "fcae6a94-6973-4f51-9e05-716591e70628"
+        },
+        "7af6690a-bd92-4deb-8b64-f20e8b307284": {
+            "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",
+            "pin": "ba7a78a2-b42e-47ba-8edc-ff41cc8a5e9a"
+        },
+        "976a36d0-60bb-492e-8ec2-066f19af3e02": {
+            "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",
+            "pin": "c6eb0eaa-ad27-496e-84b0-d1430b4f480f"
+        },
+        "9eaf0100-1c82-4c58-b423-328233f83d22": {
+            "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",
+            "pin": "8aa3d1f3-7b37-49b5-8a10-df188b59a2a7"
+        },
+        "a2bb002b-3d1f-4a4e-9cfd-fee68ee1540a": {
+            "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",
+            "pin": "be913a90-0601-45cd-8ffd-320f506e24e3"
+        },
+        "ac56062d-c2fd-4c27-a0bc-bf4e657fa128": {
+            "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",
+            "pin": "0c61ecb6-6130-4719-8dfa-f6c116a2396f"
+        },
+        "ae85f0fa-c168-4011-9e7c-b3c8aa87edaf": {
+            "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",
+            "pin": "b15995a6-233a-4f1c-ba18-6139001be4c4"
+        },
+        "b3f29690-6571-49f2-8b11-1318e1d38853": {
+            "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",
+            "pin": "045e3b70-ac32-4680-ba9c-dfb73f90bd83"
+        },
+        "c0cd492e-a307-48e3-b313-1df17d5e840e": {
+            "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",
+            "pin": "a369882c-5bea-4f3d-a91c-d0be8bdf2ae8"
+        },
+        "c752f3cd-7b79-4669-b91e-353e3701366c": {
+            "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",
+            "pin": "3b0bbda2-929d-4a78-96cb-fc4d5e28389e"
+        },
+        "cafc0211-f382-410d-94a8-93f6672feaf7": {
+            "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",
+            "pin": "0d4ecd41-102c-4768-9ee4-117ff04a9103"
+        },
+        "cba919e5-25b0-4a87-87c4-e0d6afbae1fe": {
+            "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",
+            "pin": "bff32f04-a81c-4261-97d8-b8a1ba761501"
+        },
+        "e220b740-83c7-43d0-91f5-136b75a92087": {
+            "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",
+            "pin": "cf2c0774-970e-49c4-b1a4-b750bf61fd75"
+        },
+        "e23188ec-82f4-4684-a132-5b20bde014b6": {
+            "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",
+            "pin": "cf4ee6cc-0648-4c00-a9ca-ab3f477a2fc1"
+        },
+        "e3e2860d-5aaa-48d9-b7a8-baf4d7eacbb0": {
+            "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",
+            "pin": "e0dd90d5-3dbb-48ec-b5d5-a2a9424225e8"
+        },
+        "e9983f9e-074a-4d8a-a143-c18b549ba498": {
+            "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",
+            "pin": "a6f158ae-920b-4dcc-adfd-72a9cedfcf8e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "3e83f445-f712-404f-b2ea-1dac49fcdcf9",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "manufacturer": "Rockchip",
+    "name": "RK3308 I",
+    "pins": {
+        "172e8991-4af4-45e3-b2ca-068a109349cd": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "OTP_VCC_1V8",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "99633609-df4d-4db7-ab8c-ea92879e56b8"
+}

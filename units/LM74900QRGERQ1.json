@@ -1,0 +1,158 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "LM74900QRGERQ1",
+    "pins": {
+        "045e3b70-ac32-4680-ba9c-dfb73f90bd83": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "0c61ecb6-6130-4719-8dfa-f6c116a2396f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VS",
+            "swap_group": 0
+        },
+        "0d4ecd41-102c-4768-9ee4-117ff04a9103": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "IMON",
+            "swap_group": 0
+        },
+        "0e71aad9-7dd1-4850-a47e-3e6d77c56802": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "UVLO",
+            "swap_group": 0
+        },
+        "20068d3d-f062-45a4-9978-29889e7440b0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SLEEP_OV",
+            "swap_group": 0
+        },
+        "2073f9ad-c073-4eb2-94af-e9b1ec20acf7": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "/FLT",
+            "swap_group": 0
+        },
+        "3b0bbda2-929d-4a78-96cb-fc4d5e28389e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ILIM",
+            "swap_group": 0
+        },
+        "69eb1bfb-9564-4e58-8c61-f6e7b365d99b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CS+",
+            "swap_group": 0
+        },
+        "8aa3d1f3-7b37-49b5-8a10-df188b59a2a7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CS-",
+            "swap_group": 0
+        },
+        "8eb6978e-8f29-455c-9583-e5904e08e9a7": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "a369882c-5bea-4f3d-a91c-d0be8bdf2ae8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "C",
+            "swap_group": 0
+        },
+        "a584a2c5-73a6-4f06-94c4-f4c155757859": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SW",
+            "swap_group": 0
+        },
+        "a6f158ae-920b-4dcc-adfd-72a9cedfcf8e": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "CAP",
+            "swap_group": 0
+        },
+        "b15995a6-233a-4f1c-ba18-6139001be4c4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SLEEP",
+            "swap_group": 0
+        },
+        "ba7a78a2-b42e-47ba-8edc-ff41cc8a5e9a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "TMR",
+            "swap_group": 0
+        },
+        "be913a90-0601-45cd-8ffd-320f506e24e3": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "bff32f04-a81c-4261-97d8-b8a1ba761501": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HGATE",
+            "swap_group": 0
+        },
+        "c6eb0eaa-ad27-496e-84b0-d1430b4f480f": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DGATE",
+            "swap_group": 0
+        },
+        "cf2c0774-970e-49c4-b1a4-b750bf61fd75": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "cf4ee6cc-0648-4c00-a9ca-ab3f477a2fc1": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "d005e990-c800-4dc3-b18f-0198334f7b2b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "OV",
+            "swap_group": 0
+        },
+        "d29a50ba-c0fe-4ae8-b4ef-f0d1af22ab3a": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "d4adcbbf-3065-4162-a48b-650218f82e61": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "OUT",
+            "swap_group": 0
+        },
+        "e0dd90d5-3dbb-48ec-b5d5-a2a9424225e8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "RTN",
+            "swap_group": 0
+        },
+        "fcae6a94-6973-4f51-9e05-716591e70628": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ISCP",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "8bbe6e84-e7c9-49fe-88a3-a451e0eb0ef3"
+}

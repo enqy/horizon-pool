@@ -1,0 +1,32 @@
+{
+    "MPN": [
+        false,
+        "NCU15XH103F6SRC"
+    ],
+    "base": "44fe0594-19d5-403e-9ae8-7c4c59c3668f",
+    "datasheet": [
+        false,
+        "https://www.lcsc.com/datasheet/C333993.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=EVdaBV1RFFQNA1JXT1UMVAVXTlRbBlJRFgJXAVRTRVkxVlNRQFFcXlNUQFhbUjtW"
+    ],
+    "description": [
+        false,
+        "NTC Thermistor 10kΩ Surface Mount 0402"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "murata"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {},
+    "tags": [
+        "thermistor"
+    ],
+    "type": "part",
+    "uuid": "7b709ceb-523b-4528-87e2-68aaa4852f57",
+    "value": [
+        true,
+        "base 0402 resistor"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "ABM8-272-T3"
+    ],
+    "datasheet": [
+        false,
+        "https://www.lcsc.com/datasheet/C20625731.pdf"
+    ],
+    "description": [
+        false,
+        "12 MHz crystal for RP2350 series microcontrollers."
+    ],
+    "entity": "6e2ee072-a0ed-4cd6-ba6c-9c5b876cdeef",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Abracon"
+    ],
+    "model": "0764632f-17ed-4237-a782-bf0cc29c17f1",
+    "package": "b0a75c7c-ce84-4f5c-93ab-171ffa794dda",
+    "pad_map": {
+        "371f50f7-85c3-4446-8f25-a63560a7a56b": {
+            "gate": "d4ffb153-a3f6-491b-be81-ee735b6e5458",
+            "pin": "d118db9b-0850-4b8a-a5a0-5f50299fd232"
+        },
+        "37c45036-05be-4c82-a028-564dc6614381": {
+            "gate": "d4ffb153-a3f6-491b-be81-ee735b6e5458",
+            "pin": "d118db9b-0850-4b8a-a5a0-5f50299fd232"
+        },
+        "8d3a606b-53c3-46fe-9aaf-40d9c18f59de": {
+            "gate": "d4ffb153-a3f6-491b-be81-ee735b6e5458",
+            "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
+        },
+        "da38a9fe-5446-4cd9-9b80-e888527a327e": {
+            "gate": "d4ffb153-a3f6-491b-be81-ee735b6e5458",
+            "pin": "29995253-b4b1-4c7c-a049-b6db2713ca7c"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "crystal",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "70c0e13d-05ae-4891-8f55-647c778a7254",
+    "value": [
+        false,
+        "12MHz"
+    ]
+}

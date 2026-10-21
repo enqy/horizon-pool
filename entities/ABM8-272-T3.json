@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "d4ffb153-a3f6-491b-be81-ee735b6e5458": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "6ac799fd-9f71-4cb6-b667-2e7d4039491c"
+        }
+    },
+    "manufacturer": "Abracon",
+    "name": "ABM8-272-T3",
+    "prefix": "Y",
+    "tags": [
+        "crystal"
+    ],
+    "type": "entity",
+    "uuid": "6e2ee072-a0ed-4cd6-ba6c-9c5b876cdeef"
+}

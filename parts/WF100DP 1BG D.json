@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "WF100DP 1BG D"
+    ],
+    "datasheet": [
+        false,
+        "https://www.lcsc.com/datasheet/C22388672.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.4.xh&lcsc_vid=FgBWUlxfFFNWXgZURgBfVAZWFVYNBlRfTlNdUQFXElUxVlNeQ1lfUF1XQlBaVjtW"
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "8321ef41-936e-4114-8a85-722461b4a9ed",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "WF"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "bbd48d10-1cd7-409f-8dfc-71c92a788d3c",
+    "pad_map": {
+        "304edc96-d25c-43d3-a485-8c1cb72481ef": {
+            "gate": "e8a690b5-9ccd-4f1c-9069-7ba30bec0013",
+            "pin": "85ceb95f-00c7-4275-a303-8cea26a7db35"
+        },
+        "4ec58bc5-d096-4932-a907-23ddfa5f0512": {
+            "gate": "e8a690b5-9ccd-4f1c-9069-7ba30bec0013",
+            "pin": "b0ce47bd-6ff8-4d0b-87f1-a36f9d2699a9"
+        },
+        "53bf9fb9-c09a-4fe7-896b-369cda25c85b": {
+            "gate": "e8a690b5-9ccd-4f1c-9069-7ba30bec0013",
+            "pin": "c46c7927-ee51-4ffe-9615-63651c7da522"
+        },
+        "5772aa4f-6777-45e4-b2c4-100aad4d5357": {
+            "gate": "e8a690b5-9ccd-4f1c-9069-7ba30bec0013",
+            "pin": "c4dc7d25-b9eb-4bb7-8a3c-1e6d4b361a51"
+        },
+        "9fba454d-0847-415e-9693-ca8bec5b028e": {
+            "gate": "e8a690b5-9ccd-4f1c-9069-7ba30bec0013",
+            "pin": "4ed84609-e1a4-4a87-afb9-1fe26f70a63c"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "04e733de-af20-442d-a23e-8b130af94268",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "MPN": [
+        false,
+        "XLamp XE-G"
+    ],
+    "datasheet": [
+        false,
+        "https://downloads.cree-led.com/files/ds/x/XLamp-XE-G.pdf"
+    ],
+    "description": [
+        false,
+        "XLamp XE-G LED"
+    ],
+    "entity": "7aea1811-235c-4f06-933b-1080df3d31ba",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Cree"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "ce6bc633-4a5e-46bc-96fe-92a8afb448d1",
+    "pad_map": {
+        "4eaa12a3-3a26-4ad6-b2b4-d1df069cc9e3": {
+            "gate": "c8168f99-a1ca-4d98-bbb7-066f8cad2346",
+            "pin": "22a4d1bc-6ea2-4f21-b4de-4c1636ae3a3b"
+        },
+        "507a5a3f-9619-4b7f-a458-562c6c9bd0ab": {
+            "gate": "c8168f99-a1ca-4d98-bbb7-066f8cad2346",
+            "pin": "f3a0ce45-6d5e-453b-9649-33baf57cc7b7"
+        },
+        "7d79ac4d-bc4c-4b05-813a-ab2ca49acc32": {
+            "gate": "c8168f99-a1ca-4d98-bbb7-066f8cad2346",
+            "pin": "3c305ca9-14d3-40b4-a365-8938959c043e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "led"
+    ],
+    "type": "part",
+    "uuid": "bf6d7bc2-a928-42d4-ac9f-378a503a5df1",
+    "value": [
+        false,
+        ""
+    ]
+}

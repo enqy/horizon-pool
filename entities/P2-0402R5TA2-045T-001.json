@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "a52c5e10-f482-441f-8e79-123eca85cea2": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "3e562de0-2b45-4d40-9366-644b005e25e3"
+        }
+    },
+    "manufacturer": "TUOZHAN",
+    "name": "P2-0402R5TA2-045T-001",
+    "prefix": "D",
+    "tags": [
+        "led"
+    ],
+    "type": "entity",
+    "uuid": "29012ba4-18f2-4f1d-a80f-115a137b09de"
+}

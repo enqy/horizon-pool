@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "91d8a5a9-984f-4a9f-a7c0-e4026ade3e9f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "367ffb70-1d09-4607-a646-b33c57433aeb"
+        }
+    },
+    "manufacturer": "",
+    "name": "SMCJ54A",
+    "prefix": "D",
+    "tags": [
+        "tvs"
+    ],
+    "type": "entity",
+    "uuid": "3cff4087-2a3f-4688-8fd4-590659e86412"
+}

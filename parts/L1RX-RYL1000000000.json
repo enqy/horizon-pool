@@ -1,0 +1,43 @@
+{
+    "MPN": [
+        false,
+        "L1RX-RYL1000000000"
+    ],
+    "datasheet": [
+        false,
+        "https://otmm.lumileds.com/adaptivemedia/bbe2fcf95848367f9a650eb56b656a22efa0da8f"
+    ],
+    "description": [
+        false,
+        "Royal Blue high power LED."
+    ],
+    "entity": "f061691a-7954-4797-9529-dba6527d8f4f",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Lumileds"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "916ca613-27c8-4adf-b2a0-3162ab4d75db",
+    "pad_map": {
+        "645ce4d7-7379-4b48-831e-e53dc671b604": {
+            "gate": "c8168f99-a1ca-4d98-bbb7-066f8cad2346",
+            "pin": "3c305ca9-14d3-40b4-a365-8938959c043e"
+        },
+        "711d1e03-0bc1-47a6-97c0-e7c0ab240196": {
+            "gate": "c8168f99-a1ca-4d98-bbb7-066f8cad2346",
+            "pin": "f3a0ce45-6d5e-453b-9649-33baf57cc7b7"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "led"
+    ],
+    "type": "part",
+    "uuid": "4911355b-b11a-4716-88cc-edbc0885aee1",
+    "value": [
+        false,
+        ""
+    ]
+}

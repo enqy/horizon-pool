@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "TCAN332GDCNR",
+    "pins": {
+        "376700b9-1504-49dd-b495-767891a2cdcd": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "RXD",
+            "swap_group": 0
+        },
+        "55d576d4-0ce1-4724-b3ee-4518ddb9c194": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "68cafcf4-17ce-45e0-846a-72f4a60a64fa": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CANL",
+            "swap_group": 0
+        },
+        "72e800a6-6c95-4485-b913-3973f87b164f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "TXD",
+            "swap_group": 0
+        },
+        "a3354979-6c88-44f9-bc58-91fe22bab736": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "db125477-1c7f-4d5b-a4bb-ff2015546684": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CANH",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "8db2e405-2c20-42b2-a38b-4782b957d042"
+}

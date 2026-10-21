@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "86589bce-8471-4241-b33d-2516cfdee08c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "d0d0be0c-9b2f-429a-a49b-f2527648cfdb"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "BQ25185DLHR",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "af278dea-1e60-4e83-8bf8-1466e21f9a19"
+}

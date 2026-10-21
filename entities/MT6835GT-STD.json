@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "b0f830f6-ab24-493c-8383-97e783a044fb": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "41f6ee01-a5ef-458a-9259-6b8081015243"
+        }
+    },
+    "manufacturer": "MagnTek",
+    "name": "MT6835GT-STD",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "0326885d-ed4e-4d4b-9c18-8942ec3b7e94"
+}

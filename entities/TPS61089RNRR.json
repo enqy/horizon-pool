@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "4e1b4756-0184-426b-8475-222237b10e98": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "665e6ca1-a26f-4aaf-ab2e-b66738e70066"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "TPS61089RNRR",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "28ca07f2-9958-4af4-bf87-5cc41b408865"
+}

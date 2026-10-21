@@ -1,0 +1,104 @@
+{
+    "manufacturer": "Seeed Studio",
+    "name": "XIAO ESP32-C5",
+    "pins": {
+        "02fda920-36f9-4d85-b822-50d73594ebdd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "BAT+",
+            "swap_group": 0
+        },
+        "05a3e0c8-b5fc-40b2-a590-d64377c86bf1": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D3",
+            "swap_group": 0
+        },
+        "090a4f38-a563-4014-99f2-01ac923e85c7": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D6",
+            "swap_group": 0
+        },
+        "207fa12b-7e2f-4834-b366-a2dadab039cd": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D0",
+            "swap_group": 0
+        },
+        "3f2d8ae4-845c-4a27-9839-b568ccd31394": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D10",
+            "swap_group": 0
+        },
+        "667fedae-2fc1-4f30-85b8-f3b0f24e0680": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D1",
+            "swap_group": 0
+        },
+        "760dd3ab-2df7-4ab4-8f20-57504f9fc91e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D5",
+            "swap_group": 0
+        },
+        "7cb25c9a-2603-42c2-bcd9-465ddb53cd35": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D8",
+            "swap_group": 0
+        },
+        "9330524a-b384-4292-9191-6eec3e6ac5bd": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D4",
+            "swap_group": 0
+        },
+        "95e6d3a4-b866-49e1-8a65-489850f033e5": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "3V3",
+            "swap_group": 0
+        },
+        "b5298649-69e7-44d5-9ed3-f5a99cd60880": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "be40752c-6a71-4185-afb4-e521e13e1287": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D2",
+            "swap_group": 0
+        },
+        "d2cb4a53-1f7b-4d0e-b3ed-c1aacc3a7a32": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VBUS",
+            "swap_group": 0
+        },
+        "ddfa6892-c521-4759-b24f-50aa718b87b5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "BAT-",
+            "swap_group": 0
+        },
+        "ea6b417e-c936-46f5-98b0-cd84fa8d7ebc": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D9",
+            "swap_group": 0
+        },
+        "fc02efff-c35b-47ff-a259-fbd3e31fa1ec": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D7",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "6c959c6b-e5a4-4b27-9036-f61e624cdb87"
+}

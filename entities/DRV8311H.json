@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "e3783917-6818-45de-b16b-467b5765610e": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "b6df341e-6dbc-4bd0-91c6-1eaa8c51a32d"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "DRV8311H",
+    "prefix": "U",
+    "tags": [
+        "bldc",
+        "gate driver",
+        "motor controller"
+    ],
+    "type": "entity",
+    "uuid": "aaca8c73-e2ac-4be6-b162-157895c5eb96"
+}

@@ -1,0 +1,74 @@
+{
+    "manufacturer": "",
+    "name": "MP8772GQ-Z",
+    "pins": {
+        "02f9526f-66fb-4e99-8edc-561a71e90d3c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PG",
+            "swap_group": 0
+        },
+        "6598bbf9-7366-4eff-a719-41f88bc955a1": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "FB",
+            "swap_group": 0
+        },
+        "6b4122e6-407c-4a1b-818e-566330c59888": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SW",
+            "swap_group": 0
+        },
+        "91148069-e88b-41e6-a097-41f1e090c4b9": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "PGND",
+            "swap_group": 0
+        },
+        "94051383-ac2d-4a16-9ebd-59474f96d389": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SS",
+            "swap_group": 0
+        },
+        "b26ccacf-2a40-4e52-847a-553e10096555": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "d01f8f79-25c9-4bde-b161-4150f820af18": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "d2fb356c-3777-489f-8c8e-1e959f5f5d50": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "BST",
+            "swap_group": 0
+        },
+        "d413f0e4-b46a-4ae5-b630-b92b4da0a224": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VIN",
+            "swap_group": 0
+        },
+        "df82f0a2-a9ad-42a9-aaff-e058c96d9e86": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "AGND",
+            "swap_group": 0
+        },
+        "e3e24427-5989-4f8c-8dd5-2295abc921fe": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "e5ed3b69-3e51-4938-8c20-a3f86545f767"
+}

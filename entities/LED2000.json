@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "3c029b52-8807-46a4-bf89-e913633e9465": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "3bec8e69-bc03-4cb8-b09a-f2d882d11d91"
+        }
+    },
+    "manufacturer": "ST",
+    "name": "LED2000",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "f3bf0cf3-cc26-4e2c-9941-78f8ffcc9c76"
+}

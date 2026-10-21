@@ -1,0 +1,114 @@
+{
+    "gates": {
+        "02ed04e4-9c87-421a-bce7-e09fac7da570": {
+            "name": "System",
+            "suffix": "Q",
+            "swap_group": 0,
+            "unit": "65c03f18-c2ac-4f31-95ab-dfd8b5ab5a42"
+        },
+        "0a322d39-6032-48b5-898e-3fdd63677a2c": {
+            "name": "LOGIC_VDD",
+            "suffix": "P",
+            "swap_group": 0,
+            "unit": "142c6b51-0235-446b-9f86-41586a4cd0b3"
+        },
+        "0f68af39-b83a-4eb7-84a6-8c99c2f70f15": {
+            "name": "CODEC",
+            "suffix": "O",
+            "swap_group": 0,
+            "unit": "7f654b8e-8a30-42cb-ace5-53efbad3f6c5"
+        },
+        "15212455-9a7a-4722-9d69-282e20602730": {
+            "name": "VCCIO0",
+            "suffix": "N",
+            "swap_group": 0,
+            "unit": "7dd2eb42-131d-4054-bd01-b2638a8e233f"
+        },
+        "19d0fb54-57e4-4d68-85af-90b0af189436": {
+            "name": "DDR",
+            "suffix": "M",
+            "swap_group": 0,
+            "unit": "e9cb0894-056b-46f8-98d9-35d138a31a04"
+        },
+        "1b59a871-602d-4c5f-b83a-cc3407ed0db1": {
+            "name": "USB",
+            "suffix": "L",
+            "swap_group": 0,
+            "unit": "f214117c-8f65-454c-a47f-bd33696fc992"
+        },
+        "3f9c1673-b6af-4b0b-8635-6eee9ba38aaa": {
+            "name": "VCCIO2",
+            "suffix": "K",
+            "swap_group": 0,
+            "unit": "252a929b-700d-4530-967e-704c89fa36ea"
+        },
+        "42e0d061-9286-475c-b9cb-fcdc2693cf0d": {
+            "name": "VCCIO4",
+            "suffix": "C",
+            "swap_group": 0,
+            "unit": "9d6587ae-347a-4993-8317-7de5a2c0119b"
+        },
+        "56030403-f160-4388-ae34-1a9dabed11fb": {
+            "name": "SARADC",
+            "suffix": "J",
+            "swap_group": 0,
+            "unit": "5a7ae287-76be-431c-87ac-e39c850ca41d"
+        },
+        "6452511e-cfe0-449a-9749-8317bec4d6b0": {
+            "name": "OTP",
+            "suffix": "I",
+            "swap_group": 0,
+            "unit": "99633609-df4d-4db7-ab8c-ea92879e56b8"
+        },
+        "7c9db1a2-2fdb-4261-8530-42405b975e16": {
+            "name": "OSC",
+            "suffix": "G",
+            "swap_group": 0,
+            "unit": "6fec97fe-fb7b-462e-8f6b-2d59994bb1c6"
+        },
+        "887cefc5-c52a-4bf8-9a75-d00e7f09deca": {
+            "name": "CORE_VDD",
+            "suffix": "H",
+            "swap_group": 0,
+            "unit": "e17dab84-5094-40d9-ae36-4097fa417901"
+        },
+        "8cb8f567-92b2-4cc1-a0a6-4c5f2c6e6d72": {
+            "name": "VCCIO3",
+            "suffix": "D",
+            "swap_group": 0,
+            "unit": "19d6da4f-4d18-4392-b733-2d77df90e090"
+        },
+        "cd14774a-e038-4750-9bef-dbe0df4b4099": {
+            "name": "VCCIO1",
+            "suffix": "E",
+            "swap_group": 0,
+            "unit": "21d91bc3-fcba-4ffa-8cac-4babc56a688c"
+        },
+        "d567cece-fa71-436c-b674-88c3fe708ec2": {
+            "name": "VCCIO5",
+            "suffix": "B",
+            "swap_group": 0,
+            "unit": "a363282c-8af9-42fa-a54a-2528273053a1"
+        },
+        "e2401375-0893-45a1-91d0-7adc8c9d78d1": {
+            "name": "GND",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "af2d16a7-ef1e-477c-b2eb-0a7fabf9a23e"
+        },
+        "f6901e0c-cc67-4aa8-8f11-35c0f46f6444": {
+            "name": "PLL",
+            "suffix": "F",
+            "swap_group": 0,
+            "unit": "7c942354-ebdc-452b-8e2c-e2bc818025b1"
+        }
+    },
+    "manufacturer": "Rockchip",
+    "name": "RK3308",
+    "prefix": "U",
+    "tags": [
+        "mpu"
+    ],
+    "type": "entity",
+    "uuid": "f3277d99-8416-49e4-ad4e-333d571e9909"
+}

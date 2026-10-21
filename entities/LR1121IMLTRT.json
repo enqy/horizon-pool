@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "97a9730f-9665-44b5-aa36-1998d6ce8f27": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "0a2a71e0-1292-4cf4-88b5-f5fedc3c6f4c"
+        }
+    },
+    "manufacturer": "",
+    "name": "LR1121IMLTRT",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "4f0c6618-4155-42d4-8d35-4472387c7355"
+}

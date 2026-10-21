@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "FTC252012S2R2MBCA"
+    ],
+    "datasheet": [
+        false,
+        "https://www.lcsc.com/datasheet/lcsc_datasheet_2411220031_cjiang--Changjiang-Microelectronics-Tech-FTC252012S2R2MBCA_C5832372.pdf"
+    ],
+    "description": [
+        false,
+        "3A 2.2uH Winding Inductor ±20% 3.8A 1008 Power Inductors ROHS"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "cjiang (Changjiang Microelectronics Tech)"
+    ],
+    "model": "ed7ae10f-5364-4563-88c6-df1af614f9d3",
+    "orderable_MPNs": {
+        "6be4db3f-00da-4537-90e2-1fe2c196420e": "C5832372"
+    },
+    "package": "dd6e8f13-360f-47a9-b6b0-75ba41742b5f",
+    "pad_map": {
+        "38e033c8-00bf-40dc-9094-110ae51877aa": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "6799f282-f717-4fc5-a405-2bd395a9ddd9": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "inductor",
+        "passive",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "67bcbe6d-cbbb-421f-ba6f-99f489ae224a",
+    "value": [
+        false,
+        "2.2uH"
+    ]
+}

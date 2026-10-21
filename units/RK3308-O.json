@@ -1,0 +1,182 @@
+{
+    "manufacturer": "Rockchip",
+    "name": "RK3308 O",
+    "pins": {
+        "0d167c4c-57ad-4919-8c73-053017c16f4b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_MICN8",
+            "swap_group": 0
+        },
+        "1841617f-0bb2-43b9-86cc-28bc34b9f616": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_MICN6",
+            "swap_group": 0
+        },
+        "21eec854-320e-4a7b-9184-1eccfb600dfb": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_MICP5",
+            "swap_group": 0
+        },
+        "2b5f13fe-bbfc-4d66-8118-d048ca5c64ad": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_MICN5",
+            "swap_group": 0
+        },
+        "2c9767b3-10c5-4e09-9fb5-387babf9add8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_AVDD_1V8",
+            "swap_group": 0
+        },
+        "2ffb6f30-ae45-4e8a-8558-5bc5b5616301": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_MICP7",
+            "swap_group": 0
+        },
+        "4c62b341-c32b-4fd8-8dcc-5633f9b32664": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_VCM_LINEOUT",
+            "swap_group": 0
+        },
+        "53deeb6a-be1a-4f00-baf3-7b665fdb95cc": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_MICN1",
+            "swap_group": 0
+        },
+        "61425452-1230-499e-8854-462859344470": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_LINEOUT_R",
+            "swap_group": 0
+        },
+        "67fb0424-46da-442f-b2f4-bcb6df572d94": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_MICBIAS2",
+            "swap_group": 0
+        },
+        "6f7d41aa-5435-4617-b658-f28e63048736": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_AVDD_3V3",
+            "swap_group": 0
+        },
+        "71ea78c6-58d2-4e32-b14c-9cea9a41c82c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_HPOUT_R",
+            "swap_group": 0
+        },
+        "786dc8ed-6668-404f-b6e2-648bd52970b3": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_MICN4",
+            "swap_group": 0
+        },
+        "8263a4c4-555f-4efb-a423-6a8c63258050": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_MICN7",
+            "swap_group": 0
+        },
+        "8d36f559-7bba-4461-ad98-be4b90b92e60": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_HPDET",
+            "swap_group": 0
+        },
+        "8e6167b0-84eb-464e-8a96-387fe7750b2d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_MICP1",
+            "swap_group": 0
+        },
+        "a9434451-84ec-4eeb-b234-e0318453529a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_AVSS",
+            "swap_group": 0
+        },
+        "aca82b05-4903-4f8c-b624-82a1f1437301": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_MICBIAS1",
+            "swap_group": 0
+        },
+        "b02e6505-5c76-4516-a021-db75bde27ba4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_VCMH",
+            "swap_group": 0
+        },
+        "b620520a-6f66-41b9-87fd-bd7c31c86d7b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_MICN3",
+            "swap_group": 0
+        },
+        "c0221160-2695-4a91-98f2-967b10e7aeb7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_MICP3",
+            "swap_group": 0
+        },
+        "c8bdaf8d-73f2-4bcf-a99b-79fa7193ebcc": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_MICN2",
+            "swap_group": 0
+        },
+        "cbab122f-bdd5-4b55-90bf-06ecc9bcb865": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_VCM",
+            "swap_group": 0
+        },
+        "cf8149c2-8401-4f30-9b66-4fdc86596b03": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_MICP8",
+            "swap_group": 0
+        },
+        "d16802bd-79bd-4397-982a-79e6dacf713e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_MICP4",
+            "swap_group": 0
+        },
+        "e21e80cd-7d6f-454c-bd01-2eef1f9ffed2": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_MICP6",
+            "swap_group": 0
+        },
+        "e2c7cac1-0140-4c42-92d4-64f44c43ce6e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_LINEOUT_L",
+            "swap_group": 0
+        },
+        "f3548bb4-fb3e-4363-a96e-c6cedbdc749b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_HPOUT_L",
+            "swap_group": 0
+        },
+        "f35f7bdd-2bb6-47bc-90f8-fe61cb30d5cc": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CODEC_MICP2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "7f654b8e-8a30-42cb-ace5-53efbad3f6c5"
+}

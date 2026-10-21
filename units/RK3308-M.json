@@ -1,0 +1,320 @@
+{
+    "manufacturer": "Rockchip",
+    "name": "RK3308 M",
+    "pins": {
+        "0361d121-d0d7-4db2-adf2-b813529cf777": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_A6",
+            "swap_group": 0
+        },
+        "06bc55aa-d14f-4974-a95c-43b409fbde0b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_A9",
+            "swap_group": 0
+        },
+        "07f50eed-b53d-41e6-bebe-a3deec3be887": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_DQ13",
+            "swap_group": 0
+        },
+        "12ed6c0b-6ce7-46c7-a379-923006f30bfd": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_DQ7",
+            "swap_group": 0
+        },
+        "1943adff-b8b3-444f-a953-699cd5043f5e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_DQ0",
+            "swap_group": 0
+        },
+        "272a6cc2-37db-4386-a477-b06f9bb55991": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_A10",
+            "swap_group": 0
+        },
+        "2a757dd8-0023-46cf-9bb2-21a211ee0e56": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_DQ2",
+            "swap_group": 0
+        },
+        "305b0201-f79d-4499-868d-26b57797dcdc": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_DQS0",
+            "swap_group": 0
+        },
+        "38de497b-a63e-4208-8cd9-159398e97628": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_BA2",
+            "swap_group": 0
+        },
+        "38f04662-d7d9-46c7-83e6-700a77a1b52b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_A14",
+            "swap_group": 0
+        },
+        "3d149c4a-773a-44c7-ac9b-2b6f6aff82be": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_DQ12",
+            "swap_group": 0
+        },
+        "3dbe1c4f-618f-40aa-8379-234817995b7f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_BA1",
+            "swap_group": 0
+        },
+        "4e02a4ae-ccef-4bc5-a89b-66c837c8b656": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_ODT0",
+            "swap_group": 0
+        },
+        "4e202e61-f541-4313-8b05-2422e8f3a60c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "FP_2",
+            "swap_group": 0
+        },
+        "4fa42980-b827-47e8-9096-6100a994ad27": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_CLKN",
+            "swap_group": 0
+        },
+        "53d16366-009e-4b61-82e5-208c6a3d0f0d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_DQ4",
+            "swap_group": 0
+        },
+        "587133d5-a0d8-48e6-9c3c-e2a09959fd75": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_DQ1",
+            "swap_group": 0
+        },
+        "5fc02765-b56e-4ab2-b107-d0067102aaf9": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_CS0N",
+            "swap_group": 0
+        },
+        "605970ec-d38d-4541-9efb-2497fa169cca": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_BA0",
+            "swap_group": 0
+        },
+        "61e3a241-6ba0-4789-981c-cc07c812b69c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_DQ5",
+            "swap_group": 0
+        },
+        "6242d659-fe97-4350-9950-842327b4e301": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_DQS1N",
+            "swap_group": 0
+        },
+        "67e37bbc-f74d-4c40-b6ca-f2cf5d826a16": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_A4",
+            "swap_group": 0
+        },
+        "684b7917-caf7-4fe6-8a8c-e4ab312f8ab8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_A0",
+            "swap_group": 0
+        },
+        "69f92901-9fa1-4cb9-91a5-240693f220f8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_DM1",
+            "swap_group": 0
+        },
+        "6b669c48-d35b-430d-8f23-05e90fb30d4d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_A12",
+            "swap_group": 0
+        },
+        "6cc573fe-ce36-494b-90fa-18ceca2864c5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_DQ10",
+            "swap_group": 0
+        },
+        "70e78a88-aa2a-47d6-851e-86cb637a070e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_DQ11",
+            "swap_group": 0
+        },
+        "7580ae33-68f0-471b-8184-af7270e5b320": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_CLK",
+            "swap_group": 0
+        },
+        "777ae46e-c927-4f53-b754-a6f524690179": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_A11",
+            "swap_group": 0
+        },
+        "78d09d6d-38d6-4264-9bce-168d01a9ad08": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_CASN",
+            "swap_group": 0
+        },
+        "8a307229-4eb5-496a-91f1-e679e678e6ca": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_WEN",
+            "swap_group": 0
+        },
+        "8d0b9fa2-9015-4edb-a434-7ed653283c9c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_DQ9",
+            "swap_group": 0
+        },
+        "8ed3826e-f2df-466b-9337-08640b76a742": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_RASN",
+            "swap_group": 0
+        },
+        "94e69a62-35de-4c5f-a6a2-3ef472644edd": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_A7",
+            "swap_group": 0
+        },
+        "9f987bbe-1ee2-4a81-a22c-bc3c69d242c1": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_A1",
+            "swap_group": 0
+        },
+        "a866504e-f209-4bfe-8c40-f0403278c547": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "FP_3",
+            "swap_group": 0
+        },
+        "a8ee77a5-abd6-45f1-b978-4eb8afa2fd4e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_DQ8",
+            "swap_group": 0
+        },
+        "a95893fa-7954-4286-be41-1c2ceee6b3b4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_CKE",
+            "swap_group": 0
+        },
+        "aa7d18b3-0558-47ee-a1ae-d1e1f4bc449c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_VDD",
+            "swap_group": 0
+        },
+        "b35fb55c-cd22-44f3-a1b8-6a75c389cd4f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_A13",
+            "swap_group": 0
+        },
+        "b5eb2d39-7bcb-453c-b943-92fd711295b5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_DM0",
+            "swap_group": 0
+        },
+        "be44a6bd-bbdb-4f80-91eb-a24e55387ed2": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_DQS1",
+            "swap_group": 0
+        },
+        "c066254f-00f9-4021-b686-3c3471ba6357": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_DQ6",
+            "swap_group": 0
+        },
+        "c3dd1669-af7a-47e2-a634-bca7adf21985": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_A5",
+            "swap_group": 0
+        },
+        "c539974f-b3e3-4f2f-8964-bef6bd98b39e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_DQ15",
+            "swap_group": 0
+        },
+        "c76f9cb9-3e97-4279-af4e-9139626ebe36": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_A8",
+            "swap_group": 0
+        },
+        "cbbb1718-56b5-41ce-b4cc-46a305f06e24": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_DQ14",
+            "swap_group": 0
+        },
+        "d063f06f-e075-448e-b0c1-96a50064aa8d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_A2",
+            "swap_group": 0
+        },
+        "d0da4aa9-41f2-4c92-82d2-e37c38bb7586": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_DQ3",
+            "swap_group": 0
+        },
+        "dcd24b99-c35f-4697-b8b1-9de9c1127821": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_A3",
+            "swap_group": 0
+        },
+        "e61413e2-fb3a-4f86-addb-da0543d99af4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_RESET",
+            "swap_group": 0
+        },
+        "ea4bf200-58da-460f-be29-f1719aa8139f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DDR_DQS0N",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "e9cb0894-056b-46f8-98d9-35d138a31a04"
+}

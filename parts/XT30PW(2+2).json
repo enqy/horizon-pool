@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "XT30PW(2+2)"
+    ],
+    "datasheet": [
+        false,
+        "https://www.lcsc.com/datasheet/C19268030.pdf"
+    ],
+    "description": [
+        false,
+        "XT30 with 2 extra signal pins"
+    ],
+    "entity": "ada64f67-5c01-46d9-962a-07074e999b15",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "AMASS"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "aeb0d780-e5f8-4f59-beef-e59e914b895e",
+    "pad_map": {
+        "5795fc89-aeb0-4b72-a7fb-bdaf7d52d22e": {
+            "gate": "9aaa2419-f0cb-4643-9f90-7d109c2d7177",
+            "pin": "9ad25b1b-91de-4756-8475-fb8c27845698"
+        },
+        "809e2c31-bcb4-4240-877e-a67ec839f56b": {
+            "gate": "9aaa2419-f0cb-4643-9f90-7d109c2d7177",
+            "pin": "15274175-6af5-45a4-a4bf-44b284fbf64c"
+        },
+        "b6fa7fde-daf1-477d-a192-e29f3a108fc5": {
+            "gate": "9aaa2419-f0cb-4643-9f90-7d109c2d7177",
+            "pin": "94d1f17e-24da-4541-9cc4-7ce1a3da1f73"
+        },
+        "ea4d55c2-2c4a-4b1e-aaa6-e004107a87fe": {
+            "gate": "9aaa2419-f0cb-4643-9f90-7d109c2d7177",
+            "pin": "49166f8e-2a74-4d03-a4d8-92392111f4f2"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "cb2f7063-0cc5-4639-b54c-05227eb45edf",
+    "value": [
+        false,
+        ""
+    ]
+}

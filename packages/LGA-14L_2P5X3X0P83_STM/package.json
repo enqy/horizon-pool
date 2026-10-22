@@ -789,8 +789,8 @@
     "models": {
         "b6b96d0a-945b-4671-990c-b08692e52201": {
             "filename": "3d_models/LSM6DSRTR.STEP",
-            "pitch": 32768,
-            "roll": 49152,
+            "pitch": 0,
+            "roll": 0,
             "x": 0,
             "y": 0,
             "yaw": 0,

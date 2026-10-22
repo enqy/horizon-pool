@@ -152,13 +152,13 @@
     "manufacturer": "",
     "models": {
         "42597e75-3bd6-48ee-89ae-f437eddf9067": {
-            "filename": "3d_models/MP8770CGQ.step",
+            "filename": "3d_models/MP8772GQ.step",
             "pitch": 0,
             "roll": 0,
-            "x": -1500000,
-            "y": -1500000,
+            "x": 0,
+            "y": 0,
             "yaw": 0,
-            "z": 100000
+            "z": 0
         }
     },
     "name": "QFN-16_MP8772GQ-P_MNP",

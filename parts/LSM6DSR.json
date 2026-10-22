@@ -12,7 +12,7 @@
         "The LSM6DSR is a system-in-package featuring a 3D digital accelerometer and a 3D digital gyroscope with an extended full-scale range for the gyroscope, up to 4000 dps, and high stability over temperature and time."
     ],
     "entity": "b44f96fa-d6b9-464c-9795-09819d44aaf1",
-    "inherit_model": false,
+    "inherit_model": true,
     "inherit_tags": false,
     "manufacturer": [
         false,

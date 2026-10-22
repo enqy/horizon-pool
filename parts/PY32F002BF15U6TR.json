@@ -1,0 +1,124 @@
+{
+    "MPN": [
+        false,
+        "PY32F002BF15U6TR"
+    ],
+    "datasheet": [
+        false,
+        "https://download.py32.org/Datasheet/en/PY32F002B_Datasheet_V1.8.pdf"
+    ],
+    "description": [
+        false,
+        "24 MHz Arm Cortex-M0+ MCU, 24 KB Flash, 3 KB SRAM, 18 GPIOs, 1.7\u20135.5 V, -40 to +85 \u00b0C; QFN20 3x3 mm, 0.4 mm pitch. Tape and reel. Exposed pad electrical connection is not specified in the datasheet; EP is a separate passive pin."
+    ],
+    "entity": "eeb9a04f-6607-452e-a9c4-2cdc6834f936",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Puya Semiconductor"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "d18e0fb5-e811-4292-9838-60a31b599da4": "C7469099"
+    },
+    "package": "61474592-d0da-491b-a3b6-565c7cff63c1",
+    "pad_map": {
+        "020317a0-c8eb-4663-bb65-23337b82e2cb": {
+            "gate": "a71d4cab-3c6a-49f2-94f6-f5f049e2a7d0",
+            "pin": "f9574dc0-64dd-41ab-82b7-3a51c7ca8162"
+        },
+        "02b82877-5b85-42a5-9d56-6fb03f89b9ac": {
+            "gate": "a71d4cab-3c6a-49f2-94f6-f5f049e2a7d0",
+            "pin": "10f2285b-faeb-415a-9eb2-d517e3470f69"
+        },
+        "04b1dee1-9b44-4980-94a0-13fc3446c937": {
+            "gate": "a71d4cab-3c6a-49f2-94f6-f5f049e2a7d0",
+            "pin": "bb3dc293-5e24-4478-b18c-1db76504e83b"
+        },
+        "29261850-0c39-41a3-a8ef-85de06eb7387": {
+            "gate": "a71d4cab-3c6a-49f2-94f6-f5f049e2a7d0",
+            "pin": "2e464287-efba-41c3-91ab-805eb96a2fd4"
+        },
+        "428fcc6d-fae0-4db9-9ece-9457fd4915bf": {
+            "gate": "a71d4cab-3c6a-49f2-94f6-f5f049e2a7d0",
+            "pin": "bffd3e66-db7e-40ac-9df9-7ccb583d8472"
+        },
+        "47bd2fb5-e433-4181-8836-66ea9a11244d": {
+            "gate": "a71d4cab-3c6a-49f2-94f6-f5f049e2a7d0",
+            "pin": "d518fea6-b2f1-441c-b2c0-f8fbeb13497f"
+        },
+        "4ffd8052-508e-44de-aa70-48a586edc249": {
+            "gate": "a71d4cab-3c6a-49f2-94f6-f5f049e2a7d0",
+            "pin": "7418d73c-3d9e-4bd0-a9a1-59166285bfd2"
+        },
+        "5d852d82-c01b-4692-ae24-57c8cbbb65fd": {
+            "gate": "a71d4cab-3c6a-49f2-94f6-f5f049e2a7d0",
+            "pin": "19bfa56a-816c-41e3-86cb-1bafca7edd68"
+        },
+        "636a695c-de26-4609-aaef-0f2f821cd234": {
+            "gate": "a71d4cab-3c6a-49f2-94f6-f5f049e2a7d0",
+            "pin": "628f4171-ed28-413f-aecb-b477aeb6a432"
+        },
+        "93f9c024-1b6b-4f7a-be8e-750835524e3a": {
+            "gate": "a71d4cab-3c6a-49f2-94f6-f5f049e2a7d0",
+            "pin": "1d52cf69-1687-44c7-8a71-af39e5c34a98"
+        },
+        "9de894e0-8fa1-4257-a066-36d178f38d40": {
+            "gate": "a71d4cab-3c6a-49f2-94f6-f5f049e2a7d0",
+            "pin": "f9ca4eda-4865-41c5-bbbb-c5faa1a885d3"
+        },
+        "a088d971-d67e-495e-904c-4813be0afc38": {
+            "gate": "a71d4cab-3c6a-49f2-94f6-f5f049e2a7d0",
+            "pin": "cf348e42-3877-4c2f-bc6e-31a8b2895151"
+        },
+        "a41eb9bc-40f4-42c7-b0e7-fcd7a4f7db63": {
+            "gate": "a71d4cab-3c6a-49f2-94f6-f5f049e2a7d0",
+            "pin": "e5c877ca-5d6a-43fb-8ad9-1fbf07ece502"
+        },
+        "a55e7f0a-3498-4dd3-a544-a1fc1ed8fb97": {
+            "gate": "a71d4cab-3c6a-49f2-94f6-f5f049e2a7d0",
+            "pin": "2a31d9f9-0bdd-4f2d-ac06-3f06500093f3"
+        },
+        "ba74a7f2-ee3f-41be-8d66-b9f4896b8258": {
+            "gate": "a71d4cab-3c6a-49f2-94f6-f5f049e2a7d0",
+            "pin": "5dac7f72-cf15-42ee-837a-360463fa761e"
+        },
+        "bb0a85b8-5eb6-4146-b182-8c07ceb8adf7": {
+            "gate": "a71d4cab-3c6a-49f2-94f6-f5f049e2a7d0",
+            "pin": "b923bee0-2a04-4085-9faf-1e691418d99a"
+        },
+        "c6624620-5b48-4366-aa6b-c8e7bd427285": {
+            "gate": "a71d4cab-3c6a-49f2-94f6-f5f049e2a7d0",
+            "pin": "b344f8a3-1976-41e7-a80d-e4049a86b514"
+        },
+        "c6cc38b0-6cf6-402a-b767-24d6171720f3": {
+            "gate": "a71d4cab-3c6a-49f2-94f6-f5f049e2a7d0",
+            "pin": "bc3dc6e5-206b-4c1a-8ff9-8fff85ca1488"
+        },
+        "dbd78405-6ba9-45c0-9d46-bbd732e47781": {
+            "gate": "a71d4cab-3c6a-49f2-94f6-f5f049e2a7d0",
+            "pin": "7f2b4410-2a3e-475c-925e-f41ba4d9e6fa"
+        },
+        "e167fd9b-84e4-4f61-a030-2376d99c21b8": {
+            "gate": "a71d4cab-3c6a-49f2-94f6-f5f049e2a7d0",
+            "pin": "c57b7dab-9e46-4e45-aa7a-e7aff01826a0"
+        },
+        "f6a59535-fa61-48d2-ae06-2a6e7a3562f8": {
+            "gate": "a71d4cab-3c6a-49f2-94f6-f5f049e2a7d0",
+            "pin": "ee465063-cabe-40b8-9715-6d6a102ceb5c"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "arm",
+        "ic",
+        "mcu"
+    ],
+    "type": "part",
+    "uuid": "fad320e5-d2b4-4258-b5d1-38ec5ccf665b",
+    "value": [
+        false,
+        ""
+    ]
+}

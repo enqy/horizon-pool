@@ -1,0 +1,38 @@
+{
+    "manufacturer": "LOWPOWER",
+    "name": "LP3997-30QVF",
+    "pins": {
+        "64cb6eaa-1cdb-48cd-82a1-17bf888b62f4": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "74db9ab8-6e09-4004-97d9-32e1cf1eb68f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VIN",
+            "swap_group": 0
+        },
+        "a277d36d-5829-491e-af61-ddfa65fa998a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "abe42caa-7a9e-44d3-83ee-006535ef7a20": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VOUT",
+            "swap_group": 0
+        },
+        "f13c7472-35bb-4b6e-9ed1-88c766c317e8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "EP",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "a1f5eaa5-f237-4213-945b-66d435145103"
+}

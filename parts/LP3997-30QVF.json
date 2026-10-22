@@ -1,0 +1,59 @@
+{
+    "MPN": [
+        false,
+        "LP3997-30QVF"
+    ],
+    "datasheet": [
+        false,
+        "https://uploadcdn.oneyac.com/attachments/files/brand_pdf/lowpower/A5/A1/LP399730QVF.pdf"
+    ],
+    "description": [
+        false,
+        "3.0 V fixed-output, 300 mA LDO with enable and output discharge; 1.6\u20136.0 V input, 2 uA typical quiescent current; DFN-4 1x1 mm. Center pad 5 electrical connection is unspecified; exposed separately as EP."
+    ],
+    "entity": "b9d968f7-6688-44f1-bc7c-f83cda5f2eec",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "LOWPOWER"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "0b3c554c-58ef-47d4-aa4f-a38962ae9ee6": "C34039746"
+    },
+    "package": "47d6286a-2970-4d6a-bf4c-918ee86258fb",
+    "pad_map": {
+        "0485c23c-3f9a-4836-8b30-a9831e5e48b0": {
+            "gate": "3f6a2191-a9c0-4ec6-baf5-7e7e562d040e",
+            "pin": "74db9ab8-6e09-4004-97d9-32e1cf1eb68f"
+        },
+        "47b25957-6f2f-4a35-ac54-21fb2be56e1a": {
+            "gate": "3f6a2191-a9c0-4ec6-baf5-7e7e562d040e",
+            "pin": "abe42caa-7a9e-44d3-83ee-006535ef7a20"
+        },
+        "588fee77-aceb-488e-83dd-1bb31f6ac20b": {
+            "gate": "3f6a2191-a9c0-4ec6-baf5-7e7e562d040e",
+            "pin": "64cb6eaa-1cdb-48cd-82a1-17bf888b62f4"
+        },
+        "b5a327c9-245c-4a47-bb3e-1bd50e569dde": {
+            "gate": "3f6a2191-a9c0-4ec6-baf5-7e7e562d040e",
+            "pin": "a277d36d-5829-491e-af61-ddfa65fa998a"
+        },
+        "f116877b-0574-43c6-aa02-ed5ec481079f": {
+            "gate": "3f6a2191-a9c0-4ec6-baf5-7e7e562d040e",
+            "pin": "f13c7472-35bb-4b6e-9ed1-88c766c317e8"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ldo",
+        "regulator"
+    ],
+    "type": "part",
+    "uuid": "46007bf1-a601-46cf-ae26-009e2e6d4764",
+    "value": [
+        false,
+        ""
+    ]
+}

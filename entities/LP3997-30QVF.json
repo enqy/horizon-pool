@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "3f6a2191-a9c0-4ec6-baf5-7e7e562d040e": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a1f5eaa5-f237-4213-945b-66d435145103"
+        }
+    },
+    "manufacturer": "LOWPOWER",
+    "name": "LP3997-30QVF",
+    "prefix": "U",
+    "tags": [
+        "ldo",
+        "regulator"
+    ],
+    "type": "entity",
+    "uuid": "b9d968f7-6688-44f1-bc7c-f83cda5f2eec"
+}

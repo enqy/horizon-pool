@@ -12,7 +12,7 @@
         "Automotive ideal diode controller with hot-swap protection"
     ],
     "entity": "b5c5773d-b3c7-4082-b86c-86df8188c399",
-    "inherit_model": false,
+    "inherit_model": true,
     "inherit_tags": false,
     "manufacturer": [
         false,
@@ -22,7 +22,7 @@
     "orderable_MPNs": {
         "2544c0d0-da5f-472b-8274-b7b422616ada": "C20345498"
     },
-    "package": "f45bb4c0-e9cb-4bfe-81ba-dbc1183ae838",
+    "package": "cd5c0c8f-977a-493d-b92a-cfe103d3ea3d",
     "pad_map": {
         "058b05ec-df66-408f-a548-1261a594e424": {
             "gate": "619965b5-7dcd-4b86-9064-15b457b7cf45",

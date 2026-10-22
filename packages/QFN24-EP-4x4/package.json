@@ -159,15 +159,6 @@
             "y": 0,
             "yaw": 0,
             "z": 0
-        },
-        "5f458cb8-a4ea-5633-ada6-abc3510e9aab": {
-            "filename": "3d_models/QFN24-EP-4x4-LM74900.step",
-            "pitch": 0,
-            "roll": 0,
-            "x": 0,
-            "y": 0,
-            "yaw": 0,
-            "z": 0
         }
     },
     "name": "QFN24-EP-4x4",

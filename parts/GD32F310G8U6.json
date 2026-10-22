@@ -9,7 +9,7 @@
     ],
     "description": [
         false,
-        "The GD32F310xx device belongs to the value line of GD32 MCU family. It is a new 32-bit general-purpose microcontroller based on the Arm® Cortex®-M4 RISC core with best cost- performance ratio in terms of enhanced processing capacity, reduced power consumption and peripheral set. The Cortex®-M4 core features implement a full set of DSP instructions to address digital signal control markets that demand an efficient, easy-to-use blend of control and signal processing capabilities. It also provides a powerful trace technology for enhanced application security and advanced debug support."
+        "The GD32F310xx device belongs to the value line of GD32 MCU family. It is a new 32-bit general-purpose microcontroller based on the Arm\u00ae Cortex\u00ae-M4 RISC core with best cost- performance ratio in terms of enhanced processing capacity, reduced power consumption and peripheral set. The Cortex\u00ae-M4 core features implement a full set of DSP instructions to address digital signal control markets that demand an efficient, easy-to-use blend of control and signal processing capabilities. It also provides a powerful trace technology for enhanced application security and advanced debug support."
     ],
     "entity": "d26a3ac6-d295-4c93-8c07-bc03b07ce478",
     "inherit_model": false,
@@ -135,6 +135,10 @@
         "fd337bb7-b7f3-499f-ab41-f6e95522e0fe": {
             "gate": "d53b0557-3494-4285-8d94-7608208a0f23",
             "pin": "6e7b804b-a642-4c69-b0d6-7c28edefd9f9"
+        },
+        "99cb859c-916a-43be-8d31-d24a5bb0d6dd": {
+            "gate": "d53b0557-3494-4285-8d94-7608208a0f23",
+            "pin": "907aca7b-ea70-452e-a4aa-553862e78bed"
         }
     },
     "parametric": {},

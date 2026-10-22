@@ -154,7 +154,7 @@
         "bea67a50-1e51-4abd-84c0-a40680432f95": {
             "filename": "3d_models/SK6812MINI-E.STEP",
             "pitch": 0,
-            "roll": 49152,
+            "roll": 0,
             "x": 0,
             "y": 0,
             "yaw": 0,
@@ -168,13 +168,13 @@
             "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
             "parameter_set": {
                 "pad_height": 820000,
-                "pad_width": 1800000
+                "pad_width": 1600000
             },
             "placement": {
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    2600000,
+                    2700000,
                     750000
                 ]
             }
@@ -184,13 +184,13 @@
             "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
             "parameter_set": {
                 "pad_height": 820000,
-                "pad_width": 1800000
+                "pad_width": 1600000
             },
             "placement": {
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    2600000,
+                    2700000,
                     -750000
                 ]
             }
@@ -200,13 +200,13 @@
             "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
             "parameter_set": {
                 "pad_height": 820000,
-                "pad_width": 1800000
+                "pad_width": 1600000
             },
             "placement": {
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -2600000,
+                    -2700000,
                     750000
                 ]
             }
@@ -216,19 +216,19 @@
             "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
             "parameter_set": {
                 "pad_height": 820000,
-                "pad_width": 1800000
+                "pad_width": 1600000
             },
             "placement": {
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -2600000,
+                    -2700000,
                     -750000
                 ]
             }
         }
     },
-    "parameter_program": "7.000mm 2.800mm\nget-parameter [ courtyard_expansion ]\n2 * +xy\nset-polygon [ courtyard rectangle 0.000mm 0.000mm ]",
+    "parameter_program": "7.000mm 3.000mm\nget-parameter [ courtyard_expansion ]\n2 * +xy\nset-polygon [ courtyard rectangle 0.000mm 0.000mm ]",
     "parameter_set": {
         "courtyard_expansion": 250000
     },
@@ -244,8 +244,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -1600000,
-                        1400000
+                        -1700000,
+                        1500000
                     ],
                     "type": "line"
                 },
@@ -256,8 +256,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -1600000,
-                        -1400000
+                        -1700000,
+                        -1500000
                     ],
                     "type": "line"
                 },
@@ -268,8 +268,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        1600000,
-                        -1400000
+                        1700000,
+                        -1500000
                     ],
                     "type": "line"
                 },
@@ -280,8 +280,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        1600000,
-                        1400000
+                        1700000,
+                        1500000
                     ],
                     "type": "line"
                 }
@@ -407,7 +407,7 @@
                     "arc_reverse": false,
                     "position": [
                         -3750000,
-                        -1650000
+                        -1750000
                     ],
                     "type": "line"
                 },
@@ -419,7 +419,7 @@
                     "arc_reverse": false,
                     "position": [
                         -3750000,
-                        1650000
+                        1750000
                     ],
                     "type": "line"
                 },
@@ -431,7 +431,7 @@
                     "arc_reverse": false,
                     "position": [
                         3750000,
-                        1650000
+                        1750000
                     ],
                     "type": "line"
                 },
@@ -443,7 +443,7 @@
                     "arc_reverse": false,
                     "position": [
                         3750000,
-                        -1650000
+                        -1750000
                     ],
                     "type": "line"
                 }

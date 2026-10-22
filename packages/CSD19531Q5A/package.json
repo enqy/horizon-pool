@@ -78,14 +78,14 @@
             "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
             "parameter_set": {
                 "corner_radius": 50000,
-                "pad_height": 645000,
-                "pad_width": 675000
+                "pad_height": 650000,
+                "pad_width": 750000
             },
             "placement": {
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -2802500,
+                    -2765000,
                     635000
                 ]
             }
@@ -113,14 +113,14 @@
             "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
             "parameter_set": {
                 "corner_radius": 50000,
-                "pad_height": 645000,
-                "pad_width": 675000
+                "pad_height": 650000,
+                "pad_width": 750000
             },
             "placement": {
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -2802500,
+                    -2765000,
                     -635000
                 ]
             }
@@ -130,14 +130,14 @@
             "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
             "parameter_set": {
                 "corner_radius": 50000,
-                "pad_height": 645000,
-                "pad_width": 675000
+                "pad_height": 650000,
+                "pad_width": 750000
             },
             "placement": {
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -2802500,
+                    -2765000,
                     -1905000
                 ]
             }
@@ -147,14 +147,14 @@
             "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
             "parameter_set": {
                 "corner_radius": 50000,
-                "pad_height": 645000,
-                "pad_width": 675000
+                "pad_height": 650000,
+                "pad_width": 750000
             },
             "placement": {
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -2802500,
+                    -2765000,
                     1905000
                 ]
             }

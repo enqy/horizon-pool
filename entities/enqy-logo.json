@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "f88062b4-36bb-43b6-a5b3-ffa6ae17b26b": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "9a96d28a-9b0a-4bc3-a273-63dd52aa4a61"
+        }
+    },
+    "manufacturer": "enqy",
+    "name": "enqy logo",
+    "prefix": "LOGO",
+    "tags": [
+        "logo",
+        "silkscreen"
+    ],
+    "type": "entity",
+    "uuid": "56116640-0ecb-447e-b5c9-48630e2b10e5"
+}

@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "enqy-logo-8mm"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "enqy logo, 8 mm wide, top silkscreen only. Artwork from enqy/logo/logo.svg. No pads or electrical connections."
+    ],
+    "entity": "56116640-0ecb-447e-b5c9-48630e2b10e5",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "enqy"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "045f0b72-e024-4168-9d2f-e6d31cf8f606",
+    "pad_map": {},
+    "parametric": {},
+    "tags": [
+        "logo",
+        "silkscreen"
+    ],
+    "type": "part",
+    "uuid": "13bc8133-4a75-4b66-b1fe-a93f70e6a251",
+    "value": [
+        false,
+        ""
+    ]
+}

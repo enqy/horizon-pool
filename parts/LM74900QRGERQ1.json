@@ -12,13 +12,13 @@
         "Automotive ideal diode controller with hot-swap protection"
     ],
     "entity": "b5c5773d-b3c7-4082-b86c-86df8188c399",
-    "inherit_model": true,
+    "inherit_model": false,
     "inherit_tags": false,
     "manufacturer": [
         false,
         "Texas Instruments"
     ],
-    "model": "00000000-0000-0000-0000-000000000000",
+    "model": "5f458cb8-a4ea-5633-ada6-abc3510e9aab",
     "orderable_MPNs": {
         "2544c0d0-da5f-472b-8274-b7b422616ada": "C20345498"
     },

@@ -12,13 +12,13 @@
         "24 MHz Arm Cortex-M0+ MCU, 24 KB Flash, 3 KB SRAM, 18 GPIOs, 1.7\u20135.5 V, -40 to +85 \u00b0C; QFN20 3x3 mm, 0.4 mm pitch. Tape and reel. Exposed pad electrical connection is not specified in the datasheet; EP is a separate passive pin."
     ],
     "entity": "eeb9a04f-6607-452e-a9c4-2cdc6834f936",
-    "inherit_model": true,
+    "inherit_model": false,
     "inherit_tags": false,
     "manufacturer": [
         false,
         "Puya Semiconductor"
     ],
-    "model": "00000000-0000-0000-0000-000000000000",
+    "model": "2260e0ad-3452-560b-9715-993901e85c42",
     "orderable_MPNs": {
         "d18e0fb5-e811-4292-9838-60a31b599da4": "C7469099"
     },

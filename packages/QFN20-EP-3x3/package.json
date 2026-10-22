@@ -153,6 +153,15 @@
             "y": 0,
             "yaw": 0,
             "z": 0
+        },
+        "2260e0ad-3452-560b-9715-993901e85c42": {
+            "filename": "3d_models/QFN20-EP-3x3-PY32F002B.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
         }
     },
     "name": "QFN20-EP-3x3",

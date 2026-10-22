@@ -12,7 +12,7 @@
         "Kailh Choc Low Profile Keyswitch"
     ],
     "entity": "50a37764-d0dc-4a01-aa5d-c2e4ca670b2c",
-    "inherit_model": false,
+    "inherit_model": true,
     "inherit_tags": false,
     "manufacturer": [
         false,

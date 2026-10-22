@@ -128,13 +128,13 @@
     "manufacturer": "Seeed Studio",
     "models": {
         "5a4d9f0c-346c-4ed6-86d6-4b76b65cada4": {
-            "filename": "3d_models/Seeeduino XIAO.step",
-            "pitch": 32768,
-            "roll": 49152,
-            "x": -3000000,
-            "y": 38600000,
+            "filename": "3d_models/XIAO_nRF52840.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
             "yaw": 0,
-            "z": 7500000
+            "z": 0
         }
     },
     "name": "XIAO nRF52840",

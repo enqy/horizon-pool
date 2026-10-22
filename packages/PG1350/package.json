@@ -28,8 +28,8 @@
             "pitch": 0,
             "roll": 0,
             "x": 0,
-            "y": 200000,
-            "yaw": 32768,
+            "y": 0,
+            "yaw": 0,
             "z": 0
         }
     },
@@ -55,7 +55,7 @@
             "name": "H2",
             "padstack": "762c84c2-187d-454a-af81-d3381bec5257",
             "parameter_set": {
-                "hole_diameter": 1700000
+                "hole_diameter": 1900000
             },
             "placement": {
                 "angle": 0,
@@ -70,7 +70,7 @@
             "name": "H1",
             "padstack": "762c84c2-187d-454a-af81-d3381bec5257",
             "parameter_set": {
-                "hole_diameter": 1700000
+                "hole_diameter": 1900000
             },
             "placement": {
                 "angle": 0,

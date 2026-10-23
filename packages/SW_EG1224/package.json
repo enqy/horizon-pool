@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "ac6757c9-8148-56fb-ab9f-5109f5fd1beb",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -174,7 +174,17 @@
         }
     },
     "manufacturer": "",
-    "models": {},
+    "models": {
+        "ac6757c9-8148-56fb-ab9f-5109f5fd1beb": {
+            "filename": "3d_models/EG1224.step",
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+        }
+    },
     "name": "SW_EG1224",
     "pads": {
         "0dab81b8-1b3a-407f-a939-d4824bded069": {

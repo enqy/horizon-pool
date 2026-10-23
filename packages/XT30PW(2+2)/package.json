@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "8bbbd5dd-dc88-5dd4-97f6-8787d485cb67",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -22,7 +22,17 @@
     "keepouts": {},
     "lines": {},
     "manufacturer": "AMASS",
-    "models": {},
+    "models": {
+        "8bbbd5dd-dc88-5dd4-97f6-8787d485cb67": {
+            "filename": "3d_models/XT30PW_2plus2_M.step",
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+        }
+    },
     "name": "XT30PW(2+2)",
     "pads": {
         "5795fc89-aeb0-4b72-a7fb-bdaf7d52d22e": {

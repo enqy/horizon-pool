@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "93cd20be-d9ac-5b82-ac5f-65c950ff605a",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -60,7 +60,17 @@
         }
     },
     "manufacturer": "",
-    "models": {},
+    "models": {
+        "93cd20be-d9ac-5b82-ac5f-65c950ff605a": {
+            "filename": "3d_models/AOTA_B201610.step",
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+        }
+    },
     "name": "L_0806",
     "pads": {
         "5fca2e9a-38bf-4b7d-9835-65410ff781fa": {

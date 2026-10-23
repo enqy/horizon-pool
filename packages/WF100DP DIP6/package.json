@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "a36f6cca-fd25-59e6-882a-067367e2eec9",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -186,7 +186,17 @@
         }
     },
     "manufacturer": "WF",
-    "models": {},
+    "models": {
+        "a36f6cca-fd25-59e6-882a-067367e2eec9": {
+            "filename": "3d_models/WF100DP_DIP6.step",
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+        }
+    },
     "name": "WF100DP DIP6",
     "pads": {
         "1dd7fb53-bf04-42b6-961a-ed63c9bb7a6d": {

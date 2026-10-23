@@ -9,10 +9,10 @@
     ],
     "description": [
         false,
-        "Lying 500mA SPDT 15.5mm 15V PCPin Rectangular columnar -20℃~+70℃ Plugin Slide Switches ROHS"
+        "Lying 500mA SPDT 15.5mm 15V PCPin Rectangular columnar -20\u2103~+70\u2103 Plugin Slide Switches ROHS"
     ],
     "entity": "4e3d1693-0b7a-4ff4-ae70-0927233f4072",
-    "inherit_model": false,
+    "inherit_model": true,
     "inherit_tags": false,
     "manufacturer": [
         false,

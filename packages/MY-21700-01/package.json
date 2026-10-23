@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "188f75e1-b870-5c91-8570-5aaf2df672b0",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -22,7 +22,17 @@
     "keepouts": {},
     "lines": {},
     "manufacturer": "MYOUNG",
-    "models": {},
+    "models": {
+        "188f75e1-b870-5c91-8570-5aaf2df672b0": {
+            "filename": "3d_models/MY_21700_01_pair.step",
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+        }
+    },
     "name": "MY-21700-01",
     "pads": {
         "0dafd9fd-3aed-4d00-9eca-57cc05e04da5": {

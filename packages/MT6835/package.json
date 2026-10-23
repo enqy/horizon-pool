@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "43227e8d-6d81-529e-ab67-5c691f44ffe6",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -22,7 +22,17 @@
     "keepouts": {},
     "lines": {},
     "manufacturer": "MagnTek",
-    "models": {},
+    "models": {
+        "43227e8d-6d81-529e-ab67-5c691f44ffe6": {
+            "filename": "3d_models/MT6835_TSSOP16.step",
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+        }
+    },
     "name": "MT6835",
     "pads": {
         "05758a9c-5c2e-40da-8ac9-f28d2fb24ac3": {

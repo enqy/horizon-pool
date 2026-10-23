@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "bf466bb3-4a05-521b-8e30-fd1587a3853e",
     "dimensions": {
         "16d6f275-ed68-41b9-90df-017e30bda709": {
             "label_distance": 11500000,
@@ -88,7 +88,17 @@
     "keepouts": {},
     "lines": {},
     "manufacturer": "MYOUNG",
-    "models": {},
+    "models": {
+        "bf466bb3-4a05-521b-8e30-fd1587a3853e": {
+            "filename": "3d_models/MY_18650_01_pair.step",
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+        }
+    },
     "name": "MY-18650-01",
     "pads": {
         "107f8444-0454-4eab-be49-68eb8475064a": {

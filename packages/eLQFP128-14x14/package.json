@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "43b11ae5-5aa4-5567-be57-51cacddc92cc",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -22,7 +22,17 @@
     "keepouts": {},
     "lines": {},
     "manufacturer": "Allwinner",
-    "models": {},
+    "models": {
+        "43b11ae5-5aa4-5567-be57-51cacddc92cc": {
+            "filename": "3d_models/T113_eLQFP128.step",
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+        }
+    },
     "name": "eLQFP128-14x14",
     "pads": {
         "000295a6-2e93-450f-8322-3f1de448836a": {

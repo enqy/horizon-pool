@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "1c8a3509-8816-5113-b53f-263a227bcb1f",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -96,7 +96,17 @@
         }
     },
     "manufacturer": "",
-    "models": {},
+    "models": {
+        "1c8a3509-8816-5113-b53f-263a227bcb1f": {
+            "filename": "3d_models/TPS61089_RNR11.step",
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+        }
+    },
     "name": "TPS61089RNRR",
     "pads": {
         "00ac6c90-8dcd-46ef-88c4-f11f29ea6875": {

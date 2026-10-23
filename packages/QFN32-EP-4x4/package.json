@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "6926ca1d-07c4-5f72-8f6c-5a79f7b6b7cf",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -150,7 +150,17 @@
         }
     },
     "manufacturer": "",
-    "models": {},
+    "models": {
+        "6926ca1d-07c4-5f72-8f6c-5a79f7b6b7cf": {
+            "filename": "3d_models/QFN32_EP_4x4_generic.step",
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+        }
+    },
     "name": "QFN32-EP-4x4",
     "pads": {
         "0e086859-fd30-46f6-bc99-efebdfdf6119": {

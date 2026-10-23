@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "1267aeae-41f5-5ddd-a03c-0e7d66b751db",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -22,7 +22,17 @@
     "keepouts": {},
     "lines": {},
     "manufacturer": "ST",
-    "models": {},
+    "models": {
+        "1267aeae-41f5-5ddd-a03c-0e7d66b751db": {
+            "filename": "3d_models/LED2000_VFQFPN8.step",
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+        }
+    },
     "name": "VFQFPN8",
     "pads": {
         "0c663ba0-dc41-4299-910c-c1126243bedf": {

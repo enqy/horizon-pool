@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "cc5fa305-36e3-562f-ba3d-e63052c781a8",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -60,7 +60,17 @@
         }
     },
     "manufacturer": "Texas Instruments",
-    "models": {},
+    "models": {
+        "cc5fa305-36e3-562f-ba3d-e63052c781a8": {
+            "filename": "3d_models/CSD19537Q3.step",
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+        }
+    },
     "name": "CSD19537Q3",
     "pads": {
         "2e54e701-6d5c-46a0-be62-16464ae4a099": {

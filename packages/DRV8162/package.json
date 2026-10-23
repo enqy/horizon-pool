@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "edfb7c33-59cf-5ae8-adf1-b77b683db638",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -60,7 +60,17 @@
         }
     },
     "manufacturer": "Texas Instruments",
-    "models": {},
+    "models": {
+        "edfb7c33-59cf-5ae8-adf1-b77b683db638": {
+            "filename": "3d_models/DRV8162_VSSOP20.step",
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+        }
+    },
     "name": "DRV8162",
     "pads": {
         "0d60b2cf-3f4a-4e8b-bad9-05b474537da2": {

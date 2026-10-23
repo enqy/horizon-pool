@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "8ef1bd0c-4f75-5b23-870f-8b9ad35c006f",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -60,7 +60,17 @@
         }
     },
     "manufacturer": "",
-    "models": {},
+    "models": {
+        "8ef1bd0c-4f75-5b23-870f-8b9ad35c006f": {
+            "filename": "3d_models/TCAN332_DCN8.step",
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+        }
+    },
     "name": "SOT65P280X145-8N",
     "pads": {
         "1557c38f-db42-466e-9218-10a8b54bfbfa": {

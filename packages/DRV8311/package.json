@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "ec4164e8-d04f-5a82-a0e8-4a141685ba49",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -150,7 +150,17 @@
         }
     },
     "manufacturer": "Texas Instruments",
-    "models": {},
+    "models": {
+        "ec4164e8-d04f-5a82-a0e8-4a141685ba49": {
+            "filename": "3d_models/DRV8311_WQFN24.step",
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+        }
+    },
     "name": "DRV8311",
     "pads": {
         "0b088110-c064-4a09-8aad-9350910cd3ee": {

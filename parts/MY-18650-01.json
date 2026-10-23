@@ -12,7 +12,7 @@
         "18650 Battery Holder"
     ],
     "entity": "2e3290b1-ea78-434c-9ed0-6935cfdcfda5",
-    "inherit_model": false,
+    "inherit_model": true,
     "inherit_tags": false,
     "manufacturer": [
         false,

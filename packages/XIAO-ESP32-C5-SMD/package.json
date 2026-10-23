@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "38530e96-ca50-5463-ba7e-7884bdbdb67a",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -330,7 +330,17 @@
         }
     },
     "manufacturer": "",
-    "models": {},
+    "models": {
+        "38530e96-ca50-5463-ba7e-7884bdbdb67a": {
+            "filename": "3d_models/XIAO_ESP32_C5.step",
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+        }
+    },
     "name": "XIAO-ESP32-C5-SMD",
     "pads": {
         "05c280d3-0df4-4af8-af46-e44792f56f98": {

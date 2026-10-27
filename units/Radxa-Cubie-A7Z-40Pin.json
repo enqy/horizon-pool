@@ -1,0 +1,777 @@
+{
+    "manufacturer": "Radxa",
+    "name": "Radxa Cubie A7Z HAT female socket",
+    "pins": {
+        "024a209a-8621-4dda-84ac-39cd60ba2d73": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "0260c62b-4563-4622-8688-f3e0d7267769": {
+            "alt_names": {
+                "4ee23dd6-bd6a-42da-91a5-423ceb92c3f1": {
+                    "direction": "bidirectional",
+                    "name": "JTAG_DO"
+                },
+                "4fa44676-627c-4510-8fa1-b33af4650d01": {
+                    "direction": "output",
+                    "name": "UART2_RTS"
+                },
+                "8f91fa87-6367-43b1-a516-5057018f3d25": {
+                    "direction": "bidirectional",
+                    "name": "SPI2_MOSI"
+                },
+                "9e122b8e-928e-4120-a317-731dd450f8fd": {
+                    "direction": "bidirectional",
+                    "name": "TWI0_SCK"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB2",
+            "swap_group": 0
+        },
+        "0475e4c8-85ca-439b-af7b-ad0260b93239": {
+            "alt_names": {
+                "028d2616-6d53-41a9-9383-db8fc6b13044": {
+                    "direction": "input",
+                    "name": "I2S0_DIN2"
+                },
+                "0f7d8403-7bf9-4d4c-b18a-89110e394812": {
+                    "direction": "output",
+                    "name": "PWM1_1"
+                },
+                "33e4e66a-a822-4d77-8d54-d8706a786f58": {
+                    "direction": "bidirectional",
+                    "name": "TWI0_SCK"
+                },
+                "454f7b84-5710-4027-81f0-d24dd62a6290": {
+                    "direction": "output",
+                    "name": "I2S0_DOUT2"
+                },
+                "a1bb97f8-3d72-4d00-9348-a990214e1714": {
+                    "direction": "output",
+                    "name": "UART0_TX"
+                },
+                "c29cab0e-4a78-4096-80b9-b1489aeaea6e": {
+                    "direction": "bidirectional",
+                    "name": "TWI8_SCK"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB9/UART0_TX",
+            "swap_group": 0
+        },
+        "0b5525bd-6021-47d4-ae06-9f5ef704fd4e": {
+            "alt_names": {
+                "15fe9197-0de5-4f02-9d24-0299d6799ee6": {
+                    "direction": "bidirectional",
+                    "name": "JTAG_MS"
+                },
+                "310750b4-7a54-47f2-9ce0-e58c6e986b63": {
+                    "direction": "output",
+                    "name": "UART0_TX"
+                },
+                "a84ce4ad-9265-4cc7-ab89-d0da21e8dac0": {
+                    "direction": "output",
+                    "name": "UART2_TX"
+                },
+                "b0442946-6509-4471-b383-5f0bc3427044": {
+                    "direction": "bidirectional",
+                    "name": "SPI2_CS0"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB0/UART2_TX",
+            "swap_group": 0
+        },
+        "0f9fc985-a2ed-4d9c-a0bd-996cd781e067": {
+            "alt_names": {
+                "07ead801-fb1c-4a82-b693-1f7594715788": {
+                    "direction": "input",
+                    "name": "S_IR_RX"
+                },
+                "0f63f603-1b58-48dd-b8d2-0abe60f9d10f": {
+                    "direction": "bidirectional",
+                    "name": "S_TWI2_SCK"
+                },
+                "110a859c-c317-4857-a59b-f8d7318d39fb": {
+                    "direction": "output",
+                    "name": "S_UART0_TX"
+                },
+                "165d5249-1b06-439a-89e7-a87a470b2d35": {
+                    "direction": "output",
+                    "name": "S_UART1_TX"
+                },
+                "6e9f2c78-4144-46fd-87d8-84dab48e3578": {
+                    "direction": "output",
+                    "name": "S_PWM0_0"
+                },
+                "85960b26-6eaf-42e8-b206-16994df906f1": {
+                    "direction": "bidirectional",
+                    "name": "S_TWI1_SCK"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PM4",
+            "swap_group": 0
+        },
+        "1000bc68-3b37-4829-bbe6-0a47115e295e": {
+            "alt_names": {
+                "079b0ae0-2538-4dad-ba69-d905d8b236c2": {
+                    "direction": "bidirectional",
+                    "name": "TWI7_SDA"
+                },
+                "2dc0e9b4-3abe-406e-b98c-aaeb418c80b9": {
+                    "direction": "bidirectional",
+                    "name": "TWI11_SDA"
+                },
+                "5c3aea74-b552-4e07-9522-b1312ee022ec": {
+                    "direction": "bidirectional",
+                    "name": "TWI3_SDA"
+                },
+                "8b9cb38f-8527-4c15-b130-38d4d237cb1b": {
+                    "direction": "input",
+                    "name": "UART2_CTS"
+                },
+                "9d691287-e21f-477e-9b09-ec8e6c60512b": {
+                    "direction": "output",
+                    "name": "PWM1_5"
+                },
+                "b0b6148d-5f4f-4add-a2ce-2cf6a5961e28": {
+                    "direction": "input",
+                    "name": "UART3_RX"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PJ23/TWI7_SDA",
+            "swap_group": 0
+        },
+        "1eb3b809-8e2c-48a6-a7f3-63713ad105b8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "21e7c424-9142-4732-9bc9-3e37781a3f07": {
+            "alt_names": {
+                "840447a0-ebaa-4b90-892e-27a8423befb6": {
+                    "direction": "bidirectional",
+                    "name": "TWI2_SCK"
+                },
+                "d8cd7c9f-ece2-4d70-a5fa-5f5bd25afbcf": {
+                    "direction": "output",
+                    "name": "UART3_TX"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD16/TWI2_SCK",
+            "swap_group": 0
+        },
+        "22644f1a-1907-4a16-ae54-7c7f9fc62137": {
+            "alt_names": {
+                "4e0964a9-76a4-4908-a2eb-621fd0b84962": {
+                    "direction": "output",
+                    "name": "S_PWM0_3"
+                },
+                "640cd952-9234-450b-a766-05c3644af472": {
+                    "direction": "bidirectional",
+                    "name": "S_TWI2_SDA"
+                },
+                "7e70e6b3-1456-4019-be91-84dc14e1d95d": {
+                    "direction": "bidirectional",
+                    "name": "S_SPI0_CLK"
+                },
+                "9d4c5349-29c6-41dc-8ab5-ff656df97d53": {
+                    "direction": "bidirectional",
+                    "name": "S_JTAG_CK"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PL5",
+            "swap_group": 0
+        },
+        "29a4b12f-d083-429e-bf52-a5025eec0ae1": {
+            "alt_names": {
+                "10a025dd-526e-4226-8ecc-da8887debf18": {
+                    "direction": "input",
+                    "name": "UART2_RX"
+                },
+                "2c6ce5cc-a21f-430e-bdc0-ab95349f44c8": {
+                    "direction": "bidirectional",
+                    "name": "SPI2_CLK"
+                },
+                "9a3425ae-3e79-47d0-8e73-a852fbffda12": {
+                    "direction": "bidirectional",
+                    "name": "JTAG_CK"
+                },
+                "a5284bd4-fda4-4f5d-8665-656e76a056cf": {
+                    "direction": "input",
+                    "name": "UART0_RX"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB1/UART2_RX",
+            "swap_group": 0
+        },
+        "30ae5e75-904b-4cdb-ae30-d12d4c4f7f3a": {
+            "alt_names": {
+                "b8459cfb-0943-4443-91ed-f93710c4541d": {
+                    "direction": "bidirectional",
+                    "name": "SPI1_CLK"
+                },
+                "b9983ac2-a95a-45d5-9ecb-82d05a30c140": {
+                    "direction": "output",
+                    "name": "PWM1_1"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD11/SPI1_CLK",
+            "swap_group": 0
+        },
+        "383349ab-a882-4171-9308-906d74ed2839": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "5V",
+            "swap_group": 0
+        },
+        "3d425a59-e196-4df4-914d-a631ccd67224": {
+            "alt_names": {
+                "d5c43d3b-9cfd-4cdd-bec0-4d4b73caf1ee": {
+                    "direction": "bidirectional",
+                    "name": "TWI2_SDA"
+                },
+                "eb8aab41-e1e1-41b7-81ac-c0db06479d75": {
+                    "direction": "input",
+                    "name": "UART3_RX"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD17/TWI2_SDA",
+            "swap_group": 0
+        },
+        "3e47ae13-2cdc-4d73-b57f-cdad4ae651bf": {
+            "alt_names": {
+                "443d2398-d02c-4cdf-af8c-1c9339e09352": {
+                    "direction": "input",
+                    "name": "UART2_CTS"
+                },
+                "7ea44ce4-a58b-4432-99c3-783094779657": {
+                    "direction": "bidirectional",
+                    "name": "TWI0_SDA"
+                },
+                "8f755f93-710f-410a-9fe7-c94d52c180e7": {
+                    "direction": "bidirectional",
+                    "name": "SPI2_MISO"
+                },
+                "d3f776b5-5033-4ec9-9026-5fa2eba39ec8": {
+                    "direction": "bidirectional",
+                    "name": "JTAG_DI"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB3",
+            "swap_group": 0
+        },
+        "5da4254e-14de-4384-86c6-1eefa9a05aad": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "6902bfb0-3282-4596-b340-913e5d89c359": {
+            "alt_names": {
+                "43cf53dd-e8e4-4e85-b390-9d8917230600": {
+                    "direction": "bidirectional",
+                    "name": "TWI4_SCK"
+                },
+                "6042ce81-421b-4eac-aadd-16957229b048": {
+                    "direction": "output",
+                    "name": "PWM1_6"
+                },
+                "78893344-2326-4eb8-a050-580e31252668": {
+                    "direction": "bidirectional",
+                    "name": "SPI3_CLK"
+                },
+                "9bf84a4e-16a9-4719-96a8-438310862a1f": {
+                    "direction": "output",
+                    "name": "UART4_TX"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PJ24",
+            "swap_group": 0
+        },
+        "691d92fd-97c1-4df3-beeb-e6c483b5126f": {
+            "alt_names": {
+                "5bb29632-f9ff-478f-8df5-1ce3f2ab15aa": {
+                    "direction": "bidirectional",
+                    "name": "TWI11_SCK"
+                },
+                "7b3517c2-be77-4c23-9ffa-8f91980de276": {
+                    "direction": "output",
+                    "name": "UART3_TX"
+                },
+                "8186cc05-1182-4f85-9f59-b5c8d18ae5ec": {
+                    "direction": "bidirectional",
+                    "name": "TWI3_SCK"
+                },
+                "b3cc4e28-1f06-4325-83a6-d55630962969": {
+                    "direction": "bidirectional",
+                    "name": "TWI7_SCK"
+                },
+                "bcdf937c-9a37-4a9a-916d-f6dc907946a7": {
+                    "direction": "output",
+                    "name": "PWM1_4"
+                },
+                "bf0b3ecc-b9b8-4d26-8fce-5e54569c3f77": {
+                    "direction": "output",
+                    "name": "UART2_RTS"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PJ22/TWI7_SCK",
+            "swap_group": 0
+        },
+        "6940aedd-6856-489d-bdf0-f2ec45ee853d": {
+            "alt_names": {
+                "3dd5a7e2-51fd-4b82-aea5-cacf8a71bc2b": {
+                    "direction": "input",
+                    "name": "S_UART1_RX"
+                },
+                "3ecbf6a0-6d0c-4c58-9f29-016cc84d1bf1": {
+                    "direction": "input",
+                    "name": "S_UART0_RX"
+                },
+                "62e6b1ef-d880-4eaa-80e8-41102dc7b3f2": {
+                    "direction": "bidirectional",
+                    "name": "S_JTAG_DI"
+                },
+                "97dd462a-f3a9-42b2-a7c7-20a94a4d4199": {
+                    "direction": "bidirectional",
+                    "name": "S_SPI0_MISO"
+                },
+                "d5cb7ec6-6b2b-494f-8606-92a4624cf49a": {
+                    "direction": "output",
+                    "name": "S_PWM0_5"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PM3",
+            "swap_group": 0
+        },
+        "70883bb5-cf8e-4ee5-9348-8167ef2ae237": {
+            "alt_names": {
+                "4f143515-78a7-4924-b27d-e364489c39c4": {
+                    "direction": "output",
+                    "name": "CLK_FANOUT1"
+                },
+                "708d998e-6698-474b-af25-6c3867437e42": {
+                    "direction": "output",
+                    "name": "PWM0_2"
+                },
+                "7ebee9e9-de02-42da-8b51-7be1c8326e33": {
+                    "direction": "output",
+                    "name": "PWM0_8"
+                },
+                "9462cf52-f21f-4f44-bc62-010dff0e5849": {
+                    "direction": "bidirectional",
+                    "name": "I2S0_LRCK"
+                },
+                "e7b6e188-ad61-437d-93bd-dd53fe12ef32": {
+                    "direction": "bidirectional",
+                    "name": "SPI2_CS3"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB6/I2S0_LRCK",
+            "swap_group": 0
+        },
+        "73fc2cda-d51b-4656-91fd-d4f697e61df1": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "3V3",
+            "swap_group": 0
+        },
+        "7e7bcb50-4f02-42bd-a984-8ada934d08e4": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "3V3",
+            "swap_group": 0
+        },
+        "87c1a2a4-de1a-4d52-ba3f-2c0e53efebf8": {
+            "alt_names": {
+                "17bf4d5a-ad1b-4c2f-ab69-28711a1b8569": {
+                    "direction": "input",
+                    "name": "I2S0_DIN1"
+                },
+                "36102568-f362-4990-a6ee-9c12c8dde3b2": {
+                    "direction": "output",
+                    "name": "I2S0_DOUT0"
+                },
+                "5f2db4d4-bee8-4013-9e5b-f03c1bdda176": {
+                    "direction": "input",
+                    "name": "OWA0_IN"
+                },
+                "92a9204a-3cf3-4059-b743-09c44f1fbdae": {
+                    "direction": "output",
+                    "name": "PWM0_9"
+                },
+                "ba9ffdb4-7b0e-4e04-9e99-fee5ae4adb57": {
+                    "direction": "output",
+                    "name": "CLK_FANOUT2"
+                },
+                "cbcdeae1-9bfb-4b4a-bf2c-7269cd1cfab8": {
+                    "direction": "bidirectional",
+                    "name": "TWI1_SCK"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB7/I2S0_DOUT0",
+            "swap_group": 0
+        },
+        "8f375f2a-4a33-4c09-9a22-6b2b58674f89": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "97f9e660-8b1e-4e11-b535-ef17a893381c": {
+            "alt_names": {
+                "57ff184c-601e-4189-8ef8-39fda109cc0c": {
+                    "direction": "output",
+                    "name": "PWM1_0"
+                },
+                "7ee26a7e-f11f-4cf9-85db-96086564b9f7": {
+                    "direction": "bidirectional",
+                    "name": "SPI1_CS0"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD10/SPI1_CS0",
+            "swap_group": 0
+        },
+        "a279ab6e-3e6e-4e73-a662-ac14f5e5020f": {
+            "alt_names": {
+                "472ea4eb-a7e1-43bd-b62e-f1c860ea989e": {
+                    "direction": "bidirectional",
+                    "name": "I2S0_BCLK"
+                },
+                "6313b526-8756-441f-98e4-d5354a0d8a1d": {
+                    "direction": "bidirectional",
+                    "name": "TWI1_SDA"
+                },
+                "682f306d-b0cd-440d-a789-1397c4c8736e": {
+                    "direction": "output",
+                    "name": "PWM0_1"
+                },
+                "dca3f2a7-3fc1-46f4-b70c-197b422b4b27": {
+                    "direction": "bidirectional",
+                    "name": "SPI2_CS2"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB5/I2S0_BCLK",
+            "swap_group": 0
+        },
+        "a7143de9-7c34-45c9-a0fa-b68bdd2abba0": {
+            "alt_names": {
+                "05833328-104b-44de-9836-5afd51443b6e": {
+                    "direction": "output",
+                    "name": "PWM1_7"
+                },
+                "0e38dae0-0470-4c97-9617-695b73920c3b": {
+                    "direction": "bidirectional",
+                    "name": "TWI4_SDA"
+                },
+                "4e4c6e75-7eff-4d68-9be5-f83d85574749": {
+                    "direction": "bidirectional",
+                    "name": "SPI3_MOSI"
+                },
+                "7eb787ee-53c5-4eff-a2c6-c35b8ae03618": {
+                    "direction": "input",
+                    "name": "UART4_RX"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PJ25",
+            "swap_group": 0
+        },
+        "abb36335-23ab-493f-ac49-aa2767bffdc3": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "afa4d7df-ceb4-41d2-8b75-872976a7bace": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "5V",
+            "swap_group": 0
+        },
+        "b4cc950f-9a85-4344-8736-05e0412d5ca6": {
+            "alt_names": {
+                "1fb21268-39bf-460d-885f-2232229887f2": {
+                    "direction": "bidirectional",
+                    "name": "S_TWI2_SDA"
+                },
+                "5a61cc5d-5c05-481d-b6d2-3722a0baf5c4": {
+                    "direction": "input",
+                    "name": "S_IR_RX"
+                },
+                "7c28ad1a-68f4-4339-9bc6-97478fad20af": {
+                    "direction": "input",
+                    "name": "S_UART1_RX"
+                },
+                "8853c2a3-d886-4973-b07f-7da24208f933": {
+                    "direction": "output",
+                    "name": "S_PWM0_1"
+                },
+                "cf716629-2749-42cc-aa21-9577632affdf": {
+                    "direction": "input",
+                    "name": "S_UART0_RX"
+                },
+                "e585f93e-ac8f-4e98-9887-3504339d858e": {
+                    "direction": "bidirectional",
+                    "name": "S_TWI1_SDA"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PM5",
+            "swap_group": 0
+        },
+        "b5b395be-a1e3-438b-911e-55638d0402b0": {
+            "alt_names": {
+                "290b8a65-08a7-4774-b96d-70ed740c0a63": {
+                    "direction": "bidirectional",
+                    "name": "S_JTAG_DI"
+                },
+                "2b254d75-895e-4de3-865d-4d1fd9eeef85": {
+                    "direction": "bidirectional",
+                    "name": "S_SPI0_MISO"
+                },
+                "504fb8fe-9d72-46d3-8cd1-90ca4d442649": {
+                    "direction": "input",
+                    "name": "S_UART0_RX"
+                },
+                "58c55b34-3a49-4af9-aaad-15da6f002d51": {
+                    "direction": "output",
+                    "name": "S_PWM0_5"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PL7",
+            "swap_group": 0
+        },
+        "bd6a7bcc-5b84-4b20-acf1-785bc6bb7dad": {
+            "alt_names": {
+                "1de34e4f-9d12-491a-8531-564063718d22": {
+                    "direction": "output",
+                    "name": "CLK_FANOUT3"
+                },
+                "2c9bf234-d689-43c9-adb1-f6bb24fbd2c7": {
+                    "direction": "output",
+                    "name": "OWA0_OUT"
+                },
+                "6a1f05d3-4504-4a8b-a1eb-f6608fe78b82": {
+                    "direction": "output",
+                    "name": "PWM1_0"
+                },
+                "6a2d6aad-ee17-407f-a34a-4d1a084c5956": {
+                    "direction": "input",
+                    "name": "I2S0_DIN0"
+                },
+                "7d422b2c-0b3f-4697-bd70-5ab1c931a8c8": {
+                    "direction": "bidirectional",
+                    "name": "TWI1_SDA"
+                },
+                "9dbd7d7d-f603-4956-b8df-dfbe4d503bba": {
+                    "direction": "output",
+                    "name": "I2S0_DOUT1"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB8/I2S0_DIN0",
+            "swap_group": 0
+        },
+        "c3161591-4ccd-474b-9e0c-688f82400975": {
+            "alt_names": {
+                "36fe272a-fad8-4346-8e0c-70a31dbc1e45": {
+                    "direction": "bidirectional",
+                    "name": "S_JTAG_DO"
+                },
+                "4642fc8f-9ef2-4e29-af05-70a45a41cf40": {
+                    "direction": "input",
+                    "name": "S_IR_RX"
+                },
+                "49ba045b-2364-422d-884e-21d6265bdf70": {
+                    "direction": "output",
+                    "name": "S_UART0_TX"
+                },
+                "aca83681-4bd5-4750-804d-beda398d1f7e": {
+                    "direction": "output",
+                    "name": "S_PWM0_4"
+                },
+                "b811f117-1c2a-4be8-87c8-0420ef46d23f": {
+                    "direction": "bidirectional",
+                    "name": "S_SPI0_MOSI"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PL6",
+            "swap_group": 0
+        },
+        "c49a8cc4-a3df-485f-8f41-aa5257bbf64e": {
+            "alt_names": {
+                "382397cf-87b3-4a22-b535-c5b443b326f5": {
+                    "direction": "bidirectional",
+                    "name": "SPI1_MOSI"
+                },
+                "53b3b515-f7a1-410e-a2ae-bfd8c923a03b": {
+                    "direction": "output",
+                    "name": "PWM1_2"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD12/SPI1_MOSI",
+            "swap_group": 0
+        },
+        "c99f6dd0-44aa-4aac-b879-e435035a259c": {
+            "alt_names": {
+                "0e992e60-d653-4bd6-9a63-5aeb6e07d933": {
+                    "direction": "bidirectional",
+                    "name": "I2S0_MCLK"
+                },
+                "33ad3c84-7b9c-418e-b16f-3aec67ab95a0": {
+                    "direction": "output",
+                    "name": "PWM0_0"
+                },
+                "448e8b36-646b-43f1-8ee9-78781cdd1e09": {
+                    "direction": "bidirectional",
+                    "name": "HDMI_CEC"
+                },
+                "471135f8-81c5-4df8-b46e-e59810db4ee9": {
+                    "direction": "bidirectional",
+                    "name": "TWI1_SCK"
+                },
+                "7034301f-843f-472d-9a0e-88e6cf045051": {
+                    "direction": "bidirectional",
+                    "name": "SPI2_CS1"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB4/I2S0_MCLK",
+            "swap_group": 0
+        },
+        "cd175342-2178-4f75-8e5e-2127f4ec0aa3": {
+            "alt_names": {
+                "13c52bfe-5ef6-495d-8bcd-46c3585a8670": {
+                    "direction": "bidirectional",
+                    "name": "SPI1_MISO"
+                },
+                "ba20b671-2e4f-4d18-b8a8-545d1c9e3bfd": {
+                    "direction": "output",
+                    "name": "PWM1_3"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD13/SPI1_MISO",
+            "swap_group": 0
+        },
+        "cea08266-2a56-4c78-8a00-249e826d0df1": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "d469fae6-92cf-48a9-976b-9641741d68ee": {
+            "alt_names": {
+                "17f17161-d08d-4a34-b215-dc06379de0dc": {
+                    "direction": "output",
+                    "name": "UART3_RTS"
+                },
+                "b318a83b-2f71-4e9d-95cc-06823d9a8718": {
+                    "direction": "bidirectional",
+                    "name": "SPI1_HOLD"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD14",
+            "swap_group": 0
+        },
+        "e86351c3-4de7-4734-b013-e5d3684759d5": {
+            "alt_names": {
+                "100e810b-30a8-4bdf-ba07-b371d313c942": {
+                    "direction": "output",
+                    "name": "I2S0_DOUT3"
+                },
+                "71ecddb5-bc98-4d2e-86f4-d7d2766602c2": {
+                    "direction": "output",
+                    "name": "PWM1_2"
+                },
+                "b895beb4-4243-4903-bbb3-ee8bf8ad9f80": {
+                    "direction": "input",
+                    "name": "I2S0_DIN3"
+                },
+                "c6e8e1fe-5c09-4274-9a7f-7629e5290f08": {
+                    "direction": "bidirectional",
+                    "name": "TWI0_SDA"
+                },
+                "d1a5a3ad-cb6f-4ab0-9ce2-073acc38a475": {
+                    "direction": "input",
+                    "name": "UART0_RX"
+                },
+                "ed075691-1e58-4d5d-8a2e-c7e96670e01b": {
+                    "direction": "bidirectional",
+                    "name": "TWI8_SDA"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB10/UART0_RX",
+            "swap_group": 0
+        },
+        "f855bb42-131d-40f6-a288-14b4b7136ff6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "fe23d811-dd8a-411c-89b8-4ddf10b5a240": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "dd5458b9-d582-46d9-abb7-e2b6525c7396",
+    "version": 1
+}

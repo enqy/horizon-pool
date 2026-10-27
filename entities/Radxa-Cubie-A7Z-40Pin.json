@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "f9b8e138-5bd2-4ee6-a91b-bb60d197a5a5": {
+            "name": "GPIO header",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "dd5458b9-d582-46d9-abb7-e2b6525c7396"
+        }
+    },
+    "manufacturer": "Radxa",
+    "name": "Radxa Cubie A7Z HAT female socket (40-pin)",
+    "prefix": "J",
+    "tags": [
+        "sbc",
+        "gpio",
+        "module"
+    ],
+    "type": "entity",
+    "uuid": "b68cb8a4-b0e8-405e-a4ad-9ff7f8df89b2"
+}

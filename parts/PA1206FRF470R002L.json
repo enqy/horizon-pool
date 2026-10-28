@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "PA1206FRF470R002L"
+    ],
+    "datasheet": [
+        false,
+        "https://www.yageogroup.com/content/datasheet/asset/file/PYU-PA1206_L_51_ROHS"
+    ],
+    "description": [
+        false,
+        "2 mOhm \u00b11%, 1 W metal-strip current-sense shunt resistor, \u00b1100 ppm/\u00b0C; two-terminal PA1206 (3216 metric)."
+    ],
+    "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "YAGEO"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "a33a5ebc-d85b-4e08-9d74-154ea1229776": "C326608"
+    },
+    "package": "670a467e-ad3f-4395-be1d-33d0b1a279bc",
+    "pad_map": {
+        "c4d847db-a154-4e66-9bdc-32a057c2a387": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "f8475d55-42d5-44da-92f8-893afc44ec86": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "resistor",
+        "current-sense",
+        "shunt",
+        "1206"
+    ],
+    "type": "part",
+    "uuid": "99d99acc-f0e4-433d-b464-4223db5d1127",
+    "value": [
+        false,
+        "2m"
+    ]
+}

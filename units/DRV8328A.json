@@ -1,0 +1,182 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "DRV8328A",
+    "pins": {
+        "01dd4f96-efee-4270-aafb-eb7368522d10": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PVDD",
+            "swap_group": 0
+        },
+        "03c4591e-f3db-4915-b59d-8a0261e29325": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "nFAULT",
+            "swap_group": 0
+        },
+        "04578b6f-5871-4d69-9c86-2c0735aff608": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SHC",
+            "swap_group": 0
+        },
+        "05ffaf97-00cb-4d1c-8557-44620779ffc1": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "BSTA",
+            "swap_group": 0
+        },
+        "0dd2426b-2f86-49ab-af47-0647f1c70a04": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "GHA",
+            "swap_group": 0
+        },
+        "13b5548e-9add-4cf8-b2b0-e70459809130": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INHA",
+            "swap_group": 0
+        },
+        "2be1161f-4b97-407e-a2f1-0058b6f0bdbf": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "GLA",
+            "swap_group": 0
+        },
+        "2d65de12-a143-4e6b-9717-b0ab36e2fbdf": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "GHB",
+            "swap_group": 0
+        },
+        "2d7f3926-e013-4f9f-bb7f-491422943c16": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "BSTC",
+            "swap_group": 0
+        },
+        "3500f556-5759-4e73-b5e3-67398845641a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "LSS",
+            "swap_group": 0
+        },
+        "449dbfa1-5875-4f06-84a9-1ac478be5082": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "BSTB",
+            "swap_group": 0
+        },
+        "479d1074-f340-4d4b-a3b2-ea2213762046": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INLA",
+            "swap_group": 0
+        },
+        "49e3ca36-b988-4455-890c-28d5dfd66051": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SHB",
+            "swap_group": 0
+        },
+        "4e9a5aff-717c-4625-9e6c-be9fe918eefa": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "GHC",
+            "swap_group": 0
+        },
+        "55787840-96e2-46cc-8501-795e585d4507": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DT",
+            "swap_group": 0
+        },
+        "5b3dbd07-fa33-40e0-a755-a875a28cee3f": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "GLC",
+            "swap_group": 0
+        },
+        "71d0663b-fbd1-4d65-9271-c194c35ee537": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "GLB",
+            "swap_group": 0
+        },
+        "831e68c1-11a5-4f45-8213-fdcf1c6d3f59": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "CPH",
+            "swap_group": 0
+        },
+        "855e05eb-24aa-4554-94d1-6897ba8022f3": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VDSLVL",
+            "swap_group": 0
+        },
+        "9ffeaa5b-c2c3-43cc-8576-9451729a67c9": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "GVDD",
+            "swap_group": 0
+        },
+        "a960db9d-3a33-4ccc-ad45-3088fc29b8ad": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "EP_GND",
+            "swap_group": 0
+        },
+        "b0a115ad-4c88-4b45-9349-783ad5bbb28a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INLB",
+            "swap_group": 0
+        },
+        "bb1c106e-8b65-4a10-95a7-67be2077ad7b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "nSLEEP",
+            "swap_group": 0
+        },
+        "bc0a7ec2-36b7-42e5-96d2-0125bb5d2a50": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INHC",
+            "swap_group": 0
+        },
+        "c0dfb91f-d6de-4f18-b87e-9b318198778c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INLC",
+            "swap_group": 0
+        },
+        "c72fea85-ecd3-4333-9966-09cc9b06fd5a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "CPL",
+            "swap_group": 0
+        },
+        "cbf347e4-85a6-4600-8e28-c0bdaf695ea8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INHB",
+            "swap_group": 0
+        },
+        "d8d810d1-559f-46e6-b772-5190bfe5c5ea": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "e8ceea34-664f-4457-a334-2499845b0f68": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SHA",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "eaca97f8-7d6d-4ba8-b958-94eb9d9e1774"
+}

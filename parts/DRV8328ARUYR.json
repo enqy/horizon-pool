@@ -1,0 +1,157 @@
+{
+    "MPN": [
+        false,
+        "DRV8328ARUYR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/drv8328.pdf"
+    ],
+    "description": [
+        false,
+        "4.5\u201360 V three-phase BLDC external MOSFET gate driver; 6x PWM interface, 1 A source / 2 A sink peak gate drive, programmable deadtime and VDS overcurrent threshold; WQFN-28 RUY 4x4 mm, exposed pad 29 to GND. nFAULT is open-drain and requires an external pull-up."
+    ],
+    "entity": "342bdf1d-4339-4a73-bf73-ae4acf1639f5",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "b4998aa5-f3ef-494f-80fe-d3d97ca50421": "C3681415"
+    },
+    "package": "e5ad6696-f6af-4aa8-8a82-54b6d6bc0b66",
+    "pad_map": {
+        "031f635e-9b3c-450d-ad61-0246f56f96fe": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "479d1074-f340-4d4b-a3b2-ea2213762046"
+        },
+        "1b066f03-e53f-40bc-9e5d-e1401bf69592": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "d8d810d1-559f-46e6-b772-5190bfe5c5ea"
+        },
+        "32be3db2-5948-424e-8e2f-fc47d9bdc621": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "cbf347e4-85a6-4600-8e28-c0bdaf695ea8"
+        },
+        "406ca2b1-f71e-4a96-b850-e29800d74738": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "0dd2426b-2f86-49ab-af47-0647f1c70a04"
+        },
+        "41728fa4-1d2c-4307-afec-1805bae22651": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "bc0a7ec2-36b7-42e5-96d2-0125bb5d2a50"
+        },
+        "41f47f5e-54c8-4e27-802e-10d413f0187c": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "04578b6f-5871-4d69-9c86-2c0735aff608"
+        },
+        "468904c2-a4a8-4cfc-8b91-d531ea8a85fe": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "2be1161f-4b97-407e-a2f1-0058b6f0bdbf"
+        },
+        "4c454859-948b-49ea-a36b-e800cc07dd6b": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "2d7f3926-e013-4f9f-bb7f-491422943c16"
+        },
+        "50c1e468-cc68-42e3-84a8-0011a2359766": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "03c4591e-f3db-4915-b59d-8a0261e29325"
+        },
+        "528008f1-7a47-4030-b010-365b67646480": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "55787840-96e2-46cc-8501-795e585d4507"
+        },
+        "53550d7b-4bbb-4e5e-8027-2f68acff2de6": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "e8ceea34-664f-4457-a334-2499845b0f68"
+        },
+        "610619d8-ee0c-4cbb-b65f-bc5fefd9c23f": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "9ffeaa5b-c2c3-43cc-8576-9451729a67c9"
+        },
+        "63451ed2-a24b-4e48-a29e-226ff57d32d4": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "2d65de12-a143-4e6b-9717-b0ab36e2fbdf"
+        },
+        "81b537d9-ac4a-4bbf-9708-0736fbcbce54": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "b0a115ad-4c88-4b45-9349-783ad5bbb28a"
+        },
+        "9928e931-dca4-472b-8b0a-450ea58dff40": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "71d0663b-fbd1-4d65-9271-c194c35ee537"
+        },
+        "9b7e14b5-f742-4a21-895a-aa8318a75b53": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "831e68c1-11a5-4f45-8213-fdcf1c6d3f59"
+        },
+        "af8b31c7-2435-4336-99d5-d9e1c29cf2f4": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "a960db9d-3a33-4ccc-ad45-3088fc29b8ad"
+        },
+        "afa9e7dd-17a3-4ac1-a30a-e22d8a6ed0f6": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "4e9a5aff-717c-4625-9e6c-be9fe918eefa"
+        },
+        "b1604a22-7817-4397-905d-c117c411036a": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "c0dfb91f-d6de-4f18-b87e-9b318198778c"
+        },
+        "b1b27dd6-320d-4477-a77f-c4d5fedba59e": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "5b3dbd07-fa33-40e0-a755-a875a28cee3f"
+        },
+        "bf6d18e1-e4de-481d-bb6f-c6575ab07cc4": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "855e05eb-24aa-4554-94d1-6897ba8022f3"
+        },
+        "c0affe11-c507-40f8-938b-056d169dfeaa": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "01dd4f96-efee-4270-aafb-eb7368522d10"
+        },
+        "c3b639b6-e864-4ead-9c04-fd72ddc843fc": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "3500f556-5759-4e73-b5e3-67398845641a"
+        },
+        "c9aa944f-bb1e-41e0-9f7d-2f2cfaa8af0a": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "449dbfa1-5875-4f06-84a9-1ac478be5082"
+        },
+        "cd1544f2-7250-49a2-8414-ba9a36e36b0c": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "c72fea85-ecd3-4333-9966-09cc9b06fd5a"
+        },
+        "e28643dd-7273-4a59-b4bf-95d9f0743b8e": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "13b5548e-9add-4cf8-b2b0-e70459809130"
+        },
+        "f08de3d0-6a9e-4508-9811-86ca69382d94": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "49e3ca36-b988-4455-890c-28d5dfd66051"
+        },
+        "f12953eb-5a54-4299-8754-4406cd67a3a4": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "05ffaf97-00cb-4d1c-8557-44620779ffc1"
+        },
+        "fbd0a490-db14-46cf-a2ac-99fe3fe89f7e": {
+            "gate": "e18155a4-1cfa-4aff-b1df-baf658938613",
+            "pin": "bb1c106e-8b65-4a10-95a7-67be2077ad7b"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "motor-driver",
+        "gate-driver",
+        "bldc"
+    ],
+    "type": "part",
+    "uuid": "788d5cd7-db34-4296-bc20-978a003a818e",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "e18155a4-1cfa-4aff-b1df-baf658938613": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "eaca97f8-7d6d-4ba8-b958-94eb9d9e1774"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "DRV8328A",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "motor-driver",
+        "gate-driver",
+        "bldc"
+    ],
+    "type": "entity",
+    "uuid": "342bdf1d-4339-4a73-bf73-ae4acf1639f5"
+}

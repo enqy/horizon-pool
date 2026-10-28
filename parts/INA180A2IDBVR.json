@@ -1,0 +1,59 @@
+{
+    "MPN": [
+        false,
+        "INA180A2IDBVR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/ina180.pdf"
+    ],
+    "description": [
+        false,
+        "Single-channel 50 V/V voltage-output current-sense amplifier; -0.2 to 26 V input common-mode range, 2.7\u20135.5 V supply; pinout A, SOT-23-5 DBV."
+    ],
+    "entity": "815a610b-b1fa-4705-a484-35b3194ae015",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "3cb7e19d-6f6d-45c2-b804-8033970e93bd": "C192764"
+    },
+    "package": "be74e5b4-955a-4872-a3f1-902bc164e637",
+    "pad_map": {
+        "05ff8852-4e89-4949-b700-4cbe04a6effc": {
+            "gate": "9e052883-6a7f-4c34-a6a8-69e7ec72ba9f",
+            "pin": "83e31486-9b50-4b35-9b9f-8df60a7f6889"
+        },
+        "7dfcfc72-bdb3-4629-bad2-817be2090a24": {
+            "gate": "9e052883-6a7f-4c34-a6a8-69e7ec72ba9f",
+            "pin": "78981db0-03d4-45b3-91f7-2416a57214e2"
+        },
+        "9cd7e191-9d66-4aaf-93e9-333d50989677": {
+            "gate": "9e052883-6a7f-4c34-a6a8-69e7ec72ba9f",
+            "pin": "c5190d5d-3270-4559-8ef8-56c19b26d076"
+        },
+        "cd44733a-5035-432d-8ef8-e2bd0ed52539": {
+            "gate": "9e052883-6a7f-4c34-a6a8-69e7ec72ba9f",
+            "pin": "e25b4e88-a85d-4beb-bdb5-cf228132d6df"
+        },
+        "e45ec94c-f0ca-4d10-a9a5-cdc81cb99ebe": {
+            "gate": "9e052883-6a7f-4c34-a6a8-69e7ec72ba9f",
+            "pin": "fab23b64-6e3a-400d-9b50-c4e00fea487b"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "current-sense-amplifier"
+    ],
+    "type": "part",
+    "uuid": "42a7c392-a619-4b9a-9590-4d5ec499311b",
+    "value": [
+        false,
+        ""
+    ]
+}

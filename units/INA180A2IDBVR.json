@@ -1,0 +1,38 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "INA180A2",
+    "pins": {
+        "78981db0-03d4-45b3-91f7-2416a57214e2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "83e31486-9b50-4b35-9b9f-8df60a7f6889": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN-",
+            "swap_group": 0
+        },
+        "c5190d5d-3270-4559-8ef8-56c19b26d076": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN+",
+            "swap_group": 0
+        },
+        "e25b4e88-a85d-4beb-bdb5-cf228132d6df": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VS",
+            "swap_group": 0
+        },
+        "fab23b64-6e3a-400d-9b50-c4e00fea487b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUT",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "571e002d-3295-4022-9f45-261788233a14"
+}

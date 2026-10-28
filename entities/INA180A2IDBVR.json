@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "9e052883-6a7f-4c34-a6a8-69e7ec72ba9f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "571e002d-3295-4022-9f45-261788233a14"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "INA180A2",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "current-sense-amplifier"
+    ],
+    "type": "entity",
+    "uuid": "815a610b-b1fa-4705-a484-35b3194ae015"
+}

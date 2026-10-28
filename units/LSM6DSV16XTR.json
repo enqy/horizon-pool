@@ -1,0 +1,181 @@
+{
+    "manufacturer": "STMicroelectronics",
+    "name": "LSM6DSV16XTR",
+    "pins": {
+        "22dba308-0130-4e40-97b5-70bb13ac4bc1": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "OCS_Aux",
+            "swap_group": 0
+        },
+        "26b42b21-bae7-4425-afd9-05c046c39b1c": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SDO_Aux",
+            "swap_group": 0
+        },
+        "35005e5d-61da-4370-9e68-74fddc6b6e0a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "3e014733-2b46-4bbe-8540-ef6c5f074fe3": {
+            "alt_names": {
+                "3e9aefec-f404-4f0d-9023-31fb48d83b9d": {
+                    "direction": "output",
+                    "name": "MSCL"
+                },
+                "3fffc2c5-0cd1-4d4b-ba87-1c997888720d": {
+                    "direction": "input",
+                    "name": "Qvar2"
+                },
+                "7bdbb82b-338d-4bcf-a8e4-8fa3c1a879aa": {
+                    "direction": "input",
+                    "name": "AH2"
+                },
+                "dbb8b6a4-ae01-431a-ae69-7d35211975fe": {
+                    "direction": "input",
+                    "name": "SPC_Aux"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SCx/AH2/Qvar2",
+            "swap_group": 0
+        },
+        "425c0e00-8ac4-491a-8f5d-819a6f8814e7": {
+            "alt_names": {
+                "87176b6d-d58b-4e65-928a-2cf30f4db241": {
+                    "direction": "input",
+                    "name": "MDRDY"
+                },
+                "c57cb066-9dde-409e-aa9f-7228559059db": {
+                    "direction": "output",
+                    "name": "INT2"
+                },
+                "f2dc9345-4ae8-4055-a894-0dd60ba0f087": {
+                    "direction": "input",
+                    "name": "DEN"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "INT2/DEN",
+            "swap_group": 0
+        },
+        "5826c65c-8118-4f40-b529-b6bab6d18e15": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "Vdd",
+            "swap_group": 0
+        },
+        "61b16217-3c0b-4177-8eac-fae7df2f4753": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "INT1",
+            "swap_group": 0
+        },
+        "94338c14-b96c-42c8-afff-c863e0213ba5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "95a387b5-0f23-49da-ab6c-70f04069227c": {
+            "alt_names": {
+                "17e1e491-fcad-44d5-81ec-635438403126": {
+                    "direction": "input",
+                    "name": "SA0"
+                },
+                "ef1a51b5-d31d-4afd-8b09-9c10455eaff9": {
+                    "direction": "output",
+                    "name": "SDO"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDO/SA0",
+            "swap_group": 0
+        },
+        "9f3dbc2f-bb6b-41de-b28b-21f2f7f785d8": {
+            "alt_names": {
+                "a9eadad0-b6f2-4822-b860-059b4b8a7075": {
+                    "direction": "input",
+                    "name": "SPC"
+                },
+                "e6716842-fd8c-482a-910f-2f60ab5a8c84": {
+                    "direction": "input",
+                    "name": "SCL"
+                }
+            },
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL/SPC",
+            "swap_group": 0
+        },
+        "c6e0526c-c725-4dfb-8542-8d40df607241": {
+            "alt_names": {
+                "0e705948-be52-47f5-b78e-45f447a9a6b2": {
+                    "direction": "output",
+                    "name": "SDO"
+                },
+                "f6a51fec-c936-456b-b997-dc3c3b9d87b6": {
+                    "direction": "bidirectional",
+                    "name": "SDA"
+                },
+                "f9944a1c-c1c5-45be-83ba-2eed8316cf6b": {
+                    "direction": "input",
+                    "name": "SDI"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA/SDI/SDO",
+            "swap_group": 0
+        },
+        "cb1717ca-311e-440f-99ac-acf0f3f0d164": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "Vdd_IO",
+            "swap_group": 0
+        },
+        "d3a9047f-f353-426a-8043-09e559195682": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CS",
+            "swap_group": 0
+        },
+        "dafec7a9-a6fc-401c-852b-8699b2bbdd1c": {
+            "alt_names": {
+                "2e6cf2ec-a5cd-4bac-8297-86ae7aa859ad": {
+                    "direction": "input",
+                    "name": "AH1"
+                },
+                "65828d28-bfc9-49b3-92d0-11e8078bdf1f": {
+                    "direction": "input",
+                    "name": "SDI_Aux"
+                },
+                "91d69e87-fb37-45e5-a480-974858e6c9fa": {
+                    "direction": "input",
+                    "name": "Qvar1"
+                },
+                "c1d4cdf7-b8a6-4f05-a7cc-f312464c3791": {
+                    "direction": "output",
+                    "name": "SDO_Aux"
+                },
+                "dfb37269-ac1c-4346-b451-08355ba79218": {
+                    "direction": "bidirectional",
+                    "name": "MSDA"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDx/AH1/Qvar1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "9e1b59fb-5c9b-47f7-aa02-79fff54cda04",
+    "version": 1
+}

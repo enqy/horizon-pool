@@ -1,0 +1,97 @@
+{
+    "MPN": [
+        false,
+        "LSM6DSV16XTR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.st.com/resource/en/datasheet/lsm6dsv16x.pdf"
+    ],
+    "description": [
+        false,
+        "6-axis IMU with 3-axis accelerometer and gyroscope, embedded sensor fusion, machine learning core, Qvar and analog hub; SPI/I2C/I3C and auxiliary SPI; LGA-14 2.5x3 mm, tape and reel."
+    ],
+    "entity": "fd52398f-6822-4177-a372-be749a0ac31a",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "STMicroelectronics"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "35c61cb9-8f15-4a8d-9036-de881e81f3d3": "C5267406"
+    },
+    "package": "5eab60cb-8885-41e5-9d82-e1d9f7003f86",
+    "pad_map": {
+        "0c9f5ddd-7e7c-4e25-ab27-24cba4723d80": {
+            "gate": "28b4d823-6484-43a5-a11b-32f1882a8778",
+            "pin": "61b16217-3c0b-4177-8eac-fae7df2f4753"
+        },
+        "119a72aa-962d-4244-b37f-2284d8275ee0": {
+            "gate": "28b4d823-6484-43a5-a11b-32f1882a8778",
+            "pin": "d3a9047f-f353-426a-8043-09e559195682"
+        },
+        "2e03fee5-927a-45fc-8539-c8e50866154b": {
+            "gate": "28b4d823-6484-43a5-a11b-32f1882a8778",
+            "pin": "cb1717ca-311e-440f-99ac-acf0f3f0d164"
+        },
+        "34cfab14-d6f2-4eac-8b94-8eb3a67c6b7e": {
+            "gate": "28b4d823-6484-43a5-a11b-32f1882a8778",
+            "pin": "94338c14-b96c-42c8-afff-c863e0213ba5"
+        },
+        "3a8c961d-db86-4b44-8cd5-e84ba9211d9d": {
+            "gate": "28b4d823-6484-43a5-a11b-32f1882a8778",
+            "pin": "26b42b21-bae7-4425-afd9-05c046c39b1c"
+        },
+        "504626da-5813-49ce-8519-8726d0608c7d": {
+            "gate": "28b4d823-6484-43a5-a11b-32f1882a8778",
+            "pin": "dafec7a9-a6fc-401c-852b-8699b2bbdd1c"
+        },
+        "5963fd74-4b27-4a11-87a4-cdd2b05015d9": {
+            "gate": "28b4d823-6484-43a5-a11b-32f1882a8778",
+            "pin": "35005e5d-61da-4370-9e68-74fddc6b6e0a"
+        },
+        "6fee86cd-fd55-4cf9-9881-20ae95afec88": {
+            "gate": "28b4d823-6484-43a5-a11b-32f1882a8778",
+            "pin": "95a387b5-0f23-49da-ab6c-70f04069227c"
+        },
+        "875fee38-44a9-41ec-ae59-3a2dd31df0a5": {
+            "gate": "28b4d823-6484-43a5-a11b-32f1882a8778",
+            "pin": "22dba308-0130-4e40-97b5-70bb13ac4bc1"
+        },
+        "94b0e3ad-8c53-455b-93d9-5caf86de5e8d": {
+            "gate": "28b4d823-6484-43a5-a11b-32f1882a8778",
+            "pin": "9f3dbc2f-bb6b-41de-b28b-21f2f7f785d8"
+        },
+        "aed5cdec-e8a0-41e0-9e21-f8a7c1816ee1": {
+            "gate": "28b4d823-6484-43a5-a11b-32f1882a8778",
+            "pin": "3e014733-2b46-4bbe-8540-ef6c5f074fe3"
+        },
+        "bc2c28fb-5b6b-4587-808c-55932609f04c": {
+            "gate": "28b4d823-6484-43a5-a11b-32f1882a8778",
+            "pin": "c6e0526c-c725-4dfb-8542-8d40df607241"
+        },
+        "c4521d34-e4bb-459d-a4c0-2b1b4214e05c": {
+            "gate": "28b4d823-6484-43a5-a11b-32f1882a8778",
+            "pin": "425c0e00-8ac4-491a-8f5d-819a6f8814e7"
+        },
+        "dfddd3d7-d1be-4ec7-aaf9-eaa8c1f63bf9": {
+            "gate": "28b4d823-6484-43a5-a11b-32f1882a8778",
+            "pin": "5826c65c-8118-4f40-b529-b6bab6d18e15"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "imu",
+        "accelerometer",
+        "gyroscope"
+    ],
+    "type": "part",
+    "uuid": "25483ce3-598d-4352-bb72-37d126d5ee03",
+    "value": [
+        false,
+        ""
+    ]
+}

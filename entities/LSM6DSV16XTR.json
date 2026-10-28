@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "28b4d823-6484-43a5-a11b-32f1882a8778": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "9e1b59fb-5c9b-47f7-aa02-79fff54cda04"
+        }
+    },
+    "manufacturer": "STMicroelectronics",
+    "name": "LSM6DSV16XTR",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "imu",
+        "accelerometer",
+        "gyroscope"
+    ],
+    "type": "entity",
+    "uuid": "fd52398f-6822-4177-a372-be749a0ac31a"
+}

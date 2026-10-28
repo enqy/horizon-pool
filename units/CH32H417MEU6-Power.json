@@ -1,0 +1,87 @@
+{
+    "manufacturer": "WCH",
+    "name": "CH32H417MEU6 Power",
+    "pins": {
+        "0d05c046-7b09-4b57-9f4d-21a9d98488b5": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VDDK",
+            "swap_group": 0
+        },
+        "23e29309-e4b9-413e-8618-c78133471ffd": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VIO18",
+            "swap_group": 0
+        },
+        "369310a4-541c-4f61-a605-02e44a3dca95": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VDD12A",
+            "swap_group": 0
+        },
+        "37850b27-4e92-42ad-aff3-be1a6b48d970": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VDDK",
+            "swap_group": 0
+        },
+        "3812d15f-b436-49b8-9047-20418d89ec37": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "58e1fbbc-df75-4431-ae7b-ea47e666aea2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD33",
+            "swap_group": 0
+        },
+        "703f4ab2-0356-40b4-8b1f-44215e94870a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD33",
+            "swap_group": 0
+        },
+        "8160c1a9-4264-4f67-995a-8008d7edb2e5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDDIO",
+            "swap_group": 0
+        },
+        "8b5a4687-1a6e-43bf-ab28-a95668507607": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD33",
+            "swap_group": 0
+        },
+        "90665dee-5f06-48a0-b4d6-dcd817f35017": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD33A",
+            "swap_group": 0
+        },
+        "9b083f36-122c-49da-ab61-9014714eb0f7": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VIO18",
+            "swap_group": 0
+        },
+        "bbdc3b57-b13f-4553-9a1b-11894975aebf": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDDIO",
+            "swap_group": 0
+        },
+        "ed894565-dc3f-4ce5-8287-7f6e43e7bae6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VIO18",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "f223c704-f91c-4f72-8692-75b61937e7dc",
+    "version": 1
+}

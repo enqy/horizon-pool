@@ -1,0 +1,43 @@
+{
+    "gates": {
+        "5d6dc8bc-8c8b-4aff-9031-368a8ff20fdc": {
+            "name": "System",
+            "suffix": "B",
+            "swap_group": 0,
+            "unit": "6ad4609f-b888-42bf-8c28-6e5bd1761f70"
+        },
+        "9fcbd477-7757-4df7-816b-2569a298c906": {
+            "name": "GPIO EF",
+            "suffix": "E",
+            "swap_group": 0,
+            "unit": "c099a2b9-67d8-4730-9a4e-c95bdfae5c14"
+        },
+        "a3722c8f-4bda-4d2d-9bde-d728bf863203": {
+            "name": "GPIO AB",
+            "suffix": "C",
+            "swap_group": 0,
+            "unit": "d8907d95-ad34-438e-acb1-1303380a5c0d"
+        },
+        "d6964643-af02-40e1-ad64-e490ce9d0702": {
+            "name": "GPIO CD",
+            "suffix": "D",
+            "swap_group": 0,
+            "unit": "2530e9d7-8215-4190-8a1c-75079e82da32"
+        },
+        "f696d77f-9ca3-45f5-a83e-da7bfcda720e": {
+            "name": "Power",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "1ff9a498-4780-49c4-922d-095b6038d749"
+        }
+    },
+    "manufacturer": "WCH",
+    "name": "CH32H417QEU6",
+    "prefix": "U",
+    "tags": [
+        "mcu",
+        "risc-v"
+    ],
+    "type": "entity",
+    "uuid": "09e11756-4a13-4bab-9c16-193c36dd2151"
+}

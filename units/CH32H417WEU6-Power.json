@@ -1,0 +1,63 @@
+{
+    "manufacturer": "WCH",
+    "name": "CH32H417WEU6 Power",
+    "pins": {
+        "1fd392cf-82df-4ae1-a79c-08f53ad930b5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDDIO",
+            "swap_group": 0
+        },
+        "44946d40-9ea0-40e8-a9b4-69f20d15cb03": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VDD12A",
+            "swap_group": 0
+        },
+        "45972bfb-ba99-4fc8-8366-c8ed4fa0faba": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VIO18",
+            "swap_group": 0
+        },
+        "67b5bef7-ed7f-430d-80fd-d5dac6617d52": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VIO18",
+            "swap_group": 0
+        },
+        "6ae59880-3039-4f6b-8b2f-6cb45ac3eddd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD33",
+            "swap_group": 0
+        },
+        "ae2fec5d-edbe-4f26-8c8e-f4b51898e22e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD33A",
+            "swap_group": 0
+        },
+        "b41c2762-a69a-4268-823d-8dfe1568addb": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VDDK",
+            "swap_group": 0
+        },
+        "ed976e63-785f-4f46-b88d-20e281867245": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "fe31af77-4408-4bd4-b302-20eb7388d2bc": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD33",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "06f8f248-1d85-4b51-a014-f5146ed5094b",
+    "version": 1
+}

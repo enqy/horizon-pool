@@ -1,0 +1,231 @@
+{
+    "manufacturer": "WCH",
+    "name": "CH32H417MEU6 System",
+    "pins": {
+        "04e3d306-83c6-4462-9ff5-5daa877cd11c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MDIRN",
+            "swap_group": 0
+        },
+        "0a2cf568-6204-4529-b9aa-ef650df0092f": {
+            "alt_names": {
+                "390a433b-16a6-4ff8-b7c6-733f9c2afcaa": {
+                    "direction": "bidirectional",
+                    "name": "CC1"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB3/CC1",
+            "swap_group": 0
+        },
+        "0dffb1e3-d2af-4fc3-8b1c-112bcd890f2d": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SSTXA",
+            "swap_group": 0
+        },
+        "10ee1553-225b-4c16-a9a9-cd4fb8f6c24e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MDIRP",
+            "swap_group": 0
+        },
+        "12ad68ae-8700-498f-958b-df252f0166a3": {
+            "alt_names": {
+                "af4bf877-3475-4463-8afb-5d5f3639c53b": {
+                    "direction": "bidirectional",
+                    "name": "SWDIO"
+                },
+                "dbb265e9-7d10-445f-8b28-fa44e56a5384": {
+                    "direction": "bidirectional",
+                    "name": "USBHS_DM"
+                },
+                "e001f1cb-d495-40f0-9389-1c9dc4cb963f": {
+                    "direction": "bidirectional",
+                    "name": "SWIO"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB9/SWDIO",
+            "swap_group": 0
+        },
+        "148e9170-70d7-4796-81ef-0c9c37b7e2f0": {
+            "alt_names": {
+                "22c604ec-e97d-4b88-bdee-bb831b723385": {
+                    "direction": "bidirectional",
+                    "name": "CC2"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB4/CC2",
+            "swap_group": 0
+        },
+        "33c0f49d-69c9-44b7-a2d7-ce52d5e73905": {
+            "alt_names": {
+                "407d3009-0bc2-493b-a4e6-a27980adff99": {
+                    "direction": "input",
+                    "name": "SERDES_RXP"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE5/SERDES_RXP",
+            "swap_group": 0
+        },
+        "3be6a013-3608-48d7-b745-e4ccf13466a2": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "XI",
+            "swap_group": 0
+        },
+        "3e6e6303-eb56-4b95-b52a-82355cf39a04": {
+            "alt_names": {
+                "74f9c88a-347d-4cdd-b452-5e3ac25bc6c7": {
+                    "direction": "bidirectional",
+                    "name": "OTG_DP"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA12/OTG_DP",
+            "swap_group": 0
+        },
+        "50c48510-e999-4f53-8190-19c1577bb2cc": {
+            "alt_names": {
+                "e43d7025-ad5d-4c32-b402-9abd452f9d3d": {
+                    "direction": "input",
+                    "name": "OTG_VBUS"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA9/OTG_VBUS",
+            "swap_group": 0
+        },
+        "5998bf54-fdbf-4f18-a01d-d08d40ec9d93": {
+            "alt_names": {
+                "59ecb022-9321-46fc-a9ce-4e30b20fb678": {
+                    "direction": "output",
+                    "name": "SERDES_TXN"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE4/SERDES_TXN",
+            "swap_group": 0
+        },
+        "7437897b-9f1a-41c8-b775-427490c99c28": {
+            "alt_names": {
+                "b3944d15-d557-4067-9e63-2806d75d9886": {
+                    "direction": "input",
+                    "name": "OTG_ID"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA10/OTG_ID",
+            "swap_group": 0
+        },
+        "7ac2244e-3789-4394-9b6e-c36ec49f35dd": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MDITN",
+            "swap_group": 0
+        },
+        "9181737f-6856-40cd-a8a6-cff8a9ce2463": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SSRXB",
+            "swap_group": 0
+        },
+        "95ba6b8b-9db4-4471-9a48-33918f0f21b4": {
+            "alt_names": {
+                "3602e543-428e-468c-854e-3f574a32e7e2": {
+                    "direction": "input",
+                    "name": "SWCLK"
+                },
+                "4298608b-5a1c-40cf-9b5e-4f306d46352e": {
+                    "direction": "bidirectional",
+                    "name": "USBHS_DP"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB8/SWCLK",
+            "swap_group": 0
+        },
+        "a8762ac8-0eae-43c4-943f-c2f6fc20887d": {
+            "alt_names": {
+                "d9869400-2716-4791-a3d0-f56393aafea6": {
+                    "direction": "input",
+                    "name": "SERDES_RXN"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE6/SERDES_RXN",
+            "swap_group": 0
+        },
+        "b7f5afdf-c298-4c6b-9c2b-6fab964fa820": {
+            "alt_names": {
+                "4ae76191-a9d0-459b-81fd-efe525a9f96a": {
+                    "direction": "output",
+                    "name": "SERDES_TXP"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE3/SERDES_TXP",
+            "swap_group": 0
+        },
+        "c00aae60-52de-4fe4-ace5-b0a657f0f760": {
+            "alt_names": {
+                "cfb93f94-fdae-4855-a5d6-273a764d261a": {
+                    "direction": "bidirectional",
+                    "name": "OTG_DM"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA11/OTG_DM",
+            "swap_group": 0
+        },
+        "dac6aaf8-94cd-43e6-a2aa-61738c6e3eb2": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SSTXB",
+            "swap_group": 0
+        },
+        "e1924d71-68fb-46ac-8d91-88194671e951": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SSRXA",
+            "swap_group": 0
+        },
+        "ecc899db-6f46-4d65-af02-816678c72883": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MDITP",
+            "swap_group": 0
+        },
+        "f95a2b44-aa60-47ae-8f17-a3989d574bc0": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "XO",
+            "swap_group": 0
+        },
+        "fcc9549d-3551-4120-b8e5-f531e0f498c0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NRST",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "1a87baaf-e965-40b8-8ce0-3859960667e7",
+    "version": 1
+}

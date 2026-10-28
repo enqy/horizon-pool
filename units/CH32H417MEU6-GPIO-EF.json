@@ -1,0 +1,99 @@
+{
+    "manufacturer": "WCH",
+    "name": "CH32H417MEU6 GPIO-EF",
+    "pins": {
+        "04e8a654-e36f-4d3d-8088-4a46b436e666": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PF4",
+            "swap_group": 0
+        },
+        "13e4cc46-d4d3-40f2-b7fd-fcd2fdb5e6e2": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PF0",
+            "swap_group": 0
+        },
+        "1bfe4d05-2058-482e-820c-75bb1bf608a4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PF5",
+            "swap_group": 0
+        },
+        "245d6fba-a9c3-47e4-825c-4f015180c155": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE10",
+            "swap_group": 0
+        },
+        "7a3492e8-eec0-431f-b66a-129ff0aeb195": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PF2",
+            "swap_group": 0
+        },
+        "90dd8c28-a2e6-469b-a03d-f63d7c3a3555": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE15",
+            "swap_group": 0
+        },
+        "9fdfb772-7ac2-4558-a2ce-4538e94f23cd": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE11",
+            "swap_group": 0
+        },
+        "ad3e7142-572f-4d2a-a2c1-ff630b25756a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PF14",
+            "swap_group": 0
+        },
+        "b22681d7-63a6-47a6-ae58-1af01fd714e8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE1",
+            "swap_group": 0
+        },
+        "b7ce1ed9-45bc-40b2-9ed6-4b6b747090a0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE12",
+            "swap_group": 0
+        },
+        "be1e7872-f7ff-4ce9-91bb-dc4b6a4f0ad5": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE13",
+            "swap_group": 0
+        },
+        "cbf55a21-93de-4903-ad1e-da3236e8fb90": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE0",
+            "swap_group": 0
+        },
+        "d70c1d3c-38ed-4760-90c6-9b1136acd39b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE14",
+            "swap_group": 0
+        },
+        "e06c7198-0d37-4216-b9e8-ce72cbfaa0a6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PF1",
+            "swap_group": 0
+        },
+        "f02f36e5-9d70-4129-a1cf-87493730ee8b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PF3",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "8aa7a008-5053-4ead-98ab-fc334b741a19",
+    "version": 1
+}

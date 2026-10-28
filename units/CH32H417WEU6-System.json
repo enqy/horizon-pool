@@ -1,0 +1,105 @@
+{
+    "manufacturer": "WCH",
+    "name": "CH32H417WEU6 System",
+    "pins": {
+        "2ca88cee-c20e-4699-a0d9-a47f96889a7a": {
+            "alt_names": {
+                "11a46ea4-10e6-49da-8fe1-bb8209a30d4c": {
+                    "direction": "bidirectional",
+                    "name": "SWDIO"
+                },
+                "74385b9e-8a20-45b8-8cf0-23235aca2752": {
+                    "direction": "bidirectional",
+                    "name": "SWIO"
+                },
+                "74f4db15-293d-4345-8261-c999681d19bb": {
+                    "direction": "bidirectional",
+                    "name": "USBHS_DM"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB9/SWDIO",
+            "swap_group": 0
+        },
+        "2dc122a7-0107-42b9-b246-8241de09e574": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MDIRP",
+            "swap_group": 0
+        },
+        "40a0ca95-19d3-45a8-9d7a-dda2ed464578": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SSRXA",
+            "swap_group": 0
+        },
+        "589cd7d9-d735-42ed-9ebc-1ce763d5c392": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SSTXB",
+            "swap_group": 0
+        },
+        "766d17e6-cfa0-4a7c-90b3-5251ecc8ba37": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SSRXB",
+            "swap_group": 0
+        },
+        "838e5b00-0bd2-455d-884c-8d56513b5c8a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "XO",
+            "swap_group": 0
+        },
+        "ad3d5ec8-928c-4582-be1d-05907526af02": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SSTXA",
+            "swap_group": 0
+        },
+        "b3744597-737a-4bbb-a4d2-9ad76b070fdb": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MDITN",
+            "swap_group": 0
+        },
+        "bcaf63dc-713f-4ac7-868f-b7a781129d8f": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MDITP",
+            "swap_group": 0
+        },
+        "c8d00949-cdf8-49e1-8209-da1712bb6c64": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MDIRN",
+            "swap_group": 0
+        },
+        "f7e54ded-7121-4e87-bb14-cc13b8d97cb3": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "XI",
+            "swap_group": 0
+        },
+        "f8d29e5c-e597-4798-94e4-b06d3fb30fff": {
+            "alt_names": {
+                "2c014f45-91db-4f16-bce6-8103264a22ec": {
+                    "direction": "bidirectional",
+                    "name": "USBHS_DP"
+                },
+                "9472587f-68ef-4164-b900-c7498f3e1fb3": {
+                    "direction": "input",
+                    "name": "SWCLK"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB8/SWCLK",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "736dbaaf-7b58-4a0b-8cd7-58aa96ef2d11",
+    "version": 1
+}

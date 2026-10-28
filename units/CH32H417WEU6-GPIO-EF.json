@@ -1,0 +1,81 @@
+{
+    "manufacturer": "WCH",
+    "name": "CH32H417WEU6 GPIO-EF",
+    "pins": {
+        "154f7b01-b319-4893-8e26-7333cd2a1655": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PF0",
+            "swap_group": 0
+        },
+        "3491d1d8-09ce-4b37-9810-d3dd83c66bf3": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PF1",
+            "swap_group": 0
+        },
+        "424d3396-55f0-499f-9f58-fb42b7aebc20": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PF3",
+            "swap_group": 0
+        },
+        "55643381-a6ef-4eab-9bfc-df0a93e4a30e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE1",
+            "swap_group": 0
+        },
+        "5ff60e61-8bd7-4d96-bf53-96d05508bb8b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PF2",
+            "swap_group": 0
+        },
+        "7daf28d2-288f-4369-9be1-e101e81139d6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE15",
+            "swap_group": 0
+        },
+        "8134fe89-11af-4faf-9761-8b0fc165a496": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PF4",
+            "swap_group": 0
+        },
+        "86eeab3b-daa8-4125-b7d8-49092c56766a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE0",
+            "swap_group": 0
+        },
+        "8b2398a3-eaed-4a34-bd74-77fca97b9c1b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE14",
+            "swap_group": 0
+        },
+        "ad7669a3-bf75-40b3-a1d3-0d5f54ed7197": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PF5",
+            "swap_group": 0
+        },
+        "bd911293-c8d7-4905-b7ad-64eb3202edf8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PF14",
+            "swap_group": 0
+        },
+        "ecd72285-bb23-4426-a7bf-a9015657990b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE13",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "1e7aa02c-9395-4629-8006-347991dfb2b3",
+    "version": 1
+}

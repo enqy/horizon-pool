@@ -1,0 +1,38 @@
+{
+    "manufacturer": "MICRONE",
+    "name": "ME6231C33M5G",
+    "pins": {
+        "1acb12dc-66c3-4c7f-b8c3-cede91cc85da": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "28949205-dee5-4b2e-8932-dacf172027fd": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VOUT",
+            "swap_group": 0
+        },
+        "46841337-8f8d-4dd1-8b1c-4e5e116b60da": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "99d43814-6a0b-4db8-aad5-10e62fb00b5a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CE",
+            "swap_group": 0
+        },
+        "ad800800-14a5-4fa7-ae4a-331648e0f289": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VIN",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b75c545d-78b1-4609-90a1-45dd8c5af3fe"
+}

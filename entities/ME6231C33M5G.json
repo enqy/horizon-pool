@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "6150b021-d80c-4d07-b14d-9b7c9cb1fc64": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "b75c545d-78b1-4609-90a1-45dd8c5af3fe"
+        }
+    },
+    "manufacturer": "MICRONE",
+    "name": "ME6231C33M5G",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "ldo",
+        "voltage-regulator"
+    ],
+    "type": "entity",
+    "uuid": "0ea57d47-71db-4f41-9f7a-f0f054311640"
+}

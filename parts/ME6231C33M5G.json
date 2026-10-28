@@ -1,0 +1,60 @@
+{
+    "MPN": [
+        false,
+        "ME6231C33M5G"
+    ],
+    "datasheet": [
+        false,
+        "https://www.huazhoucn.com/upFiles/common/2022/12/ME6231%20Series_E6.0.pdf"
+    ],
+    "description": [
+        false,
+        "3.3 V fixed-output, 500 mA LDO; 3\u201318 V input, 1.8 uA typical quiescent current, active-high CE, thermal and current-limit protection; SOT23-5. CE must be driven, not left floating; pin 4 is NC."
+    ],
+    "entity": "0ea57d47-71db-4f41-9f7a-f0f054311640",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "MICRONE"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "fe383ed4-c87e-4f22-a0ca-3c876af3e649": "C610253"
+    },
+    "package": "ab5a7397-4538-49e1-b2c4-a62be0c79bfc",
+    "pad_map": {
+        "05644d33-6e9f-4d68-b3a6-fd7a8e7d9daa": {
+            "gate": "6150b021-d80c-4d07-b14d-9b7c9cb1fc64",
+            "pin": "99d43814-6a0b-4db8-aad5-10e62fb00b5a"
+        },
+        "3d32a965-0f35-46c2-98ed-2ed32b6319ad": {
+            "gate": "6150b021-d80c-4d07-b14d-9b7c9cb1fc64",
+            "pin": "46841337-8f8d-4dd1-8b1c-4e5e116b60da"
+        },
+        "3d9b3f50-57ee-4cd4-b766-c0bf75dd666a": {
+            "gate": "6150b021-d80c-4d07-b14d-9b7c9cb1fc64",
+            "pin": "28949205-dee5-4b2e-8932-dacf172027fd"
+        },
+        "47d37253-ec9a-4a7c-b125-1e25cb9076d7": {
+            "gate": "6150b021-d80c-4d07-b14d-9b7c9cb1fc64",
+            "pin": "ad800800-14a5-4fa7-ae4a-331648e0f289"
+        },
+        "53a6d995-e9a7-4564-9510-c6c6392d4d8d": {
+            "gate": "6150b021-d80c-4d07-b14d-9b7c9cb1fc64",
+            "pin": "1acb12dc-66c3-4c7f-b8c3-cede91cc85da"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "ldo",
+        "voltage-regulator"
+    ],
+    "type": "part",
+    "uuid": "8d9e15cd-c71b-4b04-93ff-82f3e1fd393a",
+    "value": [
+        false,
+        ""
+    ]
+}

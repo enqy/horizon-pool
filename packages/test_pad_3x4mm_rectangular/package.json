@@ -1,0 +1,158 @@
+{
+    "alternate_for": "2f5093aa-803e-4643-b370-7d55c5a134da",
+    "arcs": {},
+    "default_model": "00000000-0000-0000-0000-000000000000",
+    "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 100000
+        },
+        "grids": {}
+    },
+    "junctions": {},
+    "keepouts": {},
+    "lines": {},
+    "manufacturer": "",
+    "models": {},
+    "name": "Rectangular test pad 3x4mm",
+    "pads": {
+        "87ea60fb-a166-46bd-98c5-c046380ffaa8": {
+            "name": "1",
+            "padstack": "80b124cd-c399-4656-99a3-d0ffa4886e76",
+            "parameter_set": {},
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "3.000mm 4.000mm\nget-parameter [ courtyard_expansion ]\n2 * +xy\nset-polygon [ courtyard rectangle 0.000mm 0.000mm ]",
+    "parameter_set": {
+        "courtyard_expansion": 300000
+    },
+    "polygons": {
+        "6622e3b0-150c-47be-8453-4a3b72b007f3": {
+            "layer": 60,
+            "parameter_class": "courtyard",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -1800000,
+                        -2300000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -1800000,
+                        2300000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        1800000,
+                        2300000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        1800000,
+                        -2300000
+                    ],
+                    "type": "line"
+                }
+            ]
+        }
+    },
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [
+        "generic",
+        "testing",
+        "test-pad"
+    ],
+    "texts": {
+        "0a25c6fb-a800-4926-916f-514774249007": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 50,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    2900000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 0
+        },
+        "ba28d6f9-099a-4a49-be4b-992fe8a1402a": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    2900000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        }
+    },
+    "type": "package",
+    "uuid": "e7e2cf0a-2bb7-4697-94b6-90b88676a190"
+}

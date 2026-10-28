@@ -1,0 +1,48 @@
+{
+    "holes": {},
+    "name": "Test pad rectangular 3x4mm (no paste)",
+    "padstack_type": "top",
+    "parameter_program": "",
+    "parameter_set": {},
+    "parameters_required": [],
+    "polygons": {},
+    "shapes": {
+        "73128a8b-85d5-484f-a969-0d7978ddf84b": {
+            "form": "rectangle",
+            "layer": 0,
+            "parameter_class": "",
+            "params": [
+                3000000,
+                4000000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "7cbd1e87-159e-445f-9e4e-1571ee4ec1aa": {
+            "form": "rectangle",
+            "layer": 10,
+            "parameter_class": "",
+            "params": [
+                3100000,
+                4100000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        }
+    },
+    "type": "padstack",
+    "uuid": "80b124cd-c399-4656-99a3-d0ffa4886e76",
+    "well_known_name": ""
+}

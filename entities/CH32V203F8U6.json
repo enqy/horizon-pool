@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "32858ce5-3745-45eb-8e61-ef6654b421b7": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "195d3060-9b37-4709-a836-25078e81e835"
+        }
+    },
+    "manufacturer": "WCH",
+    "name": "CH32V203F8U6",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "microcontroller",
+        "risc-v"
+    ],
+    "type": "entity",
+    "uuid": "a775ed40-6d7c-4f1d-8dcd-cfe1d5846236"
+}

@@ -1,0 +1,124 @@
+{
+    "MPN": [
+        false,
+        "CH32V203F8U6"
+    ],
+    "datasheet": [
+        false,
+        "https://www.wch-ic.com/downloads/CH32V203DS0_PDF.html"
+    ],
+    "description": [
+        false,
+        "144 MHz QingKe RISC-V MCU, 64 KB Flash, 20 KB SRAM; USB FS, SWD, ADC, SPI, I2C and USART; QFN20 3x3 mm with exposed ground pad 0. Pads 16 and 17 internally combine GPIO/USB/SWD pins; avoid conflicting output configurations."
+    ],
+    "entity": "a775ed40-6d7c-4f1d-8dcd-cfe1d5846236",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "WCH"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "20d0cafe-e5ef-4b56-9e85-795eb259a7ba": "C7570477"
+    },
+    "package": "5ea4e559-d522-4b5c-ad62-d30d8a2d45b6",
+    "pad_map": {
+        "01011617-fda4-4466-9dd8-8c935354a663": {
+            "gate": "32858ce5-3745-45eb-8e61-ef6654b421b7",
+            "pin": "db43ed2b-98fa-4d93-9d85-29da87013c03"
+        },
+        "0285ff80-d40f-49bc-b1bc-dfc63f744abf": {
+            "gate": "32858ce5-3745-45eb-8e61-ef6654b421b7",
+            "pin": "e1e7f813-8ef8-407c-b00c-e7e9708bc161"
+        },
+        "0df3322e-4d09-4cd1-8369-65a9b6b4ef44": {
+            "gate": "32858ce5-3745-45eb-8e61-ef6654b421b7",
+            "pin": "645f0c54-47db-40a5-8f4e-8b82dcace15c"
+        },
+        "141dba9e-f5d1-45ca-aea1-6babeb6d145c": {
+            "gate": "32858ce5-3745-45eb-8e61-ef6654b421b7",
+            "pin": "02401e90-166c-45b9-8c7f-1016c64ae087"
+        },
+        "167c3d6a-a479-4f83-b21b-12d49c873fb5": {
+            "gate": "32858ce5-3745-45eb-8e61-ef6654b421b7",
+            "pin": "528627c8-8ea9-449a-987e-ebf1f17741dd"
+        },
+        "170b1bcf-e235-49aa-bbbb-d34e6e391231": {
+            "gate": "32858ce5-3745-45eb-8e61-ef6654b421b7",
+            "pin": "4f1a704d-e4a3-4464-af98-7272bf45608f"
+        },
+        "29bcf5cb-b49d-4eff-aee8-5712a6acd00b": {
+            "gate": "32858ce5-3745-45eb-8e61-ef6654b421b7",
+            "pin": "f66fb41c-dfe4-4bbd-98a5-dbd7b31e9a33"
+        },
+        "3bc39671-6569-4b11-916e-aaab3dfb8281": {
+            "gate": "32858ce5-3745-45eb-8e61-ef6654b421b7",
+            "pin": "327333bc-50a9-4819-b22f-287663f9f418"
+        },
+        "43941de9-ad18-433e-880b-caa9ae064a94": {
+            "gate": "32858ce5-3745-45eb-8e61-ef6654b421b7",
+            "pin": "c724ee0b-e647-4020-8257-e5cd1fc62fd3"
+        },
+        "4aefd3ba-42e1-4623-ab51-36d606d94e3f": {
+            "gate": "32858ce5-3745-45eb-8e61-ef6654b421b7",
+            "pin": "e8e2ac66-57e1-42fc-9742-8b1743b37c56"
+        },
+        "4dc14c66-2846-4f8d-821d-26c940e6ccbc": {
+            "gate": "32858ce5-3745-45eb-8e61-ef6654b421b7",
+            "pin": "5e360556-ec80-443d-af0a-e4898ed03214"
+        },
+        "5a70de54-db4e-4209-984d-e94a07451de9": {
+            "gate": "32858ce5-3745-45eb-8e61-ef6654b421b7",
+            "pin": "a0c84162-e312-4ff5-89f6-cf521fb4962b"
+        },
+        "6348b634-25e0-4aac-9c69-10bfd805ba16": {
+            "gate": "32858ce5-3745-45eb-8e61-ef6654b421b7",
+            "pin": "12c7d15b-3085-4373-b38d-4b78008139e0"
+        },
+        "816e78df-e5a8-48c7-a57b-03d38c1a1452": {
+            "gate": "32858ce5-3745-45eb-8e61-ef6654b421b7",
+            "pin": "d3e23a15-0236-4b26-9a34-94f75606908c"
+        },
+        "820c3329-5132-46b6-a551-f0a223119dee": {
+            "gate": "32858ce5-3745-45eb-8e61-ef6654b421b7",
+            "pin": "94770129-e205-426d-abce-2e4192c92fdf"
+        },
+        "932b1889-4a4f-4652-acb6-5960c87d4a68": {
+            "gate": "32858ce5-3745-45eb-8e61-ef6654b421b7",
+            "pin": "63547ea5-122a-4571-9b7c-9fbcb8976a62"
+        },
+        "9dc6e523-14d7-4b2b-8bc7-147a5cd08697": {
+            "gate": "32858ce5-3745-45eb-8e61-ef6654b421b7",
+            "pin": "a76453aa-b01c-4853-8f2d-de2430969542"
+        },
+        "ac926787-2eaa-4372-9a20-2c541ab19262": {
+            "gate": "32858ce5-3745-45eb-8e61-ef6654b421b7",
+            "pin": "aac84beb-747a-4110-92d8-bdf7374f5d4a"
+        },
+        "b79c8570-395f-42d4-ab8f-8ab40d9f41a7": {
+            "gate": "32858ce5-3745-45eb-8e61-ef6654b421b7",
+            "pin": "4a290ddf-270c-4b4f-a29b-3755926d3a18"
+        },
+        "d5363aa2-ff39-4ced-ab46-f3ff9bf7c3a3": {
+            "gate": "32858ce5-3745-45eb-8e61-ef6654b421b7",
+            "pin": "79df2dd0-13f6-448f-a5fc-cc7d7f9224a8"
+        },
+        "e7b36e31-fb3a-4bd8-a556-97249e5b0338": {
+            "gate": "32858ce5-3745-45eb-8e61-ef6654b421b7",
+            "pin": "d8ef875e-16c1-4291-9b62-5e2e9c37ca0d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "microcontroller",
+        "risc-v"
+    ],
+    "type": "part",
+    "uuid": "7bb70ebe-82f7-47c6-8fa9-1025fa7cec58",
+    "value": [
+        false,
+        ""
+    ]
+}

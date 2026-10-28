@@ -1,0 +1,60 @@
+{
+    "MPN": [
+        false,
+        "AONR36366"
+    ],
+    "datasheet": [
+        false,
+        "https://www.aosmd.com/sites/default/files/res/datasheets/AONR36366.pdf"
+    ],
+    "description": [
+        false,
+        "30 V N-channel power MOSFET; RDS(on) max 3.5 mOhm at VGS=10 V, 5.2 mOhm at 4.5 V; DFN3x3A-8L-EP1-P. Pins 1-3 source, pin 4 gate. Footprint pad 9 combines drain pins 5-8 and the exposed drain paddle."
+    ],
+    "entity": "c135130c-0663-4575-9083-3b328ac00c90",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Alpha & Omega Semiconductor"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "aff5ddc9-1431-4f4b-9c90-0fd89f58d36b": "C541715"
+    },
+    "package": "15909084-8374-4864-af95-c4393de8ce2a",
+    "pad_map": {
+        "063ba62a-850f-4148-b104-ae446b50b7b2": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "074c3718-08fd-4f94-88fc-2bb43174b245"
+        },
+        "159db014-58df-421d-a617-fa194c74fb8d": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        },
+        "26bc9c02-517a-4eed-a874-07425a7b1a28": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        },
+        "db7d9845-dd41-4b5d-a8f2-f198870f7898": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        },
+        "dfa6a74c-bf75-4cfc-8f8f-a01e7a6e7daf": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "mosfet",
+        "transistor",
+        "n-channel"
+    ],
+    "type": "part",
+    "uuid": "70048a8f-ff4f-4594-a602-f43838194586",
+    "value": [
+        false,
+        ""
+    ]
+}

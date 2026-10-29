@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "FTC252012S4R7MBCB"
+    ],
+    "datasheet": [
+        false,
+        "https://www.lcsc.com/datasheet/C53285291.pdf"
+    ],
+    "description": [
+        false,
+        "4.7 uH \u00b120% wire-wound molded power inductor; 150 mOhm typical / 170 mOhm maximum DCR. Catalog Irms 2.4/2.2 A and Isat 2.7/2.5 A (Typical/Max columns); FTC252012S 2.5x2.0 mm, 1.2 mm maximum height."
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "cjiang (Changjiang Microelectronics Tech)"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "0334bd78-4f1c-425a-b913-35dfb4e3783c": "C53285291"
+    },
+    "package": "73b2747a-bee3-4b5c-9e8b-896794beee1e",
+    "pad_map": {
+        "58d8c30e-7082-4509-a97f-899d33192e3d": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "c39ec8fd-b49e-4bfa-b6ac-545420732642": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "inductor",
+        "passive",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "797c9d2f-2896-48dc-b290-14bbd2d00a35",
+    "value": [
+        false,
+        "4.7uH"
+    ]
+}

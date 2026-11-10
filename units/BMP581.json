@@ -1,0 +1,68 @@
+{
+    "manufacturer": "Bosch Sensortec",
+    "name": "BMP581",
+    "pins": {
+        "0f6a3b07-8e27-40e7-8c51-44ba9836b5e2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDDIO",
+            "swap_group": 0
+        },
+        "0ff53a1d-f192-4bde-b8ba-71e61b87da56": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "29afa2f4-cdae-4588-a1fb-cc4132e3a263": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CSB",
+            "swap_group": 0
+        },
+        "2b05c16f-6085-4edc-bbe4-17f87db02498": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "3c80a424-a0ac-484c-bd7c-4a8de27885f5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "55b3ce60-1422-45df-bfef-40516ee33ef2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "aeee4899-84bf-41c6-8012-a74c88a594b3": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "INT",
+            "swap_group": 0
+        },
+        "c3341545-3911-4e59-99a5-aeea290ee850": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDO/ADDR",
+            "swap_group": 0
+        },
+        "d439bb10-b280-41da-9a1e-bac8600d2b86": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCK/SCL",
+            "swap_group": 0
+        },
+        "f5e7569d-9d36-43b1-af58-0e8b847e385f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDI/SDA",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "e6100409-4127-400e-a9a0-f096ba02bf9f"
+}

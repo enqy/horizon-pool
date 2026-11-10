@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "58fa52a0-8bd9-4675-8803-c34457bbf19a": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "e6100409-4127-400e-a9a0-f096ba02bf9f"
+        }
+    },
+    "manufacturer": "Bosch Sensortec",
+    "name": "BMP581",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "sensor",
+        "pressure",
+        "barometer"
+    ],
+    "type": "entity",
+    "uuid": "fc18c56f-556a-4c5d-a969-1762b4c4f6bb"
+}

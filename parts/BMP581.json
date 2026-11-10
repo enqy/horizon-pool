@@ -1,0 +1,81 @@
+{
+    "MPN": [
+        false,
+        "BMP581"
+    ],
+    "datasheet": [
+        false,
+        "https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmp581-ds004.pdf"
+    ],
+    "description": [
+        false,
+        "Digital barometric pressure sensor, 300\u20131250 hPa, I2C/I3C and 3/4-wire SPI; VDD 1.71\u20133.6 V, VDDIO 1.08\u20133.6 V; LGA-10 2x2 mm. Connect all three VSS pins to ground. Keep traces and vias out from beneath the sensor; footprint includes the common solder-mask opening recommended by Bosch."
+    ],
+    "entity": "fc18c56f-556a-4c5d-a969-1762b4c4f6bb",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Bosch Sensortec"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "11fd8731-d959-411f-a9a3-2b37dcaace15": "C5362283"
+    },
+    "package": "021967f5-62a1-47ae-b5a3-ead357bd29d5",
+    "pad_map": {
+        "071f8351-2f4e-4d0c-a7fa-e4403ae0aaae": {
+            "gate": "58fa52a0-8bd9-4675-8803-c34457bbf19a",
+            "pin": "f5e7569d-9d36-43b1-af58-0e8b847e385f"
+        },
+        "4063ad4e-7ef1-457f-ba31-97f312327fb3": {
+            "gate": "58fa52a0-8bd9-4675-8803-c34457bbf19a",
+            "pin": "2b05c16f-6085-4edc-bbe4-17f87db02498"
+        },
+        "618bd3a2-7858-41b6-b47d-50a54e80bbb5": {
+            "gate": "58fa52a0-8bd9-4675-8803-c34457bbf19a",
+            "pin": "c3341545-3911-4e59-99a5-aeea290ee850"
+        },
+        "66a806b2-e3fc-471c-96e5-743964ce3679": {
+            "gate": "58fa52a0-8bd9-4675-8803-c34457bbf19a",
+            "pin": "29afa2f4-cdae-4588-a1fb-cc4132e3a263"
+        },
+        "6c112d5c-82ca-4a09-80b3-86c2a063cd70": {
+            "gate": "58fa52a0-8bd9-4675-8803-c34457bbf19a",
+            "pin": "0f6a3b07-8e27-40e7-8c51-44ba9836b5e2"
+        },
+        "8c55e120-0282-47bf-a612-c080e7b7a8a6": {
+            "gate": "58fa52a0-8bd9-4675-8803-c34457bbf19a",
+            "pin": "0ff53a1d-f192-4bde-b8ba-71e61b87da56"
+        },
+        "bbff19ec-dba8-413c-a0df-17b2404345bc": {
+            "gate": "58fa52a0-8bd9-4675-8803-c34457bbf19a",
+            "pin": "d439bb10-b280-41da-9a1e-bac8600d2b86"
+        },
+        "d2a8120a-c9f4-4f07-9094-393666795b69": {
+            "gate": "58fa52a0-8bd9-4675-8803-c34457bbf19a",
+            "pin": "3c80a424-a0ac-484c-bd7c-4a8de27885f5"
+        },
+        "dde7e0ac-c73d-4aa5-86fd-25d7d03a1016": {
+            "gate": "58fa52a0-8bd9-4675-8803-c34457bbf19a",
+            "pin": "55b3ce60-1422-45df-bfef-40516ee33ef2"
+        },
+        "f31ee1b0-d80e-48ef-b0d1-f1c63f8fdcb2": {
+            "gate": "58fa52a0-8bd9-4675-8803-c34457bbf19a",
+            "pin": "aeee4899-84bf-41c6-8012-a74c88a594b3"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "sensor",
+        "pressure",
+        "barometer"
+    ],
+    "type": "part",
+    "uuid": "490ef2a2-987d-4bed-8715-95b92b5797d2",
+    "value": [
+        false,
+        ""
+    ]
+}

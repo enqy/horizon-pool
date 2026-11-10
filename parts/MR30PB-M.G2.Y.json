@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "MR30PB-M.G2.Y"
+    ],
+    "datasheet": [
+        false,
+        "https://www.lcsc.com/datasheet/C52287275.pdf"
+    ],
+    "description": [
+        false,
+        "MR30PB 3-position male vertical through-hole PCB power connector, yellow PA housing and gold-plated contacts; 3.5 mm pitch. Library numbering 1-2-3 runs left-to-right in footprint top view; manufacturer drawing does not assign pin numbers."
+    ],
+    "entity": "dac08463-17e8-4eb3-b5b4-4d7be5775379",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "AMASS"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "903c55a0-fc71-4d74-85b5-b1ea4fa841ce": "C52287275"
+    },
+    "package": "5982d000-b479-4727-be13-91ac60f8e3ef",
+    "pad_map": {
+        "587fe84e-ac61-43f8-a52b-649baa44df9a": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "b22250f7-9956-4ac8-ada1-725b7ba800c8"
+        },
+        "5ea1569b-87ed-4669-8b5e-937ad0aa6742": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "1803365d-f745-4921-a54f-c5df6afa6561"
+        },
+        "f8a3fc84-f095-4b40-bcff-2798a36574ae": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "4c0e5d34-b007-432d-880b-3a3b8e963a14"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "power",
+        "mr30",
+        "male"
+    ],
+    "type": "part",
+    "uuid": "21f7c966-001c-4dd8-851f-744c3e4a2067",
+    "value": [
+        false,
+        ""
+    ]
+}

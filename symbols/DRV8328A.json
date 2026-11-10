@@ -552,7 +552,7 @@
     "polygons": {},
     "text_placements": {},
     "texts": {
-        "1e5ef181-dabc-42cd-8390-ffb990681ccd": {
+        "925b8c2c-2f1e-4376-9103-19dfb35e2975": {
             "font": "simplex",
             "from_smash": false,
             "layer": 0,
@@ -561,15 +561,15 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -15000000,
-                    -32500000
+                    5000000,
+                    -31250000
                 ]
             },
             "size": 1500000,
             "text": "$VALUE",
             "width": 0
         },
-        "d87688b3-3057-4b34-a752-f9a778258c86": {
+        "d156d8d5-570c-4481-9264-c4728f127a76": {
             "font": "simplex",
             "from_smash": false,
             "layer": 0,
@@ -578,8 +578,8 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -15000000,
-                    32500000
+                    5000000,
+                    31250000
                 ]
             },
             "size": 1500000,

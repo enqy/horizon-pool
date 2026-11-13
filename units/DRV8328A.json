@@ -1,6 +1,6 @@
 {
     "manufacturer": "Texas Instruments",
-    "name": "DRV8328A",
+    "name": "DRV8328A/B",
     "pins": {
         "01dd4f96-efee-4270-aafb-eb7368522d10": {
             "direction": "power_input",

@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "b816cf61-f255-439b-8068-dbd0d640dab3": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "e1f479c7-1b49-4b9d-a8b3-1efb87b1de73"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "INA228",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "current-sense",
+        "power-monitor",
+        "i2c"
+    ],
+    "type": "entity",
+    "uuid": "f1234ddd-2a42-4028-9321-f79679029867"
+}

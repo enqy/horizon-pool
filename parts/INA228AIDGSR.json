@@ -1,0 +1,81 @@
+{
+    "MPN": [
+        false,
+        "INA228AIDGSR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/ina228.pdf"
+    ],
+    "description": [
+        false,
+        "85 V, 20-bit digital current, bus-voltage, power, energy and charge monitor; I2C with 16 pin-selectable addresses, 2.7\u20135.5 V supply; VSSOP-10 DGS. SDA and ALERT are open-drain; ALERT defaults active-low. A0/A1 select the address by connection to GND, VS, SDA or SCL."
+    ],
+    "entity": "f1234ddd-2a42-4028-9321-f79679029867",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "e61a4447-3e4a-4186-a321-9dff35306342": "C2887910"
+    },
+    "package": "3ffd0568-fac1-4f0c-8f11-1bee1964adb7",
+    "pad_map": {
+        "12116eeb-5cb1-4163-a7a4-2bb9da59db9a": {
+            "gate": "b816cf61-f255-439b-8068-dbd0d640dab3",
+            "pin": "0349f3c0-ff97-40a5-aea5-bb91c835a5d3"
+        },
+        "40c56126-01e1-48e4-99be-3f41da217c37": {
+            "gate": "b816cf61-f255-439b-8068-dbd0d640dab3",
+            "pin": "d38b0c50-83cf-40c3-92d2-254090e71e7d"
+        },
+        "56e3c2f4-29a4-4d67-991a-2cbcb672f026": {
+            "gate": "b816cf61-f255-439b-8068-dbd0d640dab3",
+            "pin": "eb535ba4-f001-41b8-9a91-b54690594322"
+        },
+        "6ddc251a-19e9-4045-91e7-14ccb0baf35f": {
+            "gate": "b816cf61-f255-439b-8068-dbd0d640dab3",
+            "pin": "8844eb6f-0878-4a0a-9c88-64fbd742c3f2"
+        },
+        "b41fe462-9b3d-46a6-a237-d447bb6cda96": {
+            "gate": "b816cf61-f255-439b-8068-dbd0d640dab3",
+            "pin": "9e690c92-7188-4800-87d8-8a2af5467d31"
+        },
+        "bc709c68-8984-44e4-b93b-d5de7e669ca4": {
+            "gate": "b816cf61-f255-439b-8068-dbd0d640dab3",
+            "pin": "c5e912d8-f283-491a-96a5-4fef9e7e2548"
+        },
+        "cf996555-e9d5-4dfd-adfe-8377826a7394": {
+            "gate": "b816cf61-f255-439b-8068-dbd0d640dab3",
+            "pin": "a2c6ac06-5596-47c2-a626-7ffd48020d61"
+        },
+        "e0ca1d8c-bb42-4fd9-90ea-478daf4f05d0": {
+            "gate": "b816cf61-f255-439b-8068-dbd0d640dab3",
+            "pin": "4c37183e-35d0-4a29-90d0-8d2481742a66"
+        },
+        "e32ce8e5-cc9d-4778-8c50-edf569906919": {
+            "gate": "b816cf61-f255-439b-8068-dbd0d640dab3",
+            "pin": "d2cc9d38-1807-4706-bdd3-02f31ebae9aa"
+        },
+        "f355b4d1-2edf-451c-b0be-f35034fc030c": {
+            "gate": "b816cf61-f255-439b-8068-dbd0d640dab3",
+            "pin": "3db5bd29-bd33-4ff9-b35e-d43f8b03e5c4"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "current-sense",
+        "power-monitor",
+        "i2c"
+    ],
+    "type": "part",
+    "uuid": "64d83940-73e8-4a0b-8f93-27ced24e39c7",
+    "value": [
+        false,
+        ""
+    ]
+}

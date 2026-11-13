@@ -1,0 +1,68 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "INA228",
+    "pins": {
+        "0349f3c0-ff97-40a5-aea5-bb91c835a5d3": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "3db5bd29-bd33-4ff9-b35e-d43f8b03e5c4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN+",
+            "swap_group": 0
+        },
+        "4c37183e-35d0-4a29-90d0-8d2481742a66": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VS",
+            "swap_group": 0
+        },
+        "8844eb6f-0878-4a0a-9c88-64fbd742c3f2": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "9e690c92-7188-4800-87d8-8a2af5467d31": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "ALERT",
+            "swap_group": 0
+        },
+        "a2c6ac06-5596-47c2-a626-7ffd48020d61": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "c5e912d8-f283-491a-96a5-4fef9e7e2548": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A1",
+            "swap_group": 0
+        },
+        "d2cc9d38-1807-4706-bdd3-02f31ebae9aa": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A0",
+            "swap_group": 0
+        },
+        "d38b0c50-83cf-40c3-92d2-254090e71e7d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VBUS",
+            "swap_group": 0
+        },
+        "eb535ba4-f001-41b8-9a91-b54690594322": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN-",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "e1f479c7-1b49-4b9d-a8b3-1efb87b1de73"
+}

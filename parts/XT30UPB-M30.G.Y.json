@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "XT30UPB-M30.G.Y"
+    ],
+    "datasheet": [
+        false,
+        "https://www.china-amass.com/public/upload/20260207/7fa24f5a6f35ec66c7a115c07a34ab06.pdf"
+    ],
+    "description": [
+        false,
+        "XT30U 2-position male vertical through-hole PCB power connector, yellow PA housing and gold-plated contacts; 5 mm pitch, 3.0 mm long solder tails for 1.6 mm PCBs. Pin diameter 1.6 mm (series drawing). Library pin 1 is at the square end and pin 2 at the chamfered end in footprint top view; numbers are local conventions, not polarity labels."
+    ],
+    "entity": "29f544a1-a789-4fe6-a1ef-29da5ba3d371",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "AMASS"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "f248de53-b377-4a26-b954-8da2a50557ff": "C428721"
+    },
+    "package": "51a48763-3e5b-4aee-9b5b-e2ff83546f11",
+    "pad_map": {
+        "522f0abc-e10c-4fed-ae3d-bd74ecf3b00d": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "588536f1-9e96-4500-bcbb-4ba48082b643"
+        },
+        "e60f177d-fb91-4e87-9e81-af8db885970b": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "b3cef4f5-fe6c-45b5-b063-1618f997168f"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "power",
+        "xt30",
+        "male"
+    ],
+    "type": "part",
+    "uuid": "ee028a6a-58b0-4fd4-a130-66f51282616d",
+    "value": [
+        false,
+        ""
+    ]
+}

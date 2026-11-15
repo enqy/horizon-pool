@@ -1,0 +1,116 @@
+{
+    "holes": {},
+    "name": "LR2021 QFN32 exposed ground paddle 0",
+    "padstack_type": "top",
+    "parameter_program": "",
+    "parameter_set": {},
+    "parameters_required": [],
+    "polygons": {},
+    "shapes": {
+        "035167ce-27f5-491c-809c-80edc59b1d3b": {
+            "form": "rectangle",
+            "layer": 30,
+            "parameter_class": "",
+            "params": [
+                1450000,
+                1450000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -925000,
+                    925000
+                ]
+            }
+        },
+        "623a9a70-1f42-4232-be6c-9f5e15d4bb2f": {
+            "form": "rectangle",
+            "layer": 10,
+            "parameter_class": "",
+            "params": [
+                3800000,
+                3800000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "6d4500f3-b3a6-4eb4-8d07-7e7d0d9c7426": {
+            "form": "rectangle",
+            "layer": 30,
+            "parameter_class": "",
+            "params": [
+                1450000,
+                1450000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    925000,
+                    -925000
+                ]
+            }
+        },
+        "83abf764-c1fa-4518-b442-ec734122f6e2": {
+            "form": "rectangle",
+            "layer": 30,
+            "parameter_class": "",
+            "params": [
+                1450000,
+                1450000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    925000,
+                    925000
+                ]
+            }
+        },
+        "8e32f19f-b743-4851-8be1-2a20d106f00d": {
+            "form": "rectangle",
+            "layer": 30,
+            "parameter_class": "",
+            "params": [
+                1450000,
+                1450000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -925000,
+                    -925000
+                ]
+            }
+        },
+        "f771e26e-9849-4505-b208-78271901a5eb": {
+            "form": "rectangle",
+            "layer": 0,
+            "parameter_class": "",
+            "params": [
+                3700000,
+                3700000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        }
+    },
+    "type": "padstack",
+    "uuid": "4506f2d8-f01b-46be-a5b7-f3379e555be7",
+    "well_known_name": ""
+}

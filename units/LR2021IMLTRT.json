@@ -1,0 +1,206 @@
+{
+    "manufacturer": "Semtech",
+    "name": "LR2021",
+    "pins": {
+        "02e194a1-2e33-4c38-8573-6fa02662701c": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VTCXO/VNTC",
+            "swap_group": 0
+        },
+        "0c419d15-00b5-49d6-8705-ba2e015e84d3": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "LXA",
+            "swap_group": 0
+        },
+        "0fe2b8ac-398f-44ed-a811-10cf3cb513f8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RFI_HF",
+            "swap_group": 0
+        },
+        "16a8ccfa-1d6c-433a-a40e-8790e054efe9": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DIO7",
+            "swap_group": 0
+        },
+        "1f67146b-42e6-4e9d-befd-8f6406a31fb7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RFI_LF",
+            "swap_group": 0
+        },
+        "2d5a197d-61f0-4253-80c7-db36a5d3da95": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "BUSY",
+            "swap_group": 0
+        },
+        "32e3d3ae-4d09-4232-9843-5f6da07ae527": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VDCC1",
+            "swap_group": 0
+        },
+        "552267eb-66e6-49ef-a880-64a0bb7f5db0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "598d556b-e551-4010-a44b-c26bf0be1a73": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NRESET",
+            "swap_group": 0
+        },
+        "6165b608-3c78-4bd8-9ab3-a50f1879cc1b": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VPAX1",
+            "swap_group": 0
+        },
+        "74d28164-2fd5-44de-a0e0-8fcad37888fa": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VBAT",
+            "swap_group": 0
+        },
+        "7827ecd9-492f-4c69-989d-fc8d6da5b567": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND_DCC",
+            "swap_group": 0
+        },
+        "787f800b-aef0-41eb-910e-c6c34682c02d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DIO9",
+            "swap_group": 0
+        },
+        "83447157-8bae-48c6-a402-7b29767cab81": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VR_PA",
+            "swap_group": 0
+        },
+        "96165f29-5c90-4f37-910c-a8b8839b0116": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "RFO_HF",
+            "swap_group": 0
+        },
+        "a174db3f-1498-42e7-aa1d-56da26da4886": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MOSI",
+            "swap_group": 0
+        },
+        "a79a30aa-2414-4d0b-b57a-823eeaeb6b51": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DIO5",
+            "swap_group": 0
+        },
+        "ab9c8b11-46eb-4179-8078-aaafea846e89": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "XTB",
+            "swap_group": 0
+        },
+        "c2a8ac99-ccec-4256-9cfa-b0525df0c667": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NSS",
+            "swap_group": 0
+        },
+        "c3760b03-c1b1-47db-b274-7202306bcc5b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "LXB",
+            "swap_group": 0
+        },
+        "c57c8dc7-8063-4ec5-a3e3-1a97e359e2ec": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MISO",
+            "swap_group": 0
+        },
+        "c8be148d-3ea8-4524-93a8-79422944c49a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDCC2",
+            "swap_group": 0
+        },
+        "cab4e59a-de6a-4bb4-b764-1a87fa2e7805": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NTC",
+            "swap_group": 0
+        },
+        "cdc0d875-3be6-409b-9e69-b8f01f49d1bd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND_EP",
+            "swap_group": 0
+        },
+        "cf06aa83-2e25-4717-8ed5-7712a08edb2b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DIO10",
+            "swap_group": 0
+        },
+        "d246561f-0415-478b-835f-20365e181ca9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "XTA",
+            "swap_group": 0
+        },
+        "d567d334-9718-4c1c-afa5-775be6054478": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DIO8",
+            "swap_group": 0
+        },
+        "e2a7fce2-a95c-4ece-93aa-6de48f6f4e3d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DIO11",
+            "swap_group": 0
+        },
+        "ea948f00-e5b9-417e-bf11-5babfe7d93d9": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "RFO_LF1",
+            "swap_group": 0
+        },
+        "f010dccf-b3bd-480a-ba1f-c55dd61a3948": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCK",
+            "swap_group": 0
+        },
+        "fa83c60c-57fa-404f-a716-2d35b29eea9c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VPAX2",
+            "swap_group": 0
+        },
+        "fca7e0e4-283f-48f7-a5f1-54c0ffaee35e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DIO6",
+            "swap_group": 0
+        },
+        "fd028c30-7a07-4f64-9001-58d580bdf36c": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "RFO_LF2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "7fefa3aa-aaac-4fa5-995f-aefbcbb79b7a"
+}

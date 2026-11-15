@@ -1,0 +1,173 @@
+{
+    "MPN": [
+        false,
+        "LR2021IMLTRT"
+    ],
+    "datasheet": [
+        false,
+        "https://semtech.my.salesforce.com/sfc/p/E0000000JelG/a/RQ00000EZ5fu/L1sOvqDN_QMyCWYAAychIL5ygPsQw1AEq7xzcvpGNZg"
+    ],
+    "description": [
+        false,
+        "LoRa Plus dual-band sub-GHz / 2.4 GHz multi-protocol RF transceiver with SPI, LoRa/FLRC/FSK and integrated SIMO converter; QFN-32 5x5 mm, exposed ground pad 0. Connect VDCC1 to VDCC2, VPAX1 to VPAX2, and all ground pads to the system ground plane."
+    ],
+    "entity": "d7a6e67f-ca87-4bbe-a861-301bae918965",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Semtech"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "d78b18a7-96f2-4f58-a682-75a7e7daaef2": "C49421489"
+    },
+    "package": "81ff9778-c93c-4a96-8fc8-a49c5e13520b",
+    "pad_map": {
+        "03b069da-cfef-45c2-8b52-427fde24912a": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "0c419d15-00b5-49d6-8705-ba2e015e84d3"
+        },
+        "09863e99-c0f4-461e-866e-6634ff42c085": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "c57c8dc7-8063-4ec5-a3e3-1a97e359e2ec"
+        },
+        "0ac6979f-3422-437a-9736-dcdf082822e4": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "a174db3f-1498-42e7-aa1d-56da26da4886"
+        },
+        "0f0171a2-3f76-4793-a8f9-56a7ba4fd447": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "74d28164-2fd5-44de-a0e0-8fcad37888fa"
+        },
+        "19d4f802-f147-4dbd-bbfd-8dfccfa46de4": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "0fe2b8ac-398f-44ed-a811-10cf3cb513f8"
+        },
+        "1c5f6927-c001-44ef-976d-5ae11d0cf8c4": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "ab9c8b11-46eb-4179-8078-aaafea846e89"
+        },
+        "232ca61e-e92f-4923-9034-3015a2ff39fc": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "a79a30aa-2414-4d0b-b57a-823eeaeb6b51"
+        },
+        "339684e2-997b-4b17-8fb4-db99a486380e": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "f010dccf-b3bd-480a-ba1f-c55dd61a3948"
+        },
+        "3ac7cb51-abbe-410a-b70f-82f031fd8328": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "d567d334-9718-4c1c-afa5-775be6054478"
+        },
+        "48ddffc0-c223-4f42-ac1b-f83dde6d6cdc": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "83447157-8bae-48c6-a402-7b29767cab81"
+        },
+        "4abc0a06-fd80-4807-87c1-083bb11e7023": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "32e3d3ae-4d09-4232-9843-5f6da07ae527"
+        },
+        "50e73f7c-0d5e-4fb9-98fc-d43d8911d12a": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "1f67146b-42e6-4e9d-befd-8f6406a31fb7"
+        },
+        "611c0995-496f-42e4-a8f5-6e48a80ec2aa": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "fa83c60c-57fa-404f-a716-2d35b29eea9c"
+        },
+        "66d78555-c807-44f0-90b8-65ae14a0d005": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "02e194a1-2e33-4c38-8573-6fa02662701c"
+        },
+        "69df45f2-6548-487e-94e5-06229f0f979c": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "c2a8ac99-ccec-4256-9cfa-b0525df0c667"
+        },
+        "730cd74b-3d2c-4ee2-8eb9-063325797143": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "cf06aa83-2e25-4717-8ed5-7712a08edb2b"
+        },
+        "7388bbcd-46da-4d16-abab-ca69a0ca3861": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "d246561f-0415-478b-835f-20365e181ca9"
+        },
+        "8d355a02-f440-4a1a-b444-0ddeda9344e2": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "cdc0d875-3be6-409b-9e69-b8f01f49d1bd"
+        },
+        "a01d8749-4ac8-41f8-8b30-bb4e557f9836": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "c3760b03-c1b1-47db-b274-7202306bcc5b"
+        },
+        "a8807f8b-fba6-461b-9f37-4f6372869010": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "cab4e59a-de6a-4bb4-b764-1a87fa2e7805"
+        },
+        "b110667e-58fc-4057-b778-c55f2beb5382": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "c8be148d-3ea8-4524-93a8-79422944c49a"
+        },
+        "c42de27a-679a-4b2c-8567-84c214b49ac5": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "7827ecd9-492f-4c69-989d-fc8d6da5b567"
+        },
+        "d4dc1f42-1243-4ad9-a843-190e54224a1d": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "2d5a197d-61f0-4253-80c7-db36a5d3da95"
+        },
+        "db1dc0e6-7a02-4e1a-8f69-d33bc13c701b": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "e2a7fce2-a95c-4ece-93aa-6de48f6f4e3d"
+        },
+        "deda9263-b4eb-4c72-8463-16159a391105": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "fca7e0e4-283f-48f7-a5f1-54c0ffaee35e"
+        },
+        "e1ee2f90-c40a-4a66-9f00-d10b77807870": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "552267eb-66e6-49ef-a880-64a0bb7f5db0"
+        },
+        "e2e783f8-7822-4258-9abf-5918d5870fb7": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "fd028c30-7a07-4f64-9001-58d580bdf36c"
+        },
+        "e600dd4b-6cc1-4fc8-a471-78d86cfea5da": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "96165f29-5c90-4f37-910c-a8b8839b0116"
+        },
+        "e7fa52c5-e2da-4382-a128-9fe1c127feae": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "787f800b-aef0-41eb-910e-c6c34682c02d"
+        },
+        "ee1f61b1-8a10-4ef1-bef9-fa46d29aa729": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "598d556b-e551-4010-a44b-c26bf0be1a73"
+        },
+        "f70217e9-b779-4bb7-a026-152606ede5e0": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "ea948f00-e5b9-417e-bf11-5babfe7d93d9"
+        },
+        "f74edf91-fcbb-48e3-be5a-78ff65d2a241": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "6165b608-3c78-4bd8-9ab3-a50f1879cc1b"
+        },
+        "faf608be-ca3c-478b-a0a8-7abb6335426b": {
+            "gate": "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2",
+            "pin": "16a8ccfa-1d6c-433a-a40e-8790e054efe9"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "rf",
+        "lora",
+        "transceiver"
+    ],
+    "type": "part",
+    "uuid": "6cc91dd1-29fa-4d91-a1b9-a721340cf71c",
+    "value": [
+        false,
+        ""
+    ]
+}

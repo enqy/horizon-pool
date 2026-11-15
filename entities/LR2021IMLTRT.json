@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "462b66f8-d2d8-45ba-a1e4-0c33a6f4fdb2": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "7fefa3aa-aaac-4fa5-995f-aefbcbb79b7a"
+        }
+    },
+    "manufacturer": "Semtech",
+    "name": "LR2021",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "rf",
+        "lora",
+        "transceiver"
+    ],
+    "type": "entity",
+    "uuid": "d7a6e67f-ca87-4bbe-a861-301bae918965"
+}

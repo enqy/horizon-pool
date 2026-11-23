@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "addbc677-a76a-4ddc-a692-e4224104c696": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "cfa47166-443d-4c22-99c8-895fcfc4ac59"
+        }
+    },
+    "manufacturer": "X-Powers",
+    "name": "AXP2101",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "pmic",
+        "battery-charger",
+        "power-management"
+    ],
+    "type": "entity",
+    "uuid": "94eddbd2-6200-4c4a-8fb7-5c8e19aa4843"
+}

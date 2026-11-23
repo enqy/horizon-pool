@@ -1,0 +1,205 @@
+{
+    "MPN": [
+        false,
+        "AXP2101"
+    ],
+    "datasheet": [
+        false,
+        "https://raw.githubusercontent.com/eggfly/AXP2101/main/AXP2101_Datasheet_V1.4.pdf"
+    ],
+    "description": [
+        false,
+        "Single-cell Li-ion/Li-polymer NVDC power-management IC with fuel gauge, 100 mA\u20131 A linear charger, five buck converters and eleven LDO outputs; TWSI/I2C or RSB control; QFN-40 5x5 mm, 0.4 mm pitch. Standard five-buck/linear-charger pinout per v1.4; exposed ground pad is mapped as pad 41."
+    ],
+    "entity": "94eddbd2-6200-4c4a-8fb7-5c8e19aa4843",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "X-Powers"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "8d5ad830-d05f-4029-9a51-1857570ed23e": "C3036461"
+    },
+    "package": "bcb5d459-0218-4471-af53-be06802e4fb8",
+    "pad_map": {
+        "00c136c2-537d-4ade-ba0f-b8ac8e3f09fd": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "722eed06-e712-4b57-ae19-55573ebe13eb"
+        },
+        "1d1c5522-0f62-4ad5-b671-f1cc4728f64e": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "6e80da36-0e23-4c6e-adcd-732046034c68"
+        },
+        "277e42ef-0c5c-4e9f-bf56-6f147bd247d5": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "761bbfaa-d3c9-40e8-aa8a-063a987c4a2a"
+        },
+        "30effa3a-1017-488e-8897-8c313f54ceb3": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "5db4d91a-f304-48cc-aba7-0845fd7ac3e4"
+        },
+        "337bd952-2bdf-4f13-b1cc-26dc8d5440f1": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "d2c56511-eb5d-4faa-a5f5-ce610dd7fd11"
+        },
+        "353fd5ea-d8d5-406c-b274-fc370059969e": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "26d6d167-6dfd-4e8b-ac04-d2cb7ec42698"
+        },
+        "3b1d97d3-962e-4454-9e8f-2c05f6d10af4": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "8b69c469-0652-40ea-98a1-173090d57b9b"
+        },
+        "3de962dc-998e-4e71-a885-1ff81391f00e": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "16e8bb41-2e41-4a5f-8acd-6494788c315c"
+        },
+        "4bce833e-757a-4493-b199-a9815b7df98d": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "556a0c35-f082-42dc-90d5-390ed1d8f38c"
+        },
+        "553eab0b-0e9a-48ea-a266-23f33ca0ba20": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "2d258da9-3d86-430a-9f3c-503d68261c77"
+        },
+        "5a0f39a0-425c-4389-92b7-a88364b102b9": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "178e53ee-d045-4c37-95bd-04ba985c8edc"
+        },
+        "6a3ea5ec-65b5-464c-9aa5-42231bb34c4c": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "1cdef625-93c2-46c3-b2d6-a2daf9139998"
+        },
+        "6b53801b-8873-428e-bb39-5d4acfe1ac80": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "597aee65-ed32-4369-a3fc-ce3054ca19e0"
+        },
+        "70b3ac40-1fb8-4929-8228-e91f7a2b2421": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "5f4e357d-60f1-421d-b1cd-2cabe4795d81"
+        },
+        "73250191-9d17-4167-8883-f6ab36534ade": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "0655fd93-e1e3-4880-8ba8-7dbdf722a5dd"
+        },
+        "7760154f-f680-4dc4-a2ba-9b5555973159": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "13de0d02-597c-4613-898b-06963dea7f9c"
+        },
+        "7f074583-2861-4917-af9d-c0324baad733": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "2ac7264c-00f3-4bf3-b459-b6781d3ddf18"
+        },
+        "80cc7cee-2310-4141-b0b6-d9e526f6353f": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "5edcd593-90f5-42be-b774-c82bc9f9175f"
+        },
+        "84a522ad-cde3-467c-97ad-6f065eb1062a": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "889701d8-1f76-4552-a502-0a38f568447c"
+        },
+        "863d5e30-f91a-4e8d-be77-f53307c889dc": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "eecd89c9-e6b2-4e2e-836d-c00096388dd6"
+        },
+        "88c0a2c3-4de3-4ad0-a332-9410af1dc328": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "2f394f2d-9cf4-473c-80a3-e258e54883eb"
+        },
+        "90a94e37-f959-4ac6-9b88-276bc7fac8de": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "4bb74829-5223-48a4-9600-96d16218cc0a"
+        },
+        "97bd97e5-cada-47f7-80fe-014cd1ebb9b2": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "6847fa68-0f2b-48e4-b694-0f63124138b8"
+        },
+        "a3b8237b-c056-4ac7-b7c5-d03db779424c": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "5a1d6263-ea13-42af-944a-a5b82bc6f86a"
+        },
+        "b2733074-73a1-4ddf-af5a-cb7b901487c3": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "c12b1468-c6f4-4fd1-9f08-d5804d483e60"
+        },
+        "b4f53530-cde8-4b43-a2f9-c70f983683fe": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "c776b30e-937b-4ae3-8039-145f662bc794"
+        },
+        "b705d890-1354-409d-945b-d63e4a9215c5": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "b3d59053-4e00-4166-a870-194758109e30"
+        },
+        "b7cbbe2e-d2e6-4b55-8e28-c72c57e88d01": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "f47a8330-080d-4001-b03f-33be29c826c2"
+        },
+        "cc0e9d69-9d24-4faa-b705-28f7e53b7f5d": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "25487619-9c75-4355-b2b7-667af744bce7"
+        },
+        "dd08cb14-318b-4fc8-a1f3-36a2f15371ef": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "bbd3eb6c-f566-4c68-99be-869cf5b70f05"
+        },
+        "ddfb0a66-a707-48b8-abea-f08ec6ba012b": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "aabb6a7e-6a49-4de6-ab57-bf177eacca4c"
+        },
+        "e35845cb-853c-4576-a899-c28aa707829f": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "d439ce7c-3b9f-46eb-a8b1-f2de995f0d3c"
+        },
+        "ece96c17-ba89-4e89-beaa-a4aaed05d497": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "fbe6d686-e14b-4851-8677-e7deb6224c0d"
+        },
+        "efed13e1-6913-4844-8a5a-9c053810e0b4": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "98048047-82c9-4536-b0d7-b5e9a6f95fa8"
+        },
+        "f080ce69-35e7-4dd9-87c6-1ea3235f2f12": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "5904d16b-b298-443e-8221-d2699659721b"
+        },
+        "f427955b-974f-4c89-9200-2352b06e51cf": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "a5549cc6-3ec2-4ca0-9277-31b03920b6d8"
+        },
+        "f7dc9946-1bd6-432a-99f0-6619d64b48df": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "29e585be-bd80-46b2-9d8e-d46b890a1cfe"
+        },
+        "f87f7a13-1668-4e98-8cd7-a41ef6c23fa6": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "c8ab4f85-6b29-410d-9807-f6c9c265ff17"
+        },
+        "fa4edbce-bba3-47ec-94a6-03283c3e1144": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "56df5cfc-9881-42d5-9b69-77e50027793b"
+        },
+        "fbb39e26-707a-453a-a77f-a95502fbf87d": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "71ac85ad-7c15-4174-ab9e-08b043692ecd"
+        },
+        "fed70982-8d0a-4283-8c90-c4a11fa48d4c": {
+            "gate": "addbc677-a76a-4ddc-a692-e4224104c696",
+            "pin": "77c5d49b-f0cf-4a9e-a69d-4bd3ee7faff2"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "pmic",
+        "battery-charger",
+        "power-management"
+    ],
+    "type": "part",
+    "uuid": "00492dc0-5d97-4d66-a1cf-74ea19a7aff5",
+    "value": [
+        false,
+        ""
+    ]
+}

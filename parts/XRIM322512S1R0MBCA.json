@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "XRIM322512S1R0MBCA"
+    ],
+    "datasheet": [
+        false,
+        "https://www.lcsc.com/datasheet/C22471128.pdf"
+    ],
+    "description": [
+        false,
+        "1 uH \u00b120% molded power inductor; 26 mOhm typical / 30 mOhm maximum DCR. Datasheet Irms 5.3/4.8 A and Isat 6.6/5.8 A (Typical/Max columns); 3.2x2.5 mm, 1.2 mm maximum height, nonpolarized."
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "XR (Dongguan Xiangru Electronics)"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "ad9579a9-555c-496e-aebd-536b53a49544": "C22471128"
+    },
+    "package": "ef798ad6-7dd2-4894-947c-4d0dd98fa1d2",
+    "pad_map": {
+        "06d501c0-230c-444d-a510-a71d769eae18": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "409fca13-9c7e-4c4f-b5a6-8150f8cce20d": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "inductor",
+        "passive",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "8cf468d8-a180-42f4-9495-a73b02d05557",
+    "value": [
+        false,
+        "1uH"
+    ]
+}

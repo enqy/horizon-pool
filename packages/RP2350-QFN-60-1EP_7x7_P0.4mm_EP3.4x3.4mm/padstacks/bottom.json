@@ -1,0 +1,227 @@
+{
+    "holes": {},
+    "name": "RP2350 bottom lead with official reference paste",
+    "padstack_type": "top",
+    "parameter_program": "",
+    "parameter_set": {},
+    "parameters_required": [],
+    "polygons": {},
+    "shapes": {
+        "d38936cb-5776-4085-a02d-37f775aeb60f": {
+            "form": "rectangle",
+            "layer": 0,
+            "parameter_class": "",
+            "params": [
+                100000,
+                875000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "d735c5ae-5b61-4b9d-8af8-aea518ca480b": {
+            "form": "rectangle",
+            "layer": 0,
+            "parameter_class": "",
+            "params": [
+                200000,
+                775000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "f12fded2-8456-4e77-882f-efe783ac10e1": {
+            "form": "circle",
+            "layer": 0,
+            "parameter_class": "",
+            "params": [
+                100000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -50000,
+                    -387500
+                ]
+            }
+        },
+        "e6216b81-667f-49cf-a64c-edd61b24c8e0": {
+            "form": "circle",
+            "layer": 0,
+            "parameter_class": "",
+            "params": [
+                100000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -50000,
+                    387500
+                ]
+            }
+        },
+        "be823765-3d12-433c-a287-22a5ef5cc8fa": {
+            "form": "circle",
+            "layer": 0,
+            "parameter_class": "",
+            "params": [
+                100000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    50000,
+                    -387500
+                ]
+            }
+        },
+        "05895753-bc39-46ec-b1ff-f16b16b168f0": {
+            "form": "circle",
+            "layer": 0,
+            "parameter_class": "",
+            "params": [
+                100000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    50000,
+                    387500
+                ]
+            }
+        },
+        "4cbc5fc9-85f9-4975-a6c5-782db36fcec0": {
+            "form": "rectangle",
+            "layer": 10,
+            "parameter_class": "",
+            "params": [
+                100000,
+                1075000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "9c875553-da6b-4b62-b515-ff3baa80050a": {
+            "form": "rectangle",
+            "layer": 10,
+            "parameter_class": "",
+            "params": [
+                400000,
+                775000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "8bfdbf1b-4a97-44e5-aaa1-92ec5170664a": {
+            "form": "circle",
+            "layer": 10,
+            "parameter_class": "",
+            "params": [
+                300000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -50000,
+                    -387500
+                ]
+            }
+        },
+        "5b181577-20ba-4616-ae2b-7300c587aa1c": {
+            "form": "circle",
+            "layer": 10,
+            "parameter_class": "",
+            "params": [
+                300000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -50000,
+                    387500
+                ]
+            }
+        },
+        "46395af7-5bd0-4650-8877-99e4bc226909": {
+            "form": "circle",
+            "layer": 10,
+            "parameter_class": "",
+            "params": [
+                300000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    50000,
+                    -387500
+                ]
+            }
+        },
+        "c895fad2-7d7e-4e09-94b6-a830c30f95a5": {
+            "form": "circle",
+            "layer": 10,
+            "parameter_class": "",
+            "params": [
+                300000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    50000,
+                    387500
+                ]
+            }
+        },
+        "c0d5a194-3dc6-4e42-87d6-725b8ad00ad1": {
+            "form": "rectangle",
+            "layer": 30,
+            "parameter_class": "",
+            "params": [
+                230000,
+                700000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    -12500
+                ]
+            }
+        }
+    },
+    "type": "padstack",
+    "uuid": "683535f7-85ed-4dc8-9158-4123c44ee427",
+    "well_known_name": ""
+}

@@ -1,0 +1,73 @@
+{
+    "MPN": [
+        false,
+        "TPS631000DRLR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/tps631000.pdf"
+    ],
+    "description": [
+        false,
+        "Adjustable buck-boost converter; 1.6\u20135.5 V input (startup above 1.65 V), 1.2\u20135.3 V output, 3 A peak switch current. EN enables the device; MODE low selects power-save and high selects forced PWM. EN and MODE must not float. SOT-5X3 DRL-8 with no exposed pad."
+    ],
+    "entity": "6bc3fb56-bcfc-4b57-ac0f-efb89ed2b100",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "064f1772-4785-4c54-a210-1f8820e3444f": "C5219190"
+    },
+    "package": "b7d7883f-acbe-402a-bda8-65fbcc3a9de4",
+    "pad_map": {
+        "03f886b1-9e18-4aeb-aa03-dedb23665cf3": {
+            "gate": "29d47ce7-8bf1-425e-aec0-96094020c374",
+            "pin": "7aed663b-9bbf-447b-b6aa-8f6eb34279c0"
+        },
+        "33012f07-761a-4f20-a8bf-89d7495935a2": {
+            "gate": "29d47ce7-8bf1-425e-aec0-96094020c374",
+            "pin": "236e18a5-09a9-45b0-9b70-8a51edaa269f"
+        },
+        "61946e63-9bf8-4d1a-a014-e92ac229e846": {
+            "gate": "29d47ce7-8bf1-425e-aec0-96094020c374",
+            "pin": "c87a874a-c671-44f3-ad8d-808ea528adf9"
+        },
+        "877e4322-baeb-478f-8d12-b55a73742d15": {
+            "gate": "29d47ce7-8bf1-425e-aec0-96094020c374",
+            "pin": "bc1b06d9-fa5d-4d79-b62a-6a0ddd2817d4"
+        },
+        "a1b4f66c-61c7-44b9-b535-4762a2a5abe1": {
+            "gate": "29d47ce7-8bf1-425e-aec0-96094020c374",
+            "pin": "86796f69-346e-4fc4-b0ab-9b59d5250cd3"
+        },
+        "b3b7a49a-1cb6-4e18-a6c2-017d17967aa1": {
+            "gate": "29d47ce7-8bf1-425e-aec0-96094020c374",
+            "pin": "e0a7d78a-e963-4de1-99a6-411707d3502d"
+        },
+        "b4604e9d-f8f4-4089-8358-94ca3499cdd8": {
+            "gate": "29d47ce7-8bf1-425e-aec0-96094020c374",
+            "pin": "7d285aa3-56fd-4056-b332-d1a2ea38e0d8"
+        },
+        "cef0c4c0-0272-4c33-aff9-af3d6f1e2734": {
+            "gate": "29d47ce7-8bf1-425e-aec0-96094020c374",
+            "pin": "a83e5853-a876-473f-828b-273860879b54"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "buck-boost",
+        "dc-dc",
+        "voltage-regulator"
+    ],
+    "type": "part",
+    "uuid": "52668368-106d-44a2-94b6-26dc4f228f65",
+    "value": [
+        false,
+        ""
+    ]
+}

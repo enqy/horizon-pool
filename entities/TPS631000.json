@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "29d47ce7-8bf1-425e-aec0-96094020c374": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "ac252dd4-f9dd-4198-b9de-ce8c4325fd44"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "TPS631000",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "buck-boost",
+        "dc-dc",
+        "voltage-regulator"
+    ],
+    "type": "entity",
+    "uuid": "6bc3fb56-bcfc-4b57-ac0f-efb89ed2b100"
+}

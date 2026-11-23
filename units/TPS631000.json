@@ -1,0 +1,56 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "TPS631000",
+    "pins": {
+        "236e18a5-09a9-45b0-9b70-8a51edaa269f": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "LX2",
+            "swap_group": 0
+        },
+        "7aed663b-9bbf-447b-b6aa-8f6eb34279c0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VIN",
+            "swap_group": 0
+        },
+        "7d285aa3-56fd-4056-b332-d1a2ea38e0d8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "86796f69-346e-4fc4-b0ab-9b59d5250cd3": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "FB",
+            "swap_group": 0
+        },
+        "a83e5853-a876-473f-828b-273860879b54": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "bc1b06d9-fa5d-4d79-b62a-6a0ddd2817d4": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "LX1",
+            "swap_group": 0
+        },
+        "c87a874a-c671-44f3-ad8d-808ea528adf9": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MODE",
+            "swap_group": 0
+        },
+        "e0a7d78a-e963-4de1-99a6-411707d3502d": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VOUT",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "ac252dd4-f9dd-4198-b9de-ce8c4325fd44"
+}

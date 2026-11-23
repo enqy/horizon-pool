@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "FTC404020S4R7MGCA"
+    ],
+    "datasheet": [
+        false,
+        "https://www.lcsc.com/datasheet/C39676072.pdf"
+    ],
+    "description": [
+        false,
+        "4.7 uH \u00b120% molded power inductor, gray coating; 47 mOhm typical / 58 mOhm maximum DCR. Catalog Irms 5.0/4.0 A and Isat 6.3/5.5 A (Typical/Max columns); FTC404020S 4.1x4.1 mm, 2.0 mm maximum height."
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "cjiang (Changjiang Microelectronics Tech)"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "5a167e70-d917-45c3-bc7a-b27e99f73f92": "C39676072"
+    },
+    "package": "cb2ab109-3f83-4563-874e-a4158093f66b",
+    "pad_map": {
+        "c79413d8-f056-4fc6-8ed2-d1b45c4ac35e": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "0c516349-35fa-4d6e-849f-da7b865b2fd7": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "inductor",
+        "passive",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "9021ff30-c203-41ae-aba3-303179a9b4d6",
+    "value": [
+        false,
+        "4.7uH"
+    ]
+}

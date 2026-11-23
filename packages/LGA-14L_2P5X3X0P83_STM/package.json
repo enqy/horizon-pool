@@ -803,15 +803,16 @@
             "name": "4",
             "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
             "parameter_set": {
-                "pad_height": 576580,
-                "pad_width": 351536
+                "pad_height": 575000,
+                "pad_width": 349000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 16384,
                 "mirror": false,
                 "shift": [
                     -1210300,
-                    -750001
+                    -750000
                 ]
             }
         },
@@ -819,14 +820,15 @@
             "name": "12",
             "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
             "parameter_set": {
-                "pad_height": 576580,
-                "pad_width": 351536
+                "pad_height": 575000,
+                "pad_width": 349000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    499999,
+                    500000,
                     956300
                 ]
             }
@@ -835,14 +837,15 @@
             "name": "5",
             "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
             "parameter_set": {
-                "pad_height": 576580,
-                "pad_width": 351536
+                "pad_height": 575000,
+                "pad_width": 349000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -499999,
+                    -500000,
                     -956300
                 ]
             }
@@ -851,8 +854,9 @@
             "name": "6",
             "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
             "parameter_set": {
-                "pad_height": 576580,
-                "pad_width": 351536
+                "pad_height": 575000,
+                "pad_width": 349000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 0,
@@ -867,15 +871,16 @@
             "name": "11",
             "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
             "parameter_set": {
-                "pad_height": 576580,
-                "pad_width": 351536
+                "pad_height": 575000,
+                "pad_width": 349000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 16384,
                 "mirror": false,
                 "shift": [
                     1210300,
-                    750001
+                    750000
                 ]
             }
         },
@@ -883,8 +888,9 @@
             "name": "2",
             "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
             "parameter_set": {
-                "pad_height": 576580,
-                "pad_width": 351536
+                "pad_height": 575000,
+                "pad_width": 349000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 16384,
@@ -899,14 +905,15 @@
             "name": "7",
             "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
             "parameter_set": {
-                "pad_height": 576580,
-                "pad_width": 351536
+                "pad_height": 575000,
+                "pad_width": 349000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    499999,
+                    500000,
                     -956300
                 ]
             }
@@ -915,15 +922,16 @@
             "name": "1",
             "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
             "parameter_set": {
-                "pad_height": 576580,
-                "pad_width": 351536
+                "pad_height": 575000,
+                "pad_width": 349000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 16384,
                 "mirror": false,
                 "shift": [
                     -1210300,
-                    750001
+                    750000
                 ]
             }
         },
@@ -931,8 +939,9 @@
             "name": "10",
             "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
             "parameter_set": {
-                "pad_height": 576580,
-                "pad_width": 351536
+                "pad_height": 575000,
+                "pad_width": 349000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 16384,
@@ -947,8 +956,9 @@
             "name": "13",
             "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
             "parameter_set": {
-                "pad_height": 576580,
-                "pad_width": 351536
+                "pad_height": 575000,
+                "pad_width": 349000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 0,
@@ -963,8 +973,9 @@
             "name": "3",
             "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
             "parameter_set": {
-                "pad_height": 576580,
-                "pad_width": 351536
+                "pad_height": 575000,
+                "pad_width": 349000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 16384,
@@ -979,14 +990,15 @@
             "name": "14",
             "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
             "parameter_set": {
-                "pad_height": 576580,
-                "pad_width": 351536
+                "pad_height": 575000,
+                "pad_width": 349000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -499999,
+                    -500000,
                     956300
                 ]
             }
@@ -995,8 +1007,9 @@
             "name": "9",
             "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
             "parameter_set": {
-                "pad_height": 576580,
-                "pad_width": 351536
+                "pad_height": 575000,
+                "pad_width": 349000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 16384,
@@ -1011,15 +1024,16 @@
             "name": "8",
             "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
             "parameter_set": {
-                "pad_height": 576580,
-                "pad_width": 351536
+                "pad_height": 575000,
+                "pad_width": 349000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 16384,
                 "mirror": false,
                 "shift": [
                     1210300,
-                    -750001
+                    -750000
                 ]
             }
         }

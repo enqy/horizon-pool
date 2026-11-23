@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "ASR-M-3-0.25F"
+    ],
+    "datasheet": [
+        false,
+        "https://www.lcsc.com/datasheet/C495759.pdf"
+    ],
+    "description": [
+        false,
+        "0.25 mOhm \u00b11%, 6 W manganin alloy current-sense shunt, \u00b1175 ppm/\u00b0C (supplier exact-part rating), two-terminal 2512, 6.3x3.1 mm. Manufacturer ASR-series recommended land pattern. STEP metal thickness and overall height are visualization estimates; exact 0.25 mOhm thickness is not listed in linked datasheet."
+    ],
+    "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Yezhan (Shenzhen Yezhan Electronics)"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "1cf8286e-5fac-422e-a48d-5aa86dc7e61d": "C495759"
+    },
+    "package": "4df8f11b-48bd-4900-a601-80cf55876bbf",
+    "pad_map": {
+        "5953862d-8bc4-4353-8ac2-6d2c2877f904": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "1d5a4042-1c19-42af-98f0-f4c6de9d20b9": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "resistor",
+        "current-sense",
+        "shunt",
+        "2512"
+    ],
+    "type": "part",
+    "uuid": "8b0d1738-e92c-41e9-a98b-d6cd948c88c5",
+    "value": [
+        false,
+        "0.25m"
+    ]
+}
